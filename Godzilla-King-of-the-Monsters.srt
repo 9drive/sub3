@@ -9,7306 +9,6478 @@
 <font color="#80ff80"><b>Please Don't Delete Credit !!!</b></font>
 
 3
-00:00:45,869 --> 00:00:47,924
+00:00:43,869 --> 00:00:45,924
 <i>Andrew!</i>
 
 4
-00:00:45,500 --> 00:00:50,621
+00:00:43,500 --> 00:00:48,621
 {\an1}<font color="#00ff00"><b>San Francisco 2014</b></font>
 
 5
-00:00:50,890 --> 00:00:53,109
+00:00:48,890 --> 00:00:51,109
 <i>Andrew!</i>
 
 6
-00:00:57,398 --> 00:00:59,460
+00:00:55,398 --> 00:00:57,460
 <i>Andrew!</i>
 
 7
-00:01:05,134 --> 00:01:08,101
+00:01:03,134 --> 00:01:06,101
 Andrew!
 
 8
-00:01:39,807 --> 00:01:42,198
+00:01:37,307 --> 00:01:39,698
 <i>Ribuan orang berkumpul
 di Bay Area tadi malam</i>
 
 9
-00:01:42,223 --> 00:01:45,300
+00:01:39,723 --> 00:01:42,800
 <i>untuk menghormati
 para korban serangan 2014.</i>
 
 10
-00:01:45,440 --> 00:01:48,339
+00:01:42,940 --> 00:01:45,839
 <i>Bagian dari kerumunan
 peringatan dan protes</i>
 
 11
-00:01:48,479 --> 00:01:51,416
+00:01:45,979 --> 00:01:48,916
 <i>menuntut koalisi perburuan
 monster rahasia</i>
 
 12
-00:01:51,495 --> 00:01:54,080
+00:01:48,995 --> 00:01:51,580
 <i>yang dikenal sebagai Monarch
 untuk bertanggung jawab.</i>
 
 13
-00:01:54,354 --> 00:01:57,823
+00:01:51,854 --> 00:01:55,323
 <i>Lonjakan kematian massal
 baru-baru ini di lautan dunia</i>
 
 14
-00:01:57,848 --> 00:02:01,080
+00:01:55,348 --> 00:01:58,580
 <i>bisa disebabkan oleh upaya
 untuk mencari dan melacak Godzilla</i>
 
 15
-00:02:01,105 --> 00:02:03,237
+00:01:58,605 --> 00:02:00,737
 <i>yang belum terlihat dalam
 lebih dari lima tahun.</i>
 
 16
-00:02:03,449 --> 00:02:05,629
+00:02:00,949 --> 00:02:03,129
 <font color="#00ff00"><b>HARUSKAH PARA TITAN DI MUSNAHKAN?</b></font>
 
 <i>Para petinggi di organisasi
 Monarch yang misterius</i>
 
 17
-00:02:05,654 --> 00:02:08,223
+00:02:03,154 --> 00:02:05,723
 <font color="#00ff00"><b>HARUSKAH PARA TITAN DI MUSNAHKAN?</b></font>
 
 <i>akan menghadapi interogasi serius lainnya</i>
 
 18
-00:02:08,248 --> 00:02:10,942
+00:02:05,748 --> 00:02:08,442
 <i>karena pemerintah terus
 mendorong pemusnahan</i>
 
 19
-00:02:10,967 --> 00:02:12,441
+00:02:08,467 --> 00:02:09,941
 <i>dari para Titan.</i>
 
 20
-00:02:12,504 --> 00:02:15,589
+00:02:10,004 --> 00:02:13,089
 <i>Dan rumor terus muncul bahwa Monarch
 mungkin menyembunyikan lebih banyak makhluk</i>
 
 21
-00:02:15,629 --> 00:02:18,379
+00:02:13,129 --> 00:02:15,879
 <i>yang ditemukan sejak serangan tahun 2014.</i>
 
 22
-00:02:18,535 --> 00:02:21,973
+00:02:16,035 --> 00:02:19,473
 <i>Tragedi bersejarah yang mengubah dunia
 seperti yang kita tahu selamanya.</i>
 
 23
-00:02:22,040 --> 00:02:26,165
+00:02:19,540 --> 00:02:23,665
 <i>Hari dimana dunia menemukan
 bahwa monster itu nyata.</i>
 
 24
-00:02:35,617 --> 00:02:38,383
+00:02:33,117 --> 00:02:35,883
 <font color="#00ff00"><b>HAI MADISON,
 TAK PERNAH DENGAR KABAR DARIMU DALAM
 BEBERAPA BULAN INI. SEMOGA KAU BERSENANG-SENANG.</b></font>
 
 25
-00:02:38,385 --> 00:02:41,565
+00:02:35,885 --> 00:02:39,065
 <font color="#00ff00"><b>INI BEBERAPA FOTO SERIGALA YANG AYAH TELITI.
 BUKANKAH MEREKA LUCU? SALAM SAYANG DARI AYAH.</b></font>
 
 26
-00:02:48,685 --> 00:02:50,683
+00:02:46,185 --> 00:02:48,183
 <font color="#00ff00"><b>HEI AYAH,
 MAAF AKU TAK PERNAH MEMBALAS.
 AKU MERINDUKAN AYAH.</b></font>
 
 27
-00:02:50,685 --> 00:02:52,465
+00:02:48,185 --> 00:02:49,965
 <font color="#00ff00"><b>ADA YANG INGIN KUBICARAKAN DENGAN AYAH...</b></font>
 
 28
-00:02:55,785 --> 00:02:57,965
+00:02:53,285 --> 00:02:55,465
 <font color="#00ff00"><b>AKU MULAI KHAWATIR DENGAN IBU</b></font>
 
 29
-00:02:59,745 --> 00:03:02,807
+00:02:57,245 --> 00:03:00,307
 Sial!
 
 30
-00:03:04,024 --> 00:03:05,453
+00:03:01,524 --> 00:03:02,953
 - Eh...
 - Maddie?
 
 31
-00:03:05,610 --> 00:03:06,952
+00:03:03,110 --> 00:03:04,452
 Selamat pagi!
 
 32
-00:03:07,063 --> 00:03:08,438
+00:03:04,563 --> 00:03:05,938
 - Selamat pagi, Bu!
 - Astaga.
 
 33
-00:03:11,961 --> 00:03:13,875
+00:03:09,461 --> 00:03:11,375
 Aku membuatkan sarapan untuk kita.
 
 34
-00:03:14,610 --> 00:03:16,196
+00:03:12,110 --> 00:03:13,696
 Itu, eh...
 
 35
-00:03:16,313 --> 00:03:19,532
+00:03:13,813 --> 00:03:17,032
 ...telur, roti bakar dan
 seperti biasa... daging asap ham.
 
 36
-00:03:21,125 --> 00:03:22,735
+00:03:18,625 --> 00:03:20,235
 Dan yang mana yang kau rekomendasikan?
 
 37
-00:03:22,774 --> 00:03:24,485
+00:03:20,274 --> 00:03:21,985
 Roti bakar lapis telur.
 
 38
-00:03:25,250 --> 00:03:26,414
+00:03:22,750 --> 00:03:23,914
 Terima kasih.
 
 39
-00:03:29,782 --> 00:03:30,946
+00:03:27,282 --> 00:03:28,446
 Kopi?
 
 40
-00:03:34,945 --> 00:03:36,217
+00:03:32,445 --> 00:03:33,717
 Apa yang sedang kau kerjakan?
 
 41
-00:03:36,242 --> 00:03:38,390
+00:03:33,742 --> 00:03:35,890
 Aku mencari resep.
 
 42
-00:03:39,140 --> 00:03:40,413
+00:03:36,640 --> 00:03:37,913
 Untuk roti bakar?
 
 43
-00:03:43,586 --> 00:03:45,602
+00:03:41,086 --> 00:03:43,102
 Ayah mengirimi aku surel.
 
 44
-00:03:46,055 --> 00:03:48,297
+00:03:43,555 --> 00:03:45,797
 Tapi Ayah terlihat baik... sehat.
 
 45
-00:03:51,100 --> 00:03:53,326
+00:03:48,600 --> 00:03:50,826
 - Sudahkah kau merespon?
 - Belum.
 
 46
-00:03:53,711 --> 00:03:55,359
+00:03:51,211 --> 00:03:52,859
 Madison, Ibu hanya tidak
 ingin melihatmu terluka.
 
 47
-00:03:55,384 --> 00:03:56,384
+00:03:52,884 --> 00:03:53,884
 Aku tahu.
 
 48
-00:03:56,409 --> 00:03:57,935
+00:03:53,909 --> 00:03:55,435
 Apalagi dengan semua yang
 sedang terjadi saat ini...
 
 49
-00:03:57,960 --> 00:03:59,132
+00:03:55,460 --> 00:03:56,632
 Ibu, aku tahu.
 
 50
-00:04:04,147 --> 00:04:06,577
+00:04:01,647 --> 00:04:04,077
 Dengar, Ibu tahu segalanya tidak mudah bagimu.
 
 51
-00:04:07,819 --> 00:04:11,421
+00:04:05,319 --> 00:04:08,921
 Tapi kita akan melewati ini... bersama.
 
 52
-00:04:11,608 --> 00:04:13,428
+00:04:09,108 --> 00:04:10,928
 Ibu yakin Ayah akan baik-baik saja?
 
 53
-00:04:13,874 --> 00:04:16,936
+00:04:11,374 --> 00:04:14,436
 Ayah berada di tempat teraman
 yang di rasa tepat sekarang.
 
 54
-00:04:19,457 --> 00:04:21,129
+00:04:16,957 --> 00:04:18,629
 Ingin mendengar kabar baik?
 
 55
-00:04:22,855 --> 00:04:24,143
+00:04:20,355 --> 00:04:21,643
 Ibu menyelesaikannya.
 
 56
-00:04:24,674 --> 00:04:25,955
+00:04:22,174 --> 00:04:23,455
 Sungguh?
 
 57
-00:04:28,604 --> 00:04:30,269
+00:04:26,104 --> 00:04:27,769
 Ibu pikir ini akan berhasil?
 
 58
-00:04:30,698 --> 00:04:32,276
+00:04:28,198 --> 00:04:29,776
 Ini akan berhasil.
 
 59
-00:04:54,550 --> 00:04:56,035
+00:04:52,050 --> 00:04:53,535
 Ini akan baik-baik saja.
 
 60
-00:04:57,855 --> 00:05:00,644
+00:04:55,355 --> 00:04:58,144
 <i>Dr. Russell, kami membutuhkanmu
 di tempat pengurungan.</i>
 
 61
-00:05:02,007 --> 00:05:03,382
+00:04:59,507 --> 00:05:00,882
 Aku dalam perjalanan.
 
 62
-00:05:10,403 --> 00:05:15,333
+00:05:07,903 --> 00:05:12,833
 {\an1}<font color="#00ff00"><b>POS TERDEPAN MONARCH 61
 HUTAN HUJAN YUNNAN, TIONGKOK.</b></font>
 
 63
-00:05:15,917 --> 00:05:17,855
+00:05:13,417 --> 00:05:15,355
 - Apa yang terjadi?
 - Entahlah.
 
 64
-00:05:17,880 --> 00:05:19,778
+00:05:15,380 --> 00:05:17,278
 Dia tidur seperti bayi
 sampai satu jam yang lalu
 
 65
-00:05:19,841 --> 00:05:21,958
+00:05:17,341 --> 00:05:19,458
 dan kemudian boom!
 Tingkat radiasi naik drastis.
 
 66
-00:05:22,083 --> 00:05:23,701
+00:05:19,583 --> 00:05:21,201
 Seperti ada sesuatu yang memicu itu.
 
 67
-00:05:23,778 --> 00:05:24,919
+00:05:21,278 --> 00:05:22,419
 Terima kasih, Tim.
 
 68
-00:05:24,944 --> 00:05:26,966
+00:05:22,444 --> 00:05:24,466
 Kau tahu, aku bisa ambil alih dari
 sini. Kenapa kau tidak istirahat saja?
 
 69
-00:05:26,991 --> 00:05:30,045
+00:05:24,491 --> 00:05:27,545
 Tidak mungkin. Tidur atau tidak,
 aku tidak akan melewatkan ini.
 
 70
-00:05:44,352 --> 00:05:46,953
+00:05:41,852 --> 00:05:44,453
 <i>Tim penahanan, pindah ke posisi utama.</i>
 
 71
-00:05:48,584 --> 00:05:49,732
+00:05:46,084 --> 00:05:47,232
 Obat penenang?
 
 72
-00:05:49,757 --> 00:05:52,295
+00:05:47,257 --> 00:05:49,795
 Tidak berpengaruh. Sesuatu ingin dilahirkan.
 
 73
-00:05:55,076 --> 00:05:57,692
+00:05:52,576 --> 00:05:55,192
 <i>Protokol darurat berlaku.</i>
 
 74
-00:05:57,717 --> 00:05:59,412
+00:05:55,217 --> 00:05:56,912
 <i>Dua untuk mengatasi tim utama.</i>
 
 75
-00:05:59,460 --> 00:06:01,187
+00:05:56,960 --> 00:05:58,687
 Saatnya telah tiba.
 
 76
-00:06:13,000 --> 00:06:23,998
+00:06:10,500 --> 00:06:21,498
 <font color="#80ff80">Terjemahan oleh</font>
 <b>≡ <font color="#ff0000">Jack'D</font>22 ≡</b>
 
 77
-00:06:29,751 --> 00:06:31,696
+00:06:27,251 --> 00:06:29,196
 Temui Titanus mosura.
 
 78
-00:06:31,766 --> 00:06:33,195
+00:06:29,266 --> 00:06:30,695
 Atau seperti kita biasa memanggilnya...
 
 79
-00:06:33,258 --> 00:06:34,704
+00:06:30,758 --> 00:06:32,204
 Mothra.
 
 80
-00:06:34,892 --> 00:06:36,361
+00:06:32,392 --> 00:06:33,861
 Luar biasa.
 
 81
-00:06:36,470 --> 00:06:39,001
+00:06:33,970 --> 00:06:36,501
 <i>Aktifkan kisi penahanan.</i>
 
 82
-00:06:48,117 --> 00:06:49,453
+00:06:45,617 --> 00:06:46,953
 Apa yang terjadi?
 
 83
-00:06:53,445 --> 00:06:54,946
+00:06:50,945 --> 00:06:52,446
 Ada yang tak beres di sini.
 
 84
-00:06:54,971 --> 00:06:56,635
+00:06:52,471 --> 00:06:54,135
 Sistem penahanan gagal.
 
 85
-00:06:56,660 --> 00:06:58,869
+00:06:54,160 --> 00:06:56,369
 Alarm perimeter berbunyi,
 seluruh jaringan tak terkendali.
 
 86
-00:06:58,894 --> 00:07:00,636
+00:06:56,394 --> 00:06:58,136
 Apa maksudmu? Bagaimana mungkin?
 
 87
-00:07:00,661 --> 00:07:02,396
+00:06:58,161 --> 00:06:59,896
 Emma, ​​kurasa ada orang
 lain yang melakukan ini.
 
 88
-00:07:06,777 --> 00:07:08,043
+00:07:04,277 --> 00:07:05,543
 <i>Tim penahanan, mundurlah.</i>
 
 89
-00:07:08,097 --> 00:07:10,495
+00:07:05,597 --> 00:07:07,995
 Aku ulangi, mundur.
-kalian membuatnya takut.
+kau membuatnya takut.
 
 90
-00:07:36,704 --> 00:07:37,704
+00:07:34,204 --> 00:07:35,204
 Jangan!
 
 91
-00:07:37,729 --> 00:07:39,281
+00:07:35,229 --> 00:07:36,781
 Dr. Russell, aku minta maaf,
 tapi kau tahu protokolnya.
 
 92
-00:07:39,306 --> 00:07:40,306
+00:07:36,806 --> 00:07:37,806
 Kita harus menghentikan ini.
 
 93
-00:07:40,331 --> 00:07:41,493
+00:07:37,831 --> 00:07:38,993
 Aku akan menangani ini.
 
 94
-00:07:42,800 --> 00:07:44,018
+00:07:40,300 --> 00:07:41,518
 Bu, jangan!
 
 95
-00:07:44,043 --> 00:07:46,242
+00:07:41,543 --> 00:07:43,742
 Madison, tetap di sini.
 Ini akan berhasil.
 
 96
-00:07:51,149 --> 00:07:52,188
+00:07:48,649 --> 00:07:49,688
 <i>Harap menjauh!</i>
 
 97
-00:07:59,828 --> 00:08:01,016
+00:07:57,328 --> 00:07:58,516
 Tidak apa-apa.
 
 98
-00:08:28,700 --> 00:08:30,521
+00:08:26,200 --> 00:08:28,021
 <font color="#00ff00"><b>MENGANALISA SAMPEL BIOAKUSTIK (SUARA)</b></font>
 
 99
-00:08:39,240 --> 00:08:40,421
+00:08:36,740 --> 00:08:37,921
 Bu!
 
 100
-00:08:46,543 --> 00:08:47,558
+00:08:44,043 --> 00:08:45,058
 Bu!
 
 101
-00:08:48,568 --> 00:08:50,099
+00:08:46,068 --> 00:08:47,599
 Maddie. Tunggu!
 
 102
-00:08:52,340 --> 00:08:53,636
+00:08:49,840 --> 00:08:51,136
 Kembali kesini!
 
 103
-00:08:55,543 --> 00:08:56,863
+00:08:53,043 --> 00:08:54,363
 Maddie, kembali!
 
 104
-00:08:59,182 --> 00:09:00,205
+00:08:56,682 --> 00:08:57,705
 Awas!
 
 105
-00:09:03,208 --> 00:09:04,216
+00:09:00,708 --> 00:09:01,716
 Bu...
 
 106
-00:09:15,500 --> 00:09:16,716
+00:09:13,000 --> 00:09:14,216
 <font color="#00ff00"><b>FREKUENSI DOMINAN DI TEMUKAN</b></font>
 
 107
-00:09:39,289 --> 00:09:40,688
+00:09:36,789 --> 00:09:38,188
 Sialan.
 
 108
-00:09:41,688 --> 00:09:43,016
+00:09:39,188 --> 00:09:40,516
 Itu berhasil.
 
 109
-00:10:56,326 --> 00:10:58,951
+00:10:53,826 --> 00:10:56,451
 Apa yang kita saksikan di sini, senator,
 
 110
-00:10:58,998 --> 00:11:03,764
+00:10:56,498 --> 00:11:01,264
 adalah kembalinya spesies
 super kuno dan terlupakan.
 
 111
-00:11:03,810 --> 00:11:07,590
+00:11:01,310 --> 00:11:05,090
 <font color="#00ff00"><b>SIDANG SENAT MONARCH</b></font>
 
 Godzilla, the MUTOs, Kong.
 
 112
-00:11:07,615 --> 00:11:11,212
+00:11:05,115 --> 00:11:08,712
 Kami percaya bahwa para
 Titan ini dan yang lainnya
 
 113
-00:11:11,237 --> 00:11:14,105
+00:11:08,737 --> 00:11:11,605
 memberikan keseimbangan
 penting bagi dunia kita.
 
 114
-00:11:14,245 --> 00:11:16,370
+00:11:11,745 --> 00:11:13,870
 Dan beberapa mungkin menimbulkan ancaman,
 
 115
-00:11:16,395 --> 00:11:19,644
+00:11:13,895 --> 00:11:17,144
 Monarch secara unik bersiap
 untuk menentukan
 
 116
-00:11:19,683 --> 00:11:22,370
+00:11:17,183 --> 00:11:19,870
 Titan mana di sini yang mengancam kita
 
 117
-00:11:22,426 --> 00:11:25,051
+00:11:19,926 --> 00:11:22,551
 dan Titan mana yang ada
 di sini untuk melindungi kita.
 
 118
-00:11:25,076 --> 00:11:28,457
+00:11:22,576 --> 00:11:25,957
 Terima kasih untuk pelajaran
 Sejarah kelas 5, Pak Coleman.
 
 119
-00:11:28,559 --> 00:11:30,863
+00:11:26,059 --> 00:11:28,363
 Tapi kami masih belum
 mendengar satu alasan bagus
 
 120
-00:11:30,957 --> 00:11:34,175
+00:11:28,457 --> 00:11:31,675
 mengapa Monarch tidak harus
 berada di bawah yurisdiksi militer
 
 121
-00:11:34,262 --> 00:11:36,637
+00:11:31,762 --> 00:11:34,137
 atau mengapa makhluk-makhluk ini
 seharusnya tidak dimusnahkan.
 
 122
-00:11:36,754 --> 00:11:38,285
+00:11:34,254 --> 00:11:35,785
 Monarch ditugaskan
 
 123
-00:11:38,310 --> 00:11:41,910
+00:11:35,810 --> 00:11:39,410
 untuk menemukan dan menghancurkan
 monster radioaktif ini.
 
 124
-00:11:41,965 --> 00:11:45,198
+00:11:39,465 --> 00:11:42,698
 Tetapi kau tidak bisa atau tidak akan
 memberi tahu kami berapa banyak
 
 125
-00:11:45,223 --> 00:11:46,988
+00:11:42,723 --> 00:11:44,488
 atau mengapa mereka muncul.
 
 126
-00:11:47,090 --> 00:11:50,527
+00:11:44,590 --> 00:11:48,027
 Jadi, mungkin sudah waktunya bagi
 militer untuk menjatuhkan mereka.
 
 127
-00:11:50,574 --> 00:11:52,707
+00:11:48,074 --> 00:11:50,207
 Membunuh mereka akan menjadi kesalahan.
 
 128
-00:11:52,785 --> 00:11:54,684
+00:11:50,285 --> 00:11:52,184
 Mereka kembali karena kita.
 
 129
-00:11:55,301 --> 00:11:58,785
+00:11:52,801 --> 00:11:56,285
 Pengujian atom kita
 yang membangunkan Godzilla.
 
 130
-00:11:58,865 --> 00:12:01,137
+00:11:56,365 --> 00:11:58,637
 Makhluk lainnya seperti MUTO
 
 131
-00:12:01,162 --> 00:12:03,943
+00:11:58,662 --> 00:12:01,443
 dari penambangan strip
 dan survei seismik.
 
 132
-00:12:03,999 --> 00:12:06,741
+00:12:01,499 --> 00:12:04,241
 Tapi ini bukan monster.
 
 133
-00:12:06,835 --> 00:12:10,311
+00:12:04,335 --> 00:12:07,811
 Mereka adalah hewan yang bangkit untuk merebut
 kembali dunia yang dulunya milik mereka.
 
 134
-00:12:10,404 --> 00:12:13,897
+00:12:07,904 --> 00:12:11,397
 Sepertinya kau melindungi mereka, Dr. Serizawa.
 
 135
-00:12:13,967 --> 00:12:15,421
+00:12:11,467 --> 00:12:12,921
 Seolah kau mengagumi mereka.
 
 136
-00:12:15,483 --> 00:12:18,257
+00:12:12,983 --> 00:12:15,757
 Aku mengagumi semua bentuk kehidupan.
 
 137
-00:12:18,672 --> 00:12:21,625
+00:12:16,172 --> 00:12:19,125
 Senator, jika kita berharap untuk selamat,
 
 138
-00:12:21,719 --> 00:12:25,327
+00:12:19,219 --> 00:12:22,827
 kita harus menemukan cara untuk
 hidup berdampingan dengan para Titan.
 
 139
-00:12:25,359 --> 00:12:27,375
+00:12:22,859 --> 00:12:24,875
 Dengan Godzilla.
 
 140
-00:12:27,468 --> 00:12:30,820
+00:12:24,968 --> 00:12:28,320
 Semacam hubungan simbiosis, jika boleh.
 
 141
-00:12:32,045 --> 00:12:33,630
+00:12:29,545 --> 00:12:31,130
 Seperti Singa dan Tikus.
 
 142
-00:12:33,655 --> 00:12:35,647
+00:12:31,155 --> 00:12:33,147
 Atau Kalajengking dan Kodok.
 
 143
-00:12:35,851 --> 00:12:38,749
+00:12:33,351 --> 00:12:36,249
 Jadi, kau ingin menjadikan Godzilla
 hewan peliharaan kita?
 
 144
-00:12:38,851 --> 00:12:40,062
+00:12:36,351 --> 00:12:37,562
 Tidak.
 
 145
-00:12:40,328 --> 00:12:42,047
+00:12:37,828 --> 00:12:39,547
 Kita akan menjadi miliknya.
 
 146
-00:12:45,819 --> 00:12:49,389
+00:12:43,319 --> 00:12:46,889
 Eh, tidak. Sebenarnya, tidak.
 
 147
-00:12:49,551 --> 00:12:51,701
+00:12:47,051 --> 00:12:49,201
 Bukan itu yang dimaksud Dr. Serizawa.
 
 148
-00:12:51,733 --> 00:12:52,889
+00:12:49,233 --> 00:12:50,389
 Tidak ada yang menyiratkan bahwa...
 
 149
-00:12:52,914 --> 00:12:54,234
+00:12:50,414 --> 00:12:51,734
 ...kita akan menjadi milik Godzilla...
 - Permisi, kami harus pergi.
 
 150
-00:12:54,259 --> 00:12:55,262
+00:12:51,759 --> 00:12:52,762
 ...atau hewan peliharaan siapa pun.
 
 151
-00:12:55,287 --> 00:12:58,444
+00:12:52,787 --> 00:12:55,944
 Dr. Serizawa, Dr. Graham,
 sidang ini tidak ditunda.
 
 152
-00:12:58,530 --> 00:13:01,061
+00:12:56,030 --> 00:12:58,561
 Dr. Serizawa!
 Aku harap kau paham
 
 153
-00:13:01,086 --> 00:13:03,694
+00:12:58,586 --> 00:13:01,194
 konsekuensi dari berjalan
 keluar dari pintu itu.
 
 154
-00:13:03,727 --> 00:13:06,764
+00:13:01,227 --> 00:13:04,264
 Eh, kau tahu, senator, sementara aku
 berunding dengan rekan-rekanku di sini,
 
 155
-00:13:06,789 --> 00:13:08,887
+00:13:04,289 --> 00:13:06,387
 Aku akan menyiapkanmu dengan sangat singkat
 
 156
-00:13:08,914 --> 00:13:11,684
+00:13:06,414 --> 00:13:09,184
 dan cukup menyenangkan film
 dokumenter tentang reproduksi Titan.
 
 157
-00:13:11,709 --> 00:13:13,941
+00:13:09,209 --> 00:13:11,441
 Kurasa ini adalah
 di mana alat kelamin diburamkan.
 
 158
-00:13:13,966 --> 00:13:17,032
+00:13:11,466 --> 00:13:14,532
 Tetapi jika tidak, eh, kau dapat
 meninggalkan komentar pada asistenku.
 
 159
-00:13:19,032 --> 00:13:22,251
+00:13:16,532 --> 00:13:19,751
 {\an1}<font color="#00ff00"><b>COLORADO</b></font>
 
 160
-00:14:19,096 --> 00:14:20,643
+00:14:16,596 --> 00:14:18,143
 Pemberi makan keluar dari sana.
 
 161
-00:14:21,464 --> 00:14:23,385
+00:14:18,964 --> 00:14:20,885
 Yang selamat belum bisa memberi kami
 
 162
-00:14:23,410 --> 00:14:25,448
+00:14:20,910 --> 00:14:22,948
 lebih banyak rekaman CCTV.
 
 163
-00:14:25,761 --> 00:14:28,643
-Hanya Emma dan Madison
+00:14:23,261 --> 00:14:26,143
+Hanya Emma dan Madison 
 satu-satunya yang di bawa.
 
 164
-00:14:30,315 --> 00:14:31,823
+00:14:27,815 --> 00:14:29,323
 Maaf, Mark.
 
 165
-00:14:32,136 --> 00:14:33,729
+00:14:29,636 --> 00:14:31,229
 Aku seharusnya ada di sana untuk mereka.
 
 166
-00:14:36,331 --> 00:14:38,487
+00:14:33,831 --> 00:14:35,987
 - Siapa mereka?
 - Kami belum tahu.
 
 167
-00:14:39,721 --> 00:14:41,190
+00:14:37,221 --> 00:14:38,690
 Kami percaya...
 
 168
-00:14:41,753 --> 00:14:43,268
+00:14:39,253 --> 00:14:40,768
 ...mereka mengejar ini.
 
 169
-00:14:45,989 --> 00:14:48,012
+00:14:43,489 --> 00:14:45,512
 - Kau bercanda.
 - Itu adalah Orca.
 
 170
-00:14:48,043 --> 00:14:50,332
+00:14:45,543 --> 00:14:47,832
 Eh, itu sebabnya kami pikir
 mereka membutuhkan Emma.
 
 171
-00:14:50,357 --> 00:14:52,598
+00:14:47,857 --> 00:14:50,098
 Dia yakin bahwa jika kita bisa meniru
 
 172
-00:14:52,623 --> 00:14:54,301
+00:14:50,123 --> 00:14:51,801
 biosonar yang digunakan para Titan
 untuk berkomunikasi...
 
 173
-00:14:54,326 --> 00:14:56,661
+00:14:51,826 --> 00:14:54,161
 Aku tahu apa itu.
 Aku membantu membangun prototipe-nya.
 
 174
-00:14:58,114 --> 00:14:59,137
+00:14:55,614 --> 00:14:56,637
 Siapa dia?
 
 175
-00:14:59,167 --> 00:15:01,369
+00:14:56,667 --> 00:14:58,869
 Eh, Sam Coleman,
 Aku adalah kepala Teknologi.
 
 176
-00:15:01,403 --> 00:15:03,786
+00:14:58,903 --> 00:15:01,286
 Aku bergabung dengan Monarch, eh,
 tak lama setelah kau pergi.
 
 177
-00:15:03,902 --> 00:15:06,473
+00:15:01,402 --> 00:15:03,973
 Aku penggemar berat
 pekerjaan istrimu...
 
 178
-00:15:06,498 --> 00:15:08,926
+00:15:03,998 --> 00:15:06,426
 ...dan kau... itu bahkan tidak...
 begitu aneh. Aku minta maaf.
 
 179
-00:15:08,951 --> 00:15:10,473
+00:15:06,451 --> 00:15:07,973
 Emma dan aku
 menghancurkan prototipe-nya.
 
 180
-00:15:10,498 --> 00:15:13,098
+00:15:07,998 --> 00:15:10,598
 Dan kemudian Emma memutuskan
 untuk membangunnya kembali.
 
 181
-00:15:13,614 --> 00:15:16,098
+00:15:11,114 --> 00:15:13,598
 Setelah kejadian di San Francisco,
 dia pulang ke Boston,
 
 182
-00:15:16,123 --> 00:15:17,942
+00:15:13,623 --> 00:15:15,442
 menghabiskan waktu bertahun-tahun
 untuk mengembangkannya.
 
 183
-00:15:17,967 --> 00:15:20,246
+00:15:15,467 --> 00:15:17,746
 - Dia pikir itu bisa membantu.
 - Membantu apa? Berlagak seperti Tuhan?
 
 184
-00:15:20,271 --> 00:15:22,082
+00:15:17,771 --> 00:15:19,582
 Tidak. Membantu mencegah serangan lainnya.
 
 185
-00:15:22,114 --> 00:15:23,535
+00:15:19,614 --> 00:15:21,035
 Orca adalah proyek sains
 sekolah pascasarjana.
 
 186
-00:15:23,560 --> 00:15:24,668
+00:15:21,060 --> 00:15:22,168
 Itu dimaksudkan untuk
 
 187
-00:15:24,693 --> 00:15:26,364
+00:15:22,193 --> 00:15:23,864
 untuk menjauhkan paus
 dari garis pantai.
 
 188
-00:15:26,389 --> 00:15:28,716
+00:15:23,889 --> 00:15:26,216
 Bukan agar kau bisa berbicara
 dengan makhluk kecilmu di luar sana.
 
 189
-00:15:28,927 --> 00:15:30,105
+00:15:26,427 --> 00:15:27,605
 Dengarkan aku.
 
 190
-00:15:30,130 --> 00:15:31,677
+00:15:27,630 --> 00:15:29,177
 Mereka akan berpikir itu salah satunya.
 
 191
-00:15:32,091 --> 00:15:34,708
+00:15:29,591 --> 00:15:32,208
 Kau menggunakan frekuensi
 yang salah pada mereka...
 
 192
-00:15:35,029 --> 00:15:37,896
+00:15:32,529 --> 00:15:35,396
 ...dan kau akan bertanggung jawab
 untuk seribu kota seperti San Francisco.
 
 193
-00:15:37,921 --> 00:15:40,107
+00:15:35,421 --> 00:15:37,607
 Itulah sebabnya kita harus
 mendapatkannya kembali.
 
 194
-00:15:40,732 --> 00:15:42,193
+00:15:38,232 --> 00:15:39,693
 Emma selalu berkata,
 
 195
-00:15:42,247 --> 00:15:44,529
+00:15:39,747 --> 00:15:42,029
 tidak ada yang lebih tahu Orca
 daripada dirimu.
 
 196
-00:15:44,554 --> 00:15:46,599
+00:15:42,054 --> 00:15:44,099
 Bahkan seharusnya tidak ada.
 
 197
-00:15:46,701 --> 00:15:49,912
+00:15:44,201 --> 00:15:47,412
 Itu mungkin, Mark, tetapi itu
 jatuh ke tangan yang salah.
 
 198
-00:15:50,021 --> 00:15:51,755
+00:15:47,521 --> 00:15:49,255
 Dan sekarang, Orca itu
 
 199
-00:15:51,780 --> 00:15:55,005
+00:15:49,280 --> 00:15:52,505
 adalah satu-satunya hal yang
 membuat Emma dan Madison tetap hidup.
 
 200
-00:15:55,114 --> 00:15:57,145
+00:15:52,614 --> 00:15:54,645
 Mark, kami tahu kau sedih.
 
 201
-00:15:57,498 --> 00:16:00,263
+00:15:54,998 --> 00:15:57,763
 Tetapi jika kami menemukan Orca,
 kami akan menemukan keluargamu.
 
 202
-00:16:01,880 --> 00:16:03,130
+00:15:59,380 --> 00:16:00,630
 Aku janji.
 
 203
-00:16:13,224 --> 00:16:15,161
+00:16:10,724 --> 00:16:12,661
 <i>Kapan terakhir kali kau
 berbicara dengan Emma?</i>
 
 204
-00:16:16,379 --> 00:16:18,075
+00:16:13,879 --> 00:16:15,575
 Sekitar tiga tahun lalu.
 
 205
-00:16:18,911 --> 00:16:20,778
+00:16:16,411 --> 00:16:18,278
 Setelah San Francisco, kami...
 
 206
-00:16:20,919 --> 00:16:22,677
+00:16:18,419 --> 00:16:20,177
 kami pulang ke Boston.
 
 207
-00:16:24,591 --> 00:16:26,645
+00:16:22,091 --> 00:16:24,145
 Mencoba menyatukan potongan-potongan itu.
 
 208
-00:16:27,599 --> 00:16:31,176
+00:16:25,099 --> 00:16:28,676
 Emma mengatasinya dengan
 melanjutkan menyelamatkan dunia.
 
 209
-00:16:31,434 --> 00:16:32,849
+00:16:28,934 --> 00:16:30,349
 Aku mulai minum.
 
 210
-00:16:34,911 --> 00:16:37,215
+00:16:32,411 --> 00:16:34,715
 Aku tidak bisa memberitahumu betapa
 aku membenci diriku sendiri...
 
 211
-00:16:37,262 --> 00:16:39,341
+00:16:34,762 --> 00:16:36,841
 ...untuk membiarkan Maddie
 melihatku seperti itu.
 
 212
-00:16:42,012 --> 00:16:43,895
+00:16:39,512 --> 00:16:41,395
 Eh, kau tak keberatan jika
 kami menyela di sini?
 
 213
-00:16:44,107 --> 00:16:47,341
+00:16:41,607 --> 00:16:44,841
 Mungkin kau...ingin melihat ini.
 
 214
-00:16:48,130 --> 00:16:51,333
+00:16:45,630 --> 00:16:48,833
 Emma menggabungkan bioakustik (suara)
 dari para Titan yang berbeda
 
 215
-00:16:51,358 --> 00:16:53,372
+00:16:48,858 --> 00:16:50,872
 untuk membuat sinyal Orca.
 
 216
-00:16:53,397 --> 00:16:55,505
+00:16:50,897 --> 00:16:53,005
 Semacam frekuensi dasar
 
 217
-00:16:55,530 --> 00:16:57,247
+00:16:53,030 --> 00:16:54,747
 yang bisa direspon semua makhluk itu.
 
 218
-00:16:57,349 --> 00:16:59,357
+00:16:54,849 --> 00:16:56,857
 Menarik mereka, memukul mundur mereka,
 
 219
-00:16:59,382 --> 00:17:02,124
+00:16:56,882 --> 00:16:59,624
 bahkan terkadang, menenangkan mereka.
 
 220
-00:17:02,149 --> 00:17:03,796
+00:16:59,649 --> 00:17:01,296
 Sebenarnya sangat luar biasa.
 
 221
-00:17:03,944 --> 00:17:06,702
+00:17:01,444 --> 00:17:04,202
 Masalahnya adalah, kita tidak tahu
 Titan mana yang dia gabungkan.
 
 222
-00:17:06,858 --> 00:17:09,835
+00:17:04,358 --> 00:17:07,335
 Tetapi jika kau bisa
 mengidentifikasi frekuensi tersebut,
 
 223
-00:17:10,038 --> 00:17:11,897
+00:17:07,538 --> 00:17:09,397
 kita akan bisa melacak Orca
 
 224
-00:17:12,147 --> 00:17:14,038
+00:17:09,647 --> 00:17:11,538
 dan temukan Emma dan Madison.
 
 225
-00:17:14,310 --> 00:17:15,623
+00:17:11,810 --> 00:17:13,123
 Astaga.
 
 226
-00:17:16,553 --> 00:17:18,146
+00:17:14,053 --> 00:17:15,646
 Ada berapa banyak dari
 makhluk ini di sana?
 
 227
-00:17:18,171 --> 00:17:19,585
+00:17:15,671 --> 00:17:17,085
 17...
 
 228
-00:17:19,678 --> 00:17:21,483
+00:17:17,178 --> 00:17:18,983
 Dan dihitung, setelah Godzilla.
 
 229
-00:17:21,508 --> 00:17:22,647
+00:17:19,008 --> 00:17:20,147
 17?
 
 230
-00:17:22,672 --> 00:17:24,803
+00:17:20,172 --> 00:17:22,303
 Sebagian besar dari mereka ditemukan
 dalam hibernasi yang dalam.
 
 231
-00:17:24,865 --> 00:17:28,514
+00:17:22,365 --> 00:17:26,014
 Sementara yang lain kami isi di
 situs-situs rahasia di seluruh dunia.
 
 232
-00:17:28,539 --> 00:17:30,983
+00:17:26,039 --> 00:17:28,483
 Kamboja, Meksiko, Pulau Tengkorak.
 
 233
-00:17:31,233 --> 00:17:33,162
+00:17:28,733 --> 00:17:30,662
 Kami bahkan menemukan satu di Wyoming.
 
 234
-00:17:33,639 --> 00:17:34,936
+00:17:31,139 --> 00:17:32,436
 Mereka ada dimana-mana.
 
 235
-00:17:35,085 --> 00:17:36,458
+00:17:32,585 --> 00:17:33,958
 Mengapa kau tidak membunuh mereka?
 
 236
-00:17:36,483 --> 00:17:38,014
+00:17:33,983 --> 00:17:35,514
 Pemerintah menginginkannya.
 
 237
-00:17:38,624 --> 00:17:42,748
+00:17:36,124 --> 00:17:40,248
 Tetapi Emma dan aku yakin
 ada yang baik hati.
 
 238
-00:17:44,921 --> 00:17:46,421
+00:17:42,421 --> 00:17:43,921
 Jangan menipu diri sendiri.
 
 239
-00:17:49,264 --> 00:17:51,592
+00:17:46,764 --> 00:17:49,092
 Ah, hei, lihat itu.
 Kita sudah sampai.
 
 240
-00:18:02,585 --> 00:18:05,475
+00:18:00,085 --> 00:18:02,975
 Kastil Bravo, ini Raptor One yang
 sedang melakukan pendekatan langsung.
 
 241
-00:18:07,397 --> 00:18:11,225
+00:18:04,897 --> 00:18:08,725
 <font color="#00ff00"><b>KASTIL BRAVO
 POS TERDEPAN MONARCH 54, BERMUDA</b></font>
 
 242
-00:18:11,648 --> 00:18:13,549
+00:18:09,148 --> 00:18:11,049
 <i>Raptor One, kau boleh</i>
 
 243
-00:18:13,551 --> 00:18:15,853
+00:18:11,051 --> 00:18:13,353
 <i>mendarat di pad empat.</i>
 
 244
-00:18:24,861 --> 00:18:26,663
+00:18:22,361 --> 00:18:24,163
 <i>Sensor diatur tiga meter.</i>
 
 245
-00:18:26,665 --> 00:18:28,067
+00:18:24,165 --> 00:18:25,567
 <i>Memulai turun di bawah permukaan.</i>
 
 246
-00:18:31,101 --> 00:18:33,502
+00:18:28,601 --> 00:18:31,002
 Ini baru?
 
 247
-00:18:33,504 --> 00:18:35,504
+00:18:31,004 --> 00:18:33,004
 Ya, kami menyebutnya Kastil Bravo.
 
 248
-00:18:35,506 --> 00:18:37,339
+00:18:33,006 --> 00:18:34,839
 Fasilitas unggulan baru kami
 
 249
-00:18:37,341 --> 00:18:40,710
+00:18:34,841 --> 00:18:38,210
 dibangun untuk melacak dan mempelajari
 Godzilla di wilayahnya sendiri.
 
 250
-00:18:40,712 --> 00:18:42,544
+00:18:38,212 --> 00:18:40,044
 Aku pikir dia hilang.
 
 251
-00:18:42,546 --> 00:18:45,083
+00:18:40,046 --> 00:18:42,583
 Yah, hanya jika kau tidak tahu
 harus mencarinya ke mana.
 
 252
-00:18:55,126 --> 00:18:58,461
+00:18:52,626 --> 00:18:55,961
 Seperti yang kalian tahu,
 sekitar jam 07:00 pagi,
 
 253
-00:18:58,463 --> 00:19:00,597
+00:18:55,963 --> 00:18:58,097
 situs penahanan kita
 
 254
-00:19:00,599 --> 00:19:02,598
+00:18:58,099 --> 00:19:00,098
 di Hutan Hujan Yunnan,
 Tiongkok digerebek.
 
 255
-00:19:02,600 --> 00:19:06,036
+00:19:00,100 --> 00:19:03,536
 Spesimen, dengan kode
 nama Mothra, lolos.
 
 256
-00:19:06,038 --> 00:19:10,405
+00:19:03,538 --> 00:19:07,905
 Hanya untuk membuat kepompong
 di bawah air terjun terdekat.
 
 257
-00:19:10,407 --> 00:19:11,808
+00:19:07,907 --> 00:19:09,308
 Sementara Dokter Emma Russell...
 
 258
-00:19:11,810 --> 00:19:13,976
+00:19:09,310 --> 00:19:11,476
 ...dan putrinya Madison disandera.
 
 259
-00:19:13,978 --> 00:19:18,013
+00:19:11,478 --> 00:19:15,513
 Ini orang yang bertanggung jawab, Alan Jonah.
 
 260
-00:19:18,015 --> 00:19:21,151
+00:19:15,515 --> 00:19:18,651
 Mantan kolonel tentara Inggris
 menjadi teroris lingkungan.
 
 261
-00:19:21,153 --> 00:19:24,319
+00:19:18,653 --> 00:19:21,819
 Terobsesi dengan memulihkan tatanan alam.
 
 262
-00:19:24,321 --> 00:19:25,888
+00:19:21,821 --> 00:19:23,388
 Dan untuk mendanai operasinya,
 
 263
-00:19:25,890 --> 00:19:29,125
+00:19:23,390 --> 00:19:26,625
 dia mulai berdagang di sebuah
 pasar yang baru dan berbahaya.
 
 264
-00:19:29,127 --> 00:19:30,893
+00:19:26,627 --> 00:19:28,393
 DNA Titan.
 
 265
-00:19:30,895 --> 00:19:32,861
+00:19:28,395 --> 00:19:30,361
 Apa yang akan dilakukan seseorang
 dengan cacing raksasa?
 
 266
-00:19:32,863 --> 00:19:34,463
+00:19:30,363 --> 00:19:31,963
 Apakah kau bercanda, Martinez?
 
 267
-00:19:34,465 --> 00:19:35,932
+00:19:31,965 --> 00:19:33,432
 Apa yang tidak bisa
 kau lakukan dengan itu?
 
 268
-00:19:35,934 --> 00:19:38,001
+00:19:33,434 --> 00:19:35,501
 Farmasi, senjata biologi, makanan...
 
 269
-00:19:38,003 --> 00:19:41,104
+00:19:35,503 --> 00:19:38,604
 Sial, tidak ada negara
 atau perusahaan di planet ini
 
 270
-00:19:41,106 --> 00:19:43,004
+00:19:38,606 --> 00:19:40,504
 yang tidak ingin mendapatkan
 salah satu dari makhluk ini.
 
 271
-00:19:43,006 --> 00:19:46,242
+00:19:40,506 --> 00:19:43,742
 Dan ingat, ini hanya larva.
 
 272
-00:19:46,244 --> 00:19:47,476
+00:19:43,744 --> 00:19:44,976
 Itu bayi.
 
 273
-00:19:47,478 --> 00:19:49,511
+00:19:44,978 --> 00:19:47,011
 Setelah kepompong,
 
 274
-00:19:49,513 --> 00:19:50,913
+00:19:47,013 --> 00:19:48,413
 sesuatu yang lain akan merangkak keluar.
 
 275
-00:19:50,915 --> 00:19:53,683
+00:19:48,415 --> 00:19:51,183
 Sesuatu yang lebih besar, lebih jahat...
 
 276
-00:19:53,685 --> 00:19:55,385
+00:19:51,185 --> 00:19:52,885
 - Kita belum tahu itu apa, Rick.
 - Oh, ya?
 
 277
-00:19:55,387 --> 00:19:57,421
+00:19:52,887 --> 00:19:54,921
 Tunggu saja, Chen.
 
 278
-00:19:57,423 --> 00:19:59,856
+00:19:54,923 --> 00:19:57,356
 Intel kami menunjukkan
 bahwa Jonah ingin
 
 279
-00:19:59,858 --> 00:20:01,290
+00:19:57,358 --> 00:19:58,790
 menangkap spesimen ini.
 
 280
-00:20:01,292 --> 00:20:02,858
+00:19:58,792 --> 00:20:00,358
 Hidup-hidup.
 
 281
-00:20:02,860 --> 00:20:05,028
+00:20:00,360 --> 00:20:02,528
 Yang berarti bahwa dia dan
 pasukannya tidak akan ketinggalan.
 
 282
-00:20:05,030 --> 00:20:08,396
+00:20:02,530 --> 00:20:05,896
 Pada pukul 05:00, kami akan mengirim
 pasukan untuk memulai operasi bersama...
 
 283
-00:20:08,398 --> 00:20:09,933
+00:20:05,898 --> 00:20:07,433
 "Aku tidak akan repot-repot".
 (Usaha yang sia-sia)
 
 284
-00:20:09,935 --> 00:20:11,067
+00:20:07,435 --> 00:20:08,567
 Maaf?
 
 285
-00:20:11,069 --> 00:20:12,769
+00:20:08,569 --> 00:20:10,269
 Kedengarannya seperti
 berburu bebek bagiku.
 
 286
-00:20:12,771 --> 00:20:14,302
+00:20:10,271 --> 00:20:11,802
 Eh, Mark, mengapa kita tidak
 membiarkan Kolonel Foster selesai...
 
 287
-00:20:14,304 --> 00:20:16,839
+00:20:11,804 --> 00:20:14,339
 Umpan. Pengalihan.
 
 288
-00:20:16,841 --> 00:20:18,607
+00:20:14,341 --> 00:20:16,107
 Dengar, mereka sudah
 mendapatkan Emma dan ORCA.
 
 289
-00:20:18,609 --> 00:20:20,976
+00:20:16,109 --> 00:20:18,476
 Mengapa mereka hanya menginginkan
 yang ini ketika mereka memiliki kunci
 
 290
-00:20:20,978 --> 00:20:24,513
+00:20:18,478 --> 00:20:22,013
 ke seluruh kerajaan
 sihir horor kalian di sini?
 
 291
-00:20:24,515 --> 00:20:27,183
+00:20:22,015 --> 00:20:24,683
 Aku pikir mereka ingin
 kau mengejar Mothra ini
 
 292
-00:20:27,185 --> 00:20:29,418
+00:20:24,685 --> 00:20:26,918
 sehingga mereka
 bisa mengejar yang berharga.
 
 293
-00:20:29,420 --> 00:20:31,253
+00:20:26,920 --> 00:20:28,753
 Sesuatu yang lebih besar.
 
 294
-00:20:31,255 --> 00:20:32,954
+00:20:28,755 --> 00:20:30,454
 Benar.
 
 295
-00:20:32,956 --> 00:20:34,091
+00:20:30,456 --> 00:20:31,591
 Mark,
 
 296
-00:20:35,224 --> 00:20:36,592
+00:20:32,724 --> 00:20:34,092
 ini bukan spesimen pertama
 yang mereka tangkap.
 
 297
-00:20:36,594 --> 00:20:37,827
+00:20:34,094 --> 00:20:35,327
 Mereka tahu apa yang mereka lakukan.
 
 298
-00:20:37,829 --> 00:20:39,261
+00:20:35,329 --> 00:20:36,761
 Itu bukan hanya spesimen.
 
 299
-00:20:39,263 --> 00:20:40,896
+00:20:36,763 --> 00:20:38,396
 Mantan istri dan
 putriku di luar sana,
 
 300
-00:20:40,898 --> 00:20:42,231
+00:20:38,398 --> 00:20:39,731
 jika saja kau lupa.
 
 301
-00:20:42,233 --> 00:20:44,634
+00:20:39,733 --> 00:20:42,134
 Tidak. Tidak ada yang
 melupakan itu, Mark,
 
 302
-00:20:44,636 --> 00:20:45,835
+00:20:42,136 --> 00:20:43,335
 tapi, eh, untuk mengingatkanmu,
 
 303
-00:20:45,837 --> 00:20:47,269
+00:20:43,337 --> 00:20:44,769
 kau dibawa ke sini
 
 304
-00:20:47,271 --> 00:20:48,904
+00:20:44,771 --> 00:20:46,404
 untuk membantu melacak ORCA,
 dan untuk memberi tahu kami...
 
 305
-00:20:48,906 --> 00:20:52,308
+00:20:46,406 --> 00:20:49,808
 Aku menyarankanmu untuk
 membunuh makhluk-makhluk ini. Semuanya.
 
 306
-00:20:52,310 --> 00:20:53,944
+00:20:49,810 --> 00:20:51,444
 Terutama dia.
 
 307
-00:20:53,946 --> 00:20:55,212
+00:20:51,446 --> 00:20:52,712
 Kau ingin memastikan
 makhluk-makhluk ini
 
 308
-00:20:55,214 --> 00:20:56,780
+00:20:52,714 --> 00:20:54,280
 tidak jatuh ke tangan yang salah?
 
 309
-00:20:56,782 --> 00:20:58,614
+00:20:54,282 --> 00:20:56,114
 Kau harus membunuh mereka
 dan ORCA tidak berguna.
 
 310
-00:20:58,616 --> 00:21:01,283
+00:20:56,116 --> 00:20:58,783
 Emma tidak menginginkan itu.
 
 311
-00:21:01,285 --> 00:21:02,719
+00:20:58,785 --> 00:21:00,219
 Bahkan untuk menyelamatkan hidupnya.
 
 312
-00:21:02,721 --> 00:21:04,052
+00:21:00,221 --> 00:21:01,552
 Yah, ini bukan pertama kalinya
 
 313
-00:21:04,054 --> 00:21:06,188
+00:21:01,554 --> 00:21:03,688
 Emma mementingkan semua ini
 di atas dirinya sendiri,
 
 314
-00:21:06,190 --> 00:21:08,259
+00:21:03,690 --> 00:21:05,759
 atau keluarganya, bukan?
 
 315
-00:21:13,231 --> 00:21:15,264
+00:21:10,731 --> 00:21:12,764
 Sobatmu membenci para Titan.
 
 316
-00:21:15,266 --> 00:21:17,602
+00:21:12,766 --> 00:21:15,102
 Ya, kau juga akan begitu,
 jika kau jadi dia.
 
 317
-00:21:23,007 --> 00:21:25,107
+00:21:20,507 --> 00:21:22,607
 <i>Pos terdepan 32, ini Raptor Five,</i>
 
 318
-00:21:25,109 --> 00:21:27,042
+00:21:22,609 --> 00:21:24,542
 <i>mendekat dengan bala
 bantuan dan persediaan.</i>
 
 319
-00:21:27,044 --> 00:21:28,712
+00:21:24,544 --> 00:21:26,212
 <i>Meminta izin untuk mendarat.</i>
 
 320
-00:21:28,714 --> 00:21:31,146
+00:21:26,214 --> 00:21:28,646
 <i>Semua situs Serizawa
 sedang siaga satu,</i>
 
 321
-00:21:31,148 --> 00:21:33,549
+00:21:28,648 --> 00:21:31,049
 <i>jadi kirimkan kode darurat sekarang.</i>
 
 322
-00:21:33,551 --> 00:21:35,850
+00:21:31,051 --> 00:21:33,350
 <i>Diterima, Raptor Five.</i>
 
 323
-00:21:35,852 --> 00:21:38,023
+00:21:33,352 --> 00:21:35,523
 <i>Kodenya bagus.
 Senang kau kembali.</i>
 
 324
-00:21:39,052 --> 00:21:43,050
+00:21:36,552 --> 00:21:40,550
 {\an1}<font color="#00ff00"><b>ANTARTIKA
 POS TERDEPAN MONARCH 32</b></font>
 
 325
-00:21:45,129 --> 00:21:46,130
+00:21:42,629 --> 00:21:43,630
 Jalan.
 
 326
-00:21:52,736 --> 00:21:54,104
+00:21:50,236 --> 00:21:51,604
 <i>Senang bertemu denganmu.</i>
 
 327
-00:21:54,106 --> 00:21:56,041
+00:21:51,606 --> 00:21:53,541
 <i>- Perlu gandengan tangan?
 - Tidak, kami baik-baik saja!</i>
 
 328
-00:21:59,811 --> 00:22:01,409
+00:21:57,311 --> 00:21:58,909
 <i>Kita akan meletakkannya di kargo lima.</i>
 
 329
-00:22:01,411 --> 00:22:03,980
+00:21:58,911 --> 00:22:01,480
 <i>- Ikuti aku!
 - Kembalilah! Hei, hei!</i>
 
 330
-00:22:03,982 --> 00:22:06,151
+00:22:01,482 --> 00:22:03,651
 <i>Tinggalkan mereka, ayo pergi!</i>
 
 331
-00:22:13,858 --> 00:22:15,390
+00:22:11,358 --> 00:22:12,890
 Aku takut.
 
 332
-00:22:15,392 --> 00:22:17,128
+00:22:12,892 --> 00:22:14,628
 Ibu tahu. Ibu juga.
 
 333
-00:22:21,565 --> 00:22:23,499
+00:22:19,065 --> 00:22:20,999
 Baik.
 
 334
-00:22:23,501 --> 00:22:25,902
+00:22:21,001 --> 00:22:23,402
 Ayo pergi.
 
 335
-00:22:35,413 --> 00:22:36,848
+00:22:32,913 --> 00:22:34,348
 Pandangan lurus ke depan.
 
 336
-00:22:38,282 --> 00:22:39,715
+00:22:35,782 --> 00:22:37,215
 Tarik napas dalam-dalam.
 
 337
-00:22:39,717 --> 00:22:41,253
+00:22:37,217 --> 00:22:38,753
 Sama seperti yang kita bicarakan.
 
 338
-00:23:21,592 --> 00:23:23,926
+00:23:19,092 --> 00:23:21,426
 Bunda Maria!
 
 339
-00:23:23,928 --> 00:23:26,631
+00:23:21,428 --> 00:23:24,131
 Dia tidak ada hubungannya dengan ini.
 
 340
-00:23:35,206 --> 00:23:36,941
+00:23:32,706 --> 00:23:34,441
 Monster Zero.
 
 341
-00:23:59,796 --> 00:24:01,431
+00:23:57,296 --> 00:23:58,931
 Adakah yang selamat?
 
 342
-00:24:01,433 --> 00:24:03,898
+00:23:58,933 --> 00:24:01,398
 Tidak. Mereka mencoba
 meluncurkan suar darurat,
 
 343
-00:24:03,900 --> 00:24:05,401
+00:24:01,400 --> 00:24:02,901
 tapi kami mencegatnya tepat waktu.
 
 344
-00:24:05,403 --> 00:24:07,002
+00:24:02,903 --> 00:24:04,502
 Mereka akan mencari tahu.
 
 345
-00:24:07,004 --> 00:24:08,937
+00:24:04,504 --> 00:24:06,437
 Nyalakan mesinnya.
 
 346
-00:24:10,340 --> 00:24:11,976
+00:24:07,840 --> 00:24:09,476
 Apakah kau punya
 semua yang kau butuhkan?
 
 347
-00:24:13,176 --> 00:24:14,543
+00:24:10,676 --> 00:24:12,043
 Bagus.
 
 348
-00:24:14,545 --> 00:24:16,213
+00:24:12,045 --> 00:24:13,713
 Baiklah, mari kita mulai.
 
 349
-00:24:16,880 --> 00:24:18,149
+00:24:14,380 --> 00:24:15,649
 <i>Lebih jauh.</i>
 
 350
-00:24:27,100 --> 00:24:29,100
+00:24:24,600 --> 00:24:26,600
 <font color="#00ff00"><b>SPESIMEN: MONSTER ZERO
 ORCA MENGANALISIS SUARA SPESIMEN</b></font>
 
 351
-00:24:38,500 --> 00:24:41,700
+00:24:36,000 --> 00:24:39,200
 <font color="#00ff00"><b>SPESIMEN: MONSTER ZERO
 ORCA MENGANALISIS SUARA SPESIMEN</b></font>
 
 352
-00:24:42,139 --> 00:24:46,008
+00:24:39,639 --> 00:24:43,508
 <i>Kami punya situasi
 mengerikan di sini di loteng.</i>
 
 353
-00:24:46,010 --> 00:24:47,409
+00:24:43,510 --> 00:24:44,909
 <i>Ayolah, Andrew. Andrew.</i>
 
 354
-00:24:47,411 --> 00:24:49,011
+00:24:44,911 --> 00:24:46,511
 <i>Aku datang untuk memakan kudamu.</i>
 
 355
-00:24:49,013 --> 00:24:50,511
+00:24:46,513 --> 00:24:48,011
 <i>Tidak, kau tidak bisa makan kudaku...</i>
 
 356
-00:24:50,513 --> 00:24:51,817
+00:24:48,013 --> 00:24:49,317
 <i>Itu bukan...</i>
 
 357
-00:24:52,382 --> 00:24:53,415
+00:24:49,882 --> 00:24:50,915
 <i>Berhenti.</i>
 
 358
-00:24:53,417 --> 00:24:54,617
+00:24:50,917 --> 00:24:52,117
 <i>Lihat.</i>
 
 359
-00:24:54,619 --> 00:24:56,652
+00:24:52,119 --> 00:24:54,152
 <i>- Seorang penyusup!Tangkap dia!
 - Tangkap dia!</i>
 
 360
-00:24:56,654 --> 00:24:58,988
+00:24:54,154 --> 00:24:56,488
 <i>- Tangkap dia! Tangkap dia!</i>
 <i>- Tidak, jangan tangkap aku!</i>
 
 361
-00:24:58,990 --> 00:25:01,123
+00:24:56,490 --> 00:24:58,623
 <i>Andrew, Madison!
 Tangkap dia!</i>
 
 362
-00:25:01,125 --> 00:25:03,059
+00:24:58,625 --> 00:25:00,559
 <i>- Tangkap dia!
 - Ciuman beruang.</i>
 
 363
-00:25:05,596 --> 00:25:07,329
+00:25:03,096 --> 00:25:04,829
 <i>Ciuman beruang!</i>
 
 364
-00:25:15,005 --> 00:25:19,674
+00:25:12,505 --> 00:25:17,174
 <i>Semua personel, melapor ke
 stasiun pertempuran. Kode bahaya.</i>
 
 365
-00:25:19,676 --> 00:25:22,377
+00:25:17,176 --> 00:25:19,877
 <i>Semua personel, melapor ke
 stasiun pertempuran.</i>
 
 366
-00:25:22,379 --> 00:25:24,513
+00:25:19,879 --> 00:25:22,013
 <i>- Kode bahaya.</i>
 - Setidaknya 60 knot.
 
 367
-00:25:24,515 --> 00:25:26,048
+00:25:22,015 --> 00:25:23,548
 <i>Ini bukan latihan.</i>
 
 368
-00:25:26,050 --> 00:25:27,982
+00:25:23,550 --> 00:25:25,482
 <i>Semua personel,
 melapor ke stasiun pertempuran.</i>
 
 369
-00:25:27,984 --> 00:25:29,821
+00:25:25,484 --> 00:25:27,321
 <i>Kode bahaya.</i>
 
 370
-00:25:32,424 --> 00:25:33,655
+00:25:29,924 --> 00:25:31,155
 Apa yang terjadi?
 
 371
-00:25:33,657 --> 00:25:34,956
+00:25:31,157 --> 00:25:32,456
 Ada yang aneh.
 
 372
-00:25:34,958 --> 00:25:36,858
+00:25:32,458 --> 00:25:34,358
 Dia tidak pernah
 sedekat ini sebelumnya.
 
 373
-00:25:36,860 --> 00:25:38,828
+00:25:34,360 --> 00:25:36,328
 - Siapa dia?
 - Siapa menurutmu?
 
 374
-00:25:40,598 --> 00:25:43,299
+00:25:38,098 --> 00:25:40,799
 Dia mengeluarkan
 drone pengamatan kita.
 
 375
-00:25:43,301 --> 00:25:44,466
+00:25:40,801 --> 00:25:41,966
 Lintasan?
 
 376
-00:25:44,468 --> 00:25:47,603
+00:25:41,968 --> 00:25:45,103
 Didepan kita! 1.200 meter
 dan terus mendekat.
 
 377
-00:25:47,605 --> 00:25:49,938
+00:25:45,105 --> 00:25:47,438
 G-Team. Barnes, Martinez, Hendricks,
 
 378
-00:25:49,940 --> 00:25:51,340
+00:25:47,440 --> 00:25:48,840
 Aku ingin kalian ada di
 CROWS itu sekarang!
 
 379
-00:25:51,342 --> 00:25:53,544
+00:25:48,842 --> 00:25:51,044
 Kalian mendengar boss
 wanita! Ayo bergerak!
 
 380
-00:26:03,487 --> 00:26:05,988
+00:26:00,987 --> 00:26:03,488
 Dokter Stanton.
 Apakah kau punya bioakustik-nya?
 
 381
-00:26:05,990 --> 00:26:07,690
+00:26:03,490 --> 00:26:05,190
 Akustik sedang dimuat!
 
 382
-00:26:09,092 --> 00:26:11,293
+00:26:06,592 --> 00:26:08,793
 Oke, dia mendekat.
 Kita berjarak 800 meter!
 
 383
-00:26:11,295 --> 00:26:12,928
+00:26:08,795 --> 00:26:10,428
 Gerakannya tidak menentu.
 
 384
-00:26:12,930 --> 00:26:14,496
+00:26:10,430 --> 00:26:11,996
 Jantung dan pernapasan meningkat.
 
 385
-00:26:14,498 --> 00:26:16,965
+00:26:11,998 --> 00:26:14,465
 Ya, dia jelas tidak
 senang karena sesuatu.
 
 386
-00:26:16,967 --> 00:26:18,466
+00:26:14,467 --> 00:26:15,966
 Bagaimana mereka mendapatkan semua ini?
 
 387
-00:26:18,468 --> 00:26:21,071
+00:26:15,968 --> 00:26:18,571
 Emma mengisolasi bioakustik Godzilla.
 
 388
-00:26:21,939 --> 00:26:23,906
+00:26:19,439 --> 00:26:21,406
 Itu memungkinkan kami untuk melacaknya.
 
 389
-00:26:23,908 --> 00:26:25,540
+00:26:21,408 --> 00:26:23,040
 Bahkan untuk mendapatkan tanda vitalnya.
 
 390
-00:26:29,313 --> 00:26:31,713
+00:26:26,813 --> 00:26:29,213
 Berputar sekarang, mendekat, 200 meter.
 
 391
-00:26:31,715 --> 00:26:33,148
+00:26:29,215 --> 00:26:30,648
 Kolonel!
 
 392
-00:26:33,150 --> 00:26:34,916
+00:26:30,650 --> 00:26:32,416
 Semua tim dalam
 posisi, senjata api,
 
 393
-00:26:34,918 --> 00:26:36,353
-bersiap melakukan serangan
-di bawah perintahku.
+00:26:32,418 --> 00:26:33,853
+bersiap melakukan perintahku.
 
 394
-00:26:38,622 --> 00:26:40,024
+00:26:36,122 --> 00:26:37,524
 Ayo, ayo, ayo.
 
 395
-00:26:40,690 --> 00:26:42,023
+00:26:38,190 --> 00:26:39,523
 <font color="#00ff00"><b>SENJATA SIAP</b></font>
 
 <i>Tahan tembakanmu.</i>
 
 396
-00:26:42,025 --> 00:26:43,626
+00:26:39,525 --> 00:26:41,126
 Kita tidak tahu dia akan menyerang.
 
 397
-00:26:43,628 --> 00:26:46,229
-Dia akan melakukannya jika kalian
-menjauhkan senjata itu.
+00:26:41,128 --> 00:26:43,729
+Dia akan melakukannya jika kau
+menyimpan senjata itu padanya.
 
 398
-00:26:46,231 --> 00:26:47,963
+00:26:43,731 --> 00:26:45,463
 Sekarang aku ingin dia
 mati lebih dari siapa pun,
 
 399
-00:26:47,965 --> 00:26:50,264
+00:26:45,465 --> 00:26:47,764
 tapi kecuali ini pertarungan
 yang kau tahu bisa kau menangkankan,
 
 400
-00:26:50,266 --> 00:26:51,503
+00:26:47,766 --> 00:26:49,003
 demi Tuhan, mundurlah.
 
 401
-00:26:58,876 --> 00:27:00,309
+00:26:56,376 --> 00:26:57,809
 Matikan.
 
 402
-00:27:00,311 --> 00:27:01,809
+00:26:57,811 --> 00:26:59,309
 Kau tak mungkin serius.
 
 403
-00:27:01,811 --> 00:27:03,180
+00:26:59,311 --> 00:27:00,680
 Aku serius.
 
 404
-00:27:03,981 --> 00:27:05,617
+00:27:01,481 --> 00:27:03,117
 Matikan.
 
 405
-00:27:07,718 --> 00:27:08,983
+00:27:05,218 --> 00:27:06,483
 Matikan.
 
 406
-00:27:08,985 --> 00:27:10,185
+00:27:06,485 --> 00:27:07,685
 Aku katakan lagi,
 amankan senjatamu.
 
 407
-00:27:10,187 --> 00:27:11,488
+00:27:07,687 --> 00:27:08,988
 Jangan terlibat.
 
 408
-00:27:16,061 --> 00:27:17,262
+00:27:13,561 --> 00:27:14,762
 Dengarkan.
 
 409
-00:27:18,996 --> 00:27:21,932
+00:27:16,496 --> 00:27:19,432
 Detak jantungnya melambat.
 
 410
-00:27:28,907 --> 00:27:31,540
+00:27:26,407 --> 00:27:29,040
 Buka perisainya.
 
 411
-00:27:31,542 --> 00:27:33,475
+00:27:29,042 --> 00:27:30,975
 Oh ya, tentu.
 Mari kita bawa dia untuk minum bir.
 
 412
-00:27:33,477 --> 00:27:36,111
+00:27:30,977 --> 00:27:33,611
 Kau sudah gila?
 
 413
-00:27:36,113 --> 00:27:37,982
+00:27:33,613 --> 00:27:35,482
 Biarkan dia tahu kita bukan ancaman.
 
 414
-00:27:39,149 --> 00:27:40,886
+00:27:36,649 --> 00:27:38,386
 Buka perisainya.
 
 415
-00:27:46,456 --> 00:27:47,458
+00:27:43,956 --> 00:27:44,958
 Lakukan.
 
 416
-00:28:22,025 --> 00:28:24,327
+00:28:19,525 --> 00:28:21,827
 Hei, ada apa dengan cahaya itu?
 
 417
-00:28:24,329 --> 00:28:27,396
+00:28:21,829 --> 00:28:24,896
 Itu adalah tampilan intimidasi.
 
 418
-00:28:27,398 --> 00:28:30,031
+00:28:24,898 --> 00:28:27,531
 Seperti seekor gorila
 yang memukuli dadanya.
 
 419
-00:28:30,033 --> 00:28:32,067
+00:28:27,533 --> 00:28:29,567
 Menganggap kita sangat...
 
 420
-00:28:32,069 --> 00:28:33,605
+00:28:29,569 --> 00:28:31,105
 ...mengintimidasi.
 
 421
-00:28:35,273 --> 00:28:37,475
+00:28:32,773 --> 00:28:34,975
 Aku tidak berpikir itu untuk kita.
 
 422
-00:28:46,117 --> 00:28:47,652
+00:28:43,617 --> 00:28:45,152
 Apa yang kau lakukan, kawan?
 
 423
-00:29:15,679 --> 00:29:17,181
+00:29:13,179 --> 00:29:14,681
 Yah, itu menarik.
 
 424
-00:29:18,448 --> 00:29:19,450
+00:29:15,948 --> 00:29:16,950
 Ya Tuhan!
 
 425
-00:29:29,226 --> 00:29:31,396
+00:29:26,726 --> 00:29:28,896
 Bisakah kita menutup perisai sekarang?
 
 426
-00:29:32,530 --> 00:29:35,129
+00:29:30,030 --> 00:29:32,629
 Tunjukkan padaku rute wilayahnya.
 
 427
-00:29:35,131 --> 00:29:36,665
+00:29:32,631 --> 00:29:34,165
 Apa? Mengapa?
 
 428
-00:29:36,667 --> 00:29:38,567
+00:29:34,167 --> 00:29:36,067
 Karena aku ingin memulai tur kapal.
 Tunjukkan saja padaku.
 
 429
-00:29:38,569 --> 00:29:40,735
+00:29:36,069 --> 00:29:38,235
 Baik. Segera.
 
 430
-00:29:40,737 --> 00:29:42,771
+00:29:38,237 --> 00:29:40,271
 Kau ingin memberi tahu
 kami apa yang kau cari?
 
 431
-00:29:42,773 --> 00:29:44,706
+00:29:40,273 --> 00:29:42,206
 Ketika seekor binatang
 meninggalkan tempat perburuannya,
 
 432
-00:29:44,708 --> 00:29:46,742
+00:29:42,208 --> 00:29:44,242
 biasanya karena terancam oleh sesuatu.
 
 433
-00:29:46,744 --> 00:29:48,211
+00:29:44,244 --> 00:29:45,711
 Jalankan proyeksi pengejaran.
 
 434
-00:29:48,213 --> 00:29:49,711
+00:29:45,713 --> 00:29:47,211
 Kita harus mengejarnya.
 
 435
-00:29:49,713 --> 00:29:51,782
+00:29:47,213 --> 00:29:49,282
 Dia mencari sesuatu di luar sana.
 
 436
-00:29:52,750 --> 00:29:54,185
+00:29:50,250 --> 00:29:51,685
 Bisa jadi ORCA.
 
 437
-00:29:56,753 --> 00:29:59,488
+00:29:54,253 --> 00:29:56,988
 Dokter Stanton, apa proyeksimu?
 
 438
-00:29:59,490 --> 00:30:02,560
+00:29:56,990 --> 00:30:00,060
 Semua jalur membuatnya
 mendarat di tempat yang sama.
 
 439
-00:30:04,294 --> 00:30:05,560
+00:30:01,794 --> 00:30:03,060
 Antartika.
 
 440
-00:30:05,562 --> 00:30:06,928
+00:30:03,062 --> 00:30:04,428
 Bagus kalau begitu.
 
 441
-00:30:06,930 --> 00:30:09,667
+00:30:04,430 --> 00:30:07,167
 Maksudku, ayo pergi!
 Ayo cari dia.  Ayo...
 
 442
-00:30:11,001 --> 00:30:13,969
+00:30:08,501 --> 00:30:11,469
 Tunggu, apa yang ada di Antartika?
 
 443
-00:30:13,971 --> 00:30:15,069
+00:30:11,471 --> 00:30:12,569
 Barnes...,
 
 444
-00:30:15,071 --> 00:30:17,271
+00:30:12,571 --> 00:30:14,771
 ...hubungi Argo.
 
 445
-00:30:17,273 --> 00:30:18,510
+00:30:14,773 --> 00:30:16,010
 Siap, Bu.
 
 446
-00:30:28,273 --> 00:30:32,000
+00:30:25,773 --> 00:30:29,500
 {\an4}<font color="#00ff00"><b>USS ARGO
 PESAWAT KOMANDO MONARCH</b></font>
 
 447
-00:30:29,753 --> 00:30:31,820
+00:30:27,253 --> 00:30:29,320
 <i>Spesimen di situs ini</i>
 
 448
-00:30:31,822 --> 00:30:33,722
+00:30:29,322 --> 00:30:31,222
 telah dirahasiakan sepenuhnya.
 
 449
-00:30:33,724 --> 00:30:36,024
+00:30:31,224 --> 00:30:33,524
 Dan karena ini adalah
 penemuan yang lebih baru,
 
 450
-00:30:36,026 --> 00:30:38,293
+00:30:33,526 --> 00:30:35,793
 data kami terbatas.
 
 451
-00:30:38,295 --> 00:30:41,029
+00:30:35,795 --> 00:30:38,529
 Tapi itu tampaknya menjadi
 puncak predator lainnya.
 
 452
-00:30:41,031 --> 00:30:43,598
+00:30:38,531 --> 00:30:41,098
 Emma menyebutnya Monster Zero.
 
 453
-00:30:43,600 --> 00:30:45,967
+00:30:41,100 --> 00:30:43,467
 Itu mungkin merupakan
 saingan dominan bagi Godzilla.
 
 454
-00:30:45,969 --> 00:30:48,803
+00:30:43,469 --> 00:30:46,303
 Berjuang untuk dominasi
 atas para Titan lainnya.
 
 455
-00:30:48,805 --> 00:30:50,272
+00:30:46,305 --> 00:30:47,772
 Dokter Chen?
 
 456
-00:30:50,274 --> 00:30:52,840
+00:30:47,774 --> 00:30:50,340
 Aku telah menjelajahi mitos...
 
 457
-00:30:52,842 --> 00:30:54,376
+00:30:50,342 --> 00:30:51,876
 ...dan legenda ribuan tahun.
 
 458
-00:30:54,378 --> 00:30:56,979
+00:30:51,878 --> 00:30:54,479
 Tetapi hampir semua orang takut
 
 459
-00:30:56,981 --> 00:30:58,547
+00:30:54,481 --> 00:30:56,047
 bahkan menulis tentang itu.
 
 460
-00:30:58,549 --> 00:31:01,148
+00:30:56,049 --> 00:30:58,648
 Seolah-olah itu dimaksudkan untuk dilupakan.
 
 461
-00:31:01,150 --> 00:31:02,350
+00:30:58,650 --> 00:30:59,850
 Maaf, aku benci menganggu,
 
 462
-00:31:02,352 --> 00:31:03,618
+00:30:59,852 --> 00:31:01,118
 tapi aku mendapat kabar buruk.
 
 463
-00:31:03,620 --> 00:31:05,253
+00:31:01,120 --> 00:31:02,753
 Kau bisa saja mengatakan
 berita. Itu selalu buruk.
 
 464
-00:31:05,255 --> 00:31:06,655
+00:31:02,755 --> 00:31:04,155
 Kami kehilangan Godzilla.
 
 465
-00:31:06,657 --> 00:31:08,690
+00:31:04,157 --> 00:31:06,190
 Dia menjatuhkan pemindaian
 di dekat Venezuela.
 
 466
-00:31:08,692 --> 00:31:09,791
+00:31:06,192 --> 00:31:07,291
 Menjatuhkan?
 
 467
-00:31:09,793 --> 00:31:11,126
+00:31:07,293 --> 00:31:08,626
 Aku katakan, Dokter Brooks benar.
 
 468
-00:31:11,128 --> 00:31:12,427
+00:31:08,628 --> 00:31:09,927
 Ini konsep "Hollow Earth".
 (Bumi berongga)
 
 469
-00:31:12,429 --> 00:31:14,329
+00:31:09,929 --> 00:31:11,829
 Begitulah cara dia bergerak begitu cepat
 
 470
-00:31:14,331 --> 00:31:17,500
+00:31:11,831 --> 00:31:15,000
 menggunakan terowongan bawah
 air ini seperti lubang cacing.
 
 471
-00:31:17,502 --> 00:31:19,434
+00:31:15,002 --> 00:31:16,934
 Hanya seperti berkeliling saja.
 
 472
-00:31:19,436 --> 00:31:21,036
+00:31:16,936 --> 00:31:18,536
 Semua orang perhatikan.
 
 473
-00:31:21,038 --> 00:31:22,874
+00:31:18,538 --> 00:31:20,374
 Kita mendekati markas.
 
 474
-00:31:32,782 --> 00:31:35,684
+00:31:30,282 --> 00:31:33,184
 - Mereka disini.
 - Buat mereka sibuk.
 
 475
-00:31:35,686 --> 00:31:37,752
+00:31:33,186 --> 00:31:35,252
 Luncurkan kekuatan reaksi. Pergilah!
 
 476
-00:31:37,754 --> 00:31:39,791
+00:31:35,254 --> 00:31:37,291
 <i>Baiklah, tuan-tuan!
 Mendapat izin!</i>
 
 477
-00:32:00,744 --> 00:32:02,011
+00:31:58,244 --> 00:31:59,511
 Jika Jonah sedang melihat
 
 478
-00:32:02,013 --> 00:32:03,345
+00:31:59,513 --> 00:32:00,845
 untuk mengekstraksi sampel genetik
 
 479
-00:32:03,347 --> 00:32:06,182
+00:32:00,847 --> 00:32:03,682
 mereka akan berada
 di sini di laboratorium bio.
 
 480
-00:32:06,184 --> 00:32:07,683
+00:32:03,684 --> 00:32:05,183
 Baiklah, dua menit!
 
 481
-00:32:07,685 --> 00:32:09,686
+00:32:05,185 --> 00:32:07,186
 Periksa peralatan kalian,
 berdirilah di dekat pintu.
 
 482
-00:32:28,138 --> 00:32:30,407
+00:32:25,638 --> 00:32:27,907
 Ayo, Ash.
 Lekaslah.
 
 483
-00:32:32,243 --> 00:32:34,209
+00:32:29,743 --> 00:32:31,709
 - Detonator siap.
 - Ayo pergi.
 
 484
-00:32:34,211 --> 00:32:35,543
+00:32:31,711 --> 00:32:33,043
 Ayo, Maddie.
 
 485
-00:32:35,545 --> 00:32:36,747
+00:32:33,045 --> 00:32:34,247
 Jalan! Jalan!
 
 486
-00:32:54,865 --> 00:32:57,635
+00:32:52,365 --> 00:32:55,135
 Ingat, perhatikan.
 Kita punya teman di sini.
 
 487
-00:32:59,837 --> 00:33:01,603
+00:32:57,337 --> 00:32:59,103
 <i>Bergerak ke terowongan dua.</i>
 
 488
-00:33:01,605 --> 00:33:03,271
+00:32:59,105 --> 00:33:00,771
 <i>Tetap awasi.</i>
 
 489
-00:33:03,273 --> 00:33:04,641
+00:33:00,773 --> 00:33:02,141
 <i>Dimengerti, Ketua.</i>
 
 490
-00:33:22,694 --> 00:33:24,393
+00:33:20,194 --> 00:33:21,893
 <i>Penyergapan! Penyergapan!</i>
 
 491
-00:33:28,631 --> 00:33:30,732
+00:33:26,131 --> 00:33:28,232
 Tim diserang! Penyergapan total!
 
 492
-00:33:30,734 --> 00:33:32,503
+00:33:28,234 --> 00:33:30,003
 <i>Kami banyak kehilangan.</i>
 
 493
-00:33:33,169 --> 00:33:34,404
+00:33:30,669 --> 00:33:31,904
 Berpencar!
 
 494
-00:33:36,674 --> 00:33:37,973
+00:33:34,174 --> 00:33:35,473
 <i> Tahan tembakanmu!
 Tahan tembakanmu!</i>
 
 495
-00:33:37,975 --> 00:33:39,040
+00:33:35,475 --> 00:33:36,540
 <i>Ada teman kita!</i>
 
 496
-00:33:39,042 --> 00:33:40,244
+00:33:36,542 --> 00:33:37,744
 <i>Tidak!</i>
 
 497
-00:33:41,078 --> 00:33:42,280
+00:33:38,578 --> 00:33:39,780
 Mark?
 
 498
-00:33:44,113 --> 00:33:46,114
+00:33:41,613 --> 00:33:43,614
 Turun ke sana dan bantu Barnes.
 Aku akan mengejarnya.
 
 499
-00:33:46,116 --> 00:33:47,318
+00:33:43,616 --> 00:33:44,818
 Diterima.
 
 500
-00:34:00,465 --> 00:34:04,401
+00:33:57,965 --> 00:34:01,901
 Hai teman-teman. Aku mendapatkan
 pembacaan EKG (detak jantung).
 
 501
-00:34:09,206 --> 00:34:11,139
+00:34:06,706 --> 00:34:08,639
 Emma?
 
 502
-00:34:11,141 --> 00:34:12,674
+00:34:08,641 --> 00:34:10,174
 Maddie!
 
 503
-00:34:12,676 --> 00:34:14,311
+00:34:10,176 --> 00:34:11,811
 Nomor satu, ayo pergi.
 
 504
-00:34:20,650 --> 00:34:22,317
+00:34:18,150 --> 00:34:19,817
 Barnes, ini Foster.
 
 505
-00:34:22,319 --> 00:34:26,291
+00:34:19,819 --> 00:34:23,791
 Aku sudah melihat target.
 Diulangi, melihat target.
 
 506
-00:34:31,862 --> 00:34:32,997
+00:34:29,362 --> 00:34:30,497
 Lepaskan mereka!
 
 507
-00:34:35,598 --> 00:34:37,534
+00:34:33,098 --> 00:34:35,034
 - Ash!
 - Ayah!
 
 508
-00:34:39,436 --> 00:34:42,237
+00:34:36,936 --> 00:34:39,737
 - Mark.
 - Emma, ​​Madison, ayo pergi.
 
 509
-00:34:42,239 --> 00:34:43,438
+00:34:39,739 --> 00:34:40,938
 Ayah.
 
 510
-00:34:43,440 --> 00:34:44,806
+00:34:40,940 --> 00:34:42,306
 Ayo pergi.
 
 511
-00:34:44,808 --> 00:34:45,974
+00:34:42,308 --> 00:34:43,474
 - Emma, ​​Maddie, ayolah.
 - Ayah?
 
 512
-00:34:45,976 --> 00:34:47,610
+00:34:43,476 --> 00:34:45,110
 Madison, berjalanlah ke Ayah.
 
 513
-00:34:47,612 --> 00:34:50,244
+00:34:45,112 --> 00:34:47,744
 Berjalanlah ke Ayah
 sekarang. Ayolah, sayang.
 
 514
-00:34:50,246 --> 00:34:52,179
+00:34:47,746 --> 00:34:49,679
 Barnes, aku punya dua
 sandera, satu target tewas.
 
 515
-00:34:52,181 --> 00:34:54,315
+00:34:49,681 --> 00:34:51,815
 - Sekarang! Ayo, Maddie.
 - <i>Aku tidak bisa menembak.</i>
 
 516
-00:34:54,317 --> 00:34:55,717
+00:34:51,817 --> 00:34:53,217
 <i>Diulangi, aku tidak bisa menembak.</i>
 
 517
-00:34:55,719 --> 00:34:57,418
+00:34:53,219 --> 00:34:54,918
 Emma, ​​apa yang kau
 lakukan? Ayo pergi. Ayolah!
 
 518
-00:34:57,420 --> 00:34:58,922
+00:34:54,920 --> 00:34:56,422
 - Ayah.
 - Maddie.
 
 519
-00:35:00,123 --> 00:35:01,326
+00:34:57,623 --> 00:34:58,826
 Ayah.
 
 520
-00:35:04,127 --> 00:35:05,495
+00:35:01,627 --> 00:35:02,995
 Madison.
 
 521
-00:35:31,589 --> 00:35:33,123
+00:35:29,089 --> 00:35:30,623
 Apa apaan?
 
 522
-00:35:41,498 --> 00:35:42,867
+00:35:38,998 --> 00:35:40,367
 Aku minta maaf.
 
 523
-00:35:45,402 --> 00:35:46,969
+00:35:42,902 --> 00:35:44,469
 Lari.
 
 524
-00:36:01,685 --> 00:36:02,886
+00:35:59,185 --> 00:36:00,386
 Maddie!
 
 525
-00:36:04,322 --> 00:36:05,523
+00:36:01,822 --> 00:36:03,023
 Ayah!
 
 526
-00:36:07,924 --> 00:36:08,926
+00:36:05,424 --> 00:36:06,426
 Bergerak, bergerak!
 
 527
-00:36:25,241 --> 00:36:27,544
+00:36:22,741 --> 00:36:25,044
 <i>- Foster!
 - Minggir!</i>
 
 528
-00:36:28,712 --> 00:36:30,145
+00:36:26,212 --> 00:36:27,645
 <i>- Ayo pergi!</i>
 - Bertahanlah! Jalan!
 
 529
-00:36:30,147 --> 00:36:31,813
+00:36:27,647 --> 00:36:29,313
 Hendricks, lebih cepat!
 
 530
-00:36:31,815 --> 00:36:33,484
+00:36:29,315 --> 00:36:30,984
 - Aku memegangmu, Kolonel!
 - Pegang kakinya!
 
 531
-00:36:35,384 --> 00:36:36,686
+00:36:32,884 --> 00:36:34,186
 <i>Kita harus pergi!</i>
 
 532
-00:36:42,226 --> 00:36:43,428
+00:36:39,726 --> 00:36:40,928
 Sial!
 
 533
-00:36:50,900 --> 00:36:53,201
+00:36:48,400 --> 00:36:50,701
 Martinez, Foster, ayo pergi!
 
 534
-00:36:53,203 --> 00:36:54,538
+00:36:50,703 --> 00:36:52,038
 Bergerak, bergerak! Ayolah!
 
 535
-00:36:57,340 --> 00:36:59,643
+00:36:54,840 --> 00:36:57,143
 Ayo pergi! Amankan!
 
 536
-00:37:01,244 --> 00:37:03,545
+00:36:58,744 --> 00:37:01,045
 Tak ada pemeriksaan saat ini.
 Periksa otoritas.
 
 537
-00:37:03,547 --> 00:37:04,980
+00:37:01,047 --> 00:37:02,480
 Aman.
 
 538
-00:37:04,982 --> 00:37:06,681
+00:37:02,482 --> 00:37:04,181
 - Apa yang Ayah lakukan di sini?
 - Ibu tidak tahu, sayang.
 
 539
-00:37:06,683 --> 00:37:08,652
+00:37:04,183 --> 00:37:06,152
 Ayo pergi.
 
 540
-00:37:10,888 --> 00:37:12,454
+00:37:08,388 --> 00:37:09,954
 Kita tidak bisa meninggalkannya.
 
 541
-00:37:12,456 --> 00:37:13,688
+00:37:09,956 --> 00:37:11,188
 Apa yang kau tunggu?
 
 542
-00:37:13,690 --> 00:37:15,193
+00:37:11,190 --> 00:37:12,693
 Bangunkan itu!
 
 543
-00:37:29,572 --> 00:37:31,141
+00:37:27,072 --> 00:37:28,641
 Ayo pergi! Bergerak!
 
 544
-00:38:56,460 --> 00:38:58,628
+00:38:53,960 --> 00:38:56,128
 Tidak mungkin.
 
 545
-00:39:11,040 --> 00:39:13,108
+00:39:08,540 --> 00:39:10,608
 Kembali! Kembali!
 
 546
-00:39:13,110 --> 00:39:16,113
+00:39:10,610 --> 00:39:13,613
 Pergi ke helikopter!
 
 547
-00:39:16,880 --> 00:39:18,049
+00:39:14,380 --> 00:39:15,549
 Pergi, pergi, pergi!
 
 548
-00:39:28,558 --> 00:39:30,026
+00:39:26,058 --> 00:39:27,526
 Tembak!
 
 549
-00:39:39,703 --> 00:39:42,770
+00:39:37,203 --> 00:39:40,270
 Kami akan melakukan lepas landas
 vertikal darurat pada RPM maksimal.
 
 550
-00:39:42,772 --> 00:39:44,074
+00:39:40,272 --> 00:39:41,574
 Nomor dua masih mempercepat.
 
 551
-00:39:57,686 --> 00:39:59,288
+00:39:55,186 --> 00:39:56,788
 Oh, sial.
 
 552
-00:40:23,045 --> 00:40:24,813
+00:40:20,545 --> 00:40:22,313
 Ini adalah Raptor One ke Argo.
 
 553
-00:40:24,815 --> 00:40:26,880
+00:40:22,315 --> 00:40:24,380
 Meminta ekstrak mendesak segera.
 
 554
-00:40:26,882 --> 00:40:28,750
+00:40:24,382 --> 00:40:26,250
 Sekali lagi, aku katakan ekstrak mendesak.
 
 555
-00:40:28,752 --> 00:40:29,953
+00:40:26,252 --> 00:40:27,453
 Griffin, bawa kami keluar dari sini!
 
 556
-00:40:32,656 --> 00:40:34,255
+00:40:30,156 --> 00:40:31,755
 Madison!
 
 557
-00:40:34,257 --> 00:40:35,389
+00:40:31,757 --> 00:40:32,889
 Madison, jangan!
 
 558
-00:40:44,802 --> 00:40:46,802
+00:40:42,302 --> 00:40:44,302
 - Kau harus melepaskannya!
 - Tidak! Tidak! Tidak!
 
 559
-00:40:46,804 --> 00:40:48,704
+00:40:44,304 --> 00:40:46,204
 - Madison!
 - Maddie!Ayo!
 
 560
-00:40:48,706 --> 00:40:50,207
+00:40:46,206 --> 00:40:47,707
 Tidak!
 
 561
-00:41:21,572 --> 00:41:23,804
+00:41:19,072 --> 00:41:21,304
 Argo ini Raptor One.
 Kami telah dihantam.
 
 562
-00:41:23,806 --> 00:41:25,176
+00:41:21,306 --> 00:41:22,676
 Semua sistem mati.
 
 563
-00:41:27,777 --> 00:41:29,112
+00:41:25,277 --> 00:41:26,612
 Awas!
 
 564
-00:42:49,625 --> 00:42:51,261
+00:42:47,125 --> 00:42:48,761
 Semuanya, pegangan!
 
 565
-00:43:11,947 --> 00:43:13,150
+00:43:09,447 --> 00:43:10,650
 Mark!
 
 566
-00:43:16,520 --> 00:43:19,085
+00:43:14,020 --> 00:43:16,585
 Semuanya, Keluar.
 Ayo pergi!
 
 567
-00:43:19,087 --> 00:43:20,422
+00:43:16,587 --> 00:43:17,922
 Pergi! Pergi!
 
 568
-00:43:20,424 --> 00:43:22,126
+00:43:17,924 --> 00:43:19,626
 - Mark!
 - Aku terjebak.
 
 569
-00:43:40,110 --> 00:43:41,308
+00:43:37,610 --> 00:43:38,808
 Apakah kau baik-baik saja?
 
 570
-00:43:41,310 --> 00:43:43,346
+00:43:38,810 --> 00:43:40,846
 Oke! Aku bisa.
 Pergi, pergi!
 
 571
-00:45:34,056 --> 00:45:35,523
+00:45:31,556 --> 00:45:33,023
 Apa saja yang ada di satelit?
 
 572
-00:45:35,525 --> 00:45:37,425
+00:45:33,025 --> 00:45:34,925
 Kapal selam melihat Godzilla
 pergi dari Argentina.
 
 573
-00:45:37,427 --> 00:45:40,695
+00:45:34,927 --> 00:45:38,195
 Kami kehilangan Monster Zero
 dalam badai tropis di seluruh Brasil.
 
 574
-00:45:40,697 --> 00:45:42,864
+00:45:38,197 --> 00:45:40,364
 Memindai seluruh Belahan Bumi Selatan.
 
 575
-00:45:42,866 --> 00:45:44,099
+00:45:40,366 --> 00:45:41,599
 Sejauh ini tidak ada.
 
 576
-00:45:44,101 --> 00:45:45,333
+00:45:41,601 --> 00:45:42,833
 Maka pindai bagian Utara.
 
 577
-00:45:45,335 --> 00:45:46,567
+00:45:42,835 --> 00:45:44,067
 Ya, ya, ya.
 
 578
-00:45:46,569 --> 00:45:48,168
+00:45:44,069 --> 00:45:45,668
 Aku tahu apa yang kulihat, Sam.
 
 579
-00:45:48,170 --> 00:45:50,404
+00:45:45,670 --> 00:45:47,904
 Dan aku katakan, dia
 menarik pemicu itu.
 
 580
-00:45:50,406 --> 00:45:52,239
+00:45:47,906 --> 00:45:49,739
 Dengan segala hormat,
 Kolonel, kau salah lihat.
 
 581
-00:45:52,241 --> 00:45:53,907
+00:45:49,741 --> 00:45:51,407
 Baik? Dia tidak akan melakukannya.
 
 582
-00:45:53,909 --> 00:45:56,311
+00:45:51,409 --> 00:45:53,811
 Astaga, dia merekrut hampir
 semua orang di ruangan ini.
 
 583
-00:45:56,313 --> 00:45:58,445
+00:45:53,813 --> 00:45:55,945
 Mungkin Jonah memaksanya, kan?
 
 584
-00:45:58,447 --> 00:46:00,382
+00:45:55,947 --> 00:45:57,882
 Mungkin dia menggunakan
 Madison sebagai pemicunya.
 
 585
-00:46:00,384 --> 00:46:01,983
+00:45:57,884 --> 00:45:59,483
 Tidak, tidak. Itu pasti orang lain.
 
 586
-00:46:01,985 --> 00:46:03,187
+00:45:59,485 --> 00:46:00,687
 Emma.
 
 587
-00:46:05,621 --> 00:46:07,290
+00:46:03,121 --> 00:46:04,790
 Itu Emma.
 
 588
-00:46:08,157 --> 00:46:10,724
+00:46:05,657 --> 00:46:08,224
 Foster melihatnya dengan benar.
 
 589
-00:46:10,726 --> 00:46:12,594
+00:46:08,226 --> 00:46:10,094
 Itu dia. Tidak ada yang memaksanya.
 
 590
-00:46:12,596 --> 00:46:13,764
-Apakah kau yakin?
+00:46:10,096 --> 00:46:11,264
+Apakah kau yakin
 
 591
-00:46:15,531 --> 00:46:17,699
+00:46:13,031 --> 00:46:15,199
 Pertama, dia melepaskan Mothra.
 
 592
-00:46:17,701 --> 00:46:19,400
+00:46:15,201 --> 00:46:16,900
 Dan sekarang Monster Zero.
 
 593
-00:46:19,402 --> 00:46:22,570
+00:46:16,902 --> 00:46:20,070
 Adakah yang merasa ada pola di sini?
 
 594
-00:46:22,572 --> 00:46:24,271
+00:46:20,072 --> 00:46:21,771
 Ya, dan tidak bagus.
 
 595
-00:46:24,273 --> 00:46:26,373
+00:46:21,773 --> 00:46:23,873
 Seolah-olah dia sedang mencoba
 memulai kebangkitan massal.
 
 596
-00:46:26,375 --> 00:46:28,710
+00:46:23,875 --> 00:46:26,210
 Yah, sayang sekali
 tidak ada yang mencoba
 
 597
-00:46:28,712 --> 00:46:30,378
+00:46:26,212 --> 00:46:27,878
 untuk memperingatkanmu
 bahwa itu akan terjadi.
 
 598
-00:46:30,380 --> 00:46:31,846
+00:46:27,880 --> 00:46:29,346
 Tunggu sebentar, teman-teman.
 
 599
-00:46:31,848 --> 00:46:34,049
+00:46:29,348 --> 00:46:31,549
 Kenapa dia ingin melepaskan mereka?
 
 600
-00:46:34,051 --> 00:46:35,683
+00:46:31,551 --> 00:46:33,183
 Dan mengapa dia
 bergabung dengan Jonah,
 
 601
-00:46:35,685 --> 00:46:37,686
+00:46:33,185 --> 00:46:35,186
 meninggalkan semua orang,
 untuk melakukannya?
 
 602
-00:46:37,688 --> 00:46:38,786
+00:46:35,188 --> 00:46:36,286
 Kita akan bertanya padanya...
 
 603
-00:46:38,788 --> 00:46:40,690
+00:46:36,288 --> 00:46:38,190
 ...saat kita menemukannya.
 
 604
-00:46:41,824 --> 00:46:45,161
+00:46:39,324 --> 00:46:42,661
 Jadi, mari kita terus mencari.
 
 605
-00:46:59,543 --> 00:47:01,375
+00:46:57,043 --> 00:46:58,875
 <i>Godzilla tampaknya mengikuti</i>
 
 606
-00:47:01,377 --> 00:47:02,976
+00:46:58,877 --> 00:47:00,476
 jalan yang sama dengan
 pesawat Emma,
 
 607
-00:47:02,978 --> 00:47:05,746
+00:47:00,478 --> 00:47:03,246
 menuju utara melintasi
 Amerika Selatan ke sini.
 
 608
-00:47:05,748 --> 00:47:08,483
+00:47:03,248 --> 00:47:05,983
 Pos terdepan 56 di Isla de Mara, Meksiko.
 
 609
-00:47:08,485 --> 00:47:10,652
+00:47:05,985 --> 00:47:08,152
 Kita mendarat di sana dalam sepuluh menit.
 
 610
-00:47:10,654 --> 00:47:12,020
+00:47:08,154 --> 00:47:09,520
 Bagaimana dengan penduduknya?
 
 611
-00:47:12,022 --> 00:47:13,554
+00:47:09,522 --> 00:47:11,054
 Maaf?
 
 612
-00:47:13,556 --> 00:47:16,157
+00:47:11,056 --> 00:47:13,657
 Penduduk. Orang-orang
 di sana di desa itu
 
 613
-00:47:16,159 --> 00:47:17,793
+00:47:13,659 --> 00:47:15,293
 yang tidak menyadari
 mereka akan mengalami...
 
 614
-00:47:17,795 --> 00:47:19,161
+00:47:15,295 --> 00:47:16,661
 ...hari yang spesial.
 
 615
-00:47:19,163 --> 00:47:21,061
+00:47:16,663 --> 00:47:18,561
 Kami telah mengirim G-Team
 untuk memulai evakuasi.
 
 616
-00:47:21,063 --> 00:47:22,362
+00:47:18,563 --> 00:47:19,862
 Dokter Serizawa,
 
 617
-00:47:22,364 --> 00:47:23,931
+00:47:19,864 --> 00:47:21,431
 kita punya panggilan
 di saluran darurat...
 
 618
-00:47:23,933 --> 00:47:25,032
+00:47:21,433 --> 00:47:22,532
 ...dari Isla de Mara.
 
 619
-00:47:25,034 --> 00:47:26,469
+00:47:22,534 --> 00:47:23,969
 Jawablah.
 
 620
-00:47:34,643 --> 00:47:36,110
+00:47:32,143 --> 00:47:33,610
 <i>Kukira aku harus duluan.</i>
 
 621
-00:47:36,112 --> 00:47:38,045
+00:47:33,612 --> 00:47:35,545
 Dimana Madison?
 
 622
-00:47:38,047 --> 00:47:40,348
+00:47:35,547 --> 00:47:37,848
 <i>- Dia ada di sini bersamaku.
 - Ayah, kau baik-baik saja?</i>
 
 623
-00:47:40,350 --> 00:47:42,683
+00:47:37,850 --> 00:47:40,183
 Madison, kau baik-baik saja, sayang?
 
 624
-00:47:42,685 --> 00:47:43,686
+00:47:40,185 --> 00:47:41,186
 <i>Ayah...</i>
 
 625
-00:47:45,022 --> 00:47:47,154
+00:47:42,522 --> 00:47:44,654
 <i>Aku minta maaf.</i>
 
 626
-00:47:47,156 --> 00:47:48,355
+00:47:44,656 --> 00:47:45,855
 Kau tidak perlu...
 
 627
-00:47:48,357 --> 00:47:49,724
+00:47:45,857 --> 00:47:47,224
 <i>Tidak apa-apa. Tidak apa-apa.</i>
 
 628
-00:47:49,726 --> 00:47:50,991
+00:47:47,226 --> 00:47:48,491
 <i>Maafkan aku, Ayah.</i>
 
 629
-00:47:50,993 --> 00:47:52,592
+00:47:48,493 --> 00:47:50,092
 Dia baik-baik saja, Mark,
 percayalah padaku.
 
 630
-00:47:52,594 --> 00:47:54,094
+00:47:50,094 --> 00:47:51,594
 <i>Kepercayaan adalah hal sulit...</i>
 
 631
-00:47:54,096 --> 00:47:55,429
+00:47:51,596 --> 00:47:52,929
 <i>...untuk dilakukan, Dokter Russell.</i>
 
 632
-00:47:55,431 --> 00:47:57,030
+00:47:52,931 --> 00:47:54,530
 Apalagi setelah apa
 yang kau sebabkan.
 
 633
-00:47:57,032 --> 00:47:58,500
+00:47:54,532 --> 00:47:56,000
 <i>Aku tahu.</i>
 
 634
-00:47:58,502 --> 00:48:03,003
+00:47:56,002 --> 00:48:00,503
 Dan aku hanya bisa membayangkan
 apa yang kalian semua pikirkan.
 
 635
-00:48:03,005 --> 00:48:06,808
+00:48:00,505 --> 00:48:04,308
 <i>Tetapi jika ada cara lain untuk
 melakukan ini, aku akan melakukannya.</i>
 
 636
-00:48:06,810 --> 00:48:08,445
+00:48:04,310 --> 00:48:05,945
 Melakukan apa, Emma?
 
 637
-00:48:09,311 --> 00:48:10,945
+00:48:06,811 --> 00:48:08,445
 <i>Aku menyelamatkan dunia.</i>
 
 638
-00:48:10,947 --> 00:48:13,614
+00:48:08,447 --> 00:48:11,114
 Tetapi dengan melepaskan
 makhluk-makhluk itu? Itu tidak masuk akal.
 
 639
-00:48:13,616 --> 00:48:17,050
+00:48:11,116 --> 00:48:14,550
 <i>Tidak seperti kelihatannya,
 memang demikian.</i>
 
 640
-00:48:17,052 --> 00:48:19,020
+00:48:14,552 --> 00:48:16,520
 <i>Dengarkan aku, Mark.</i>
 
 641
-00:48:19,022 --> 00:48:20,721
+00:48:16,522 --> 00:48:18,221
 <i>Setelah kita kehilangan Andrew,</i>
 
 642
-00:48:20,723 --> 00:48:23,657
+00:48:18,223 --> 00:48:21,157
 <i>Aku bersumpah kematiannya
 tidak akan sia-sia.</i>
 
 643
-00:48:23,659 --> 00:48:26,027
+00:48:21,159 --> 00:48:23,527
 <i>Bahwa aku akan menemukan jawaban.</i>
 
 644
-00:48:26,029 --> 00:48:28,395
+00:48:23,529 --> 00:48:25,895
 <i>Sebuah solusi untuk tahu
-mengapa para Titan bangkit.</i>
+mengapa para Titan meningkat.</i>
 
 645
-00:48:28,397 --> 00:48:29,929
+00:48:25,897 --> 00:48:27,429
 <i>Tapi saat aku menggali lebih dalam,</i>
 
 646
-00:48:29,931 --> 00:48:34,201
+00:48:27,431 --> 00:48:31,701
 <i>Aku menyadari bahwa mereka ada
 di sini karena suatu alasan </i>
 
 647
-00:48:34,203 --> 00:48:35,636
+00:48:31,703 --> 00:48:33,136
 <i>Dan terlepas dari bertahun-tahun</i>
 
 648
-00:48:35,638 --> 00:48:39,007
+00:48:33,138 --> 00:48:36,507
 <i>yang kita habiskan untuk
 mencoba menghentikan mereka,</i>
 
 649
-00:48:39,009 --> 00:48:41,375
+00:48:36,509 --> 00:48:38,875
 <i>kita tidak pernah
 berani menghadapi kebenaran.</i>
 
 650
-00:48:41,377 --> 00:48:43,210
+00:48:38,877 --> 00:48:40,710
 Kebenaran yang mana?
 
 651
-00:48:43,212 --> 00:48:46,480
+00:48:40,712 --> 00:48:43,980
 Manusia telah menjadi spesies
 dominan selama ribuan tahun
 
 652
-00:48:46,482 --> 00:48:48,081
+00:48:43,982 --> 00:48:45,581
 dan lihat apa yang terjadi.
 
 653
-00:48:48,083 --> 00:48:50,351
+00:48:45,583 --> 00:48:47,851
 Populasi berlebihan,
 
 654
-00:48:50,353 --> 00:48:53,587
+00:48:47,853 --> 00:48:51,087
 <i>polusi, perang.</i>
 
 655
-00:48:53,589 --> 00:48:58,092
+00:48:51,089 --> 00:48:55,592
 <i>Kepunahan massal yang
 kita takuti sudah dimulai.</i>
 
 656
-00:48:58,094 --> 00:49:01,228
+00:48:55,594 --> 00:48:58,728
 <i>Dan kita adalah penyebabnya.</i>
 
 657
-00:49:01,230 --> 00:49:03,931
+00:48:58,730 --> 00:49:01,431
 <i>Kita adalah infeksinya.</i>
 
 658
-00:49:03,933 --> 00:49:06,000
+00:49:01,433 --> 00:49:03,500
 <i>Tapi seperti semua organisme hidup,</i>
 
 659
-00:49:06,002 --> 00:49:09,404
+00:49:03,502 --> 00:49:06,904
 <i>bumi mengeluarkan panas
 untuk melawan infeksi ini.</i>
 
 660
-00:49:09,406 --> 00:49:13,440
+00:49:06,906 --> 00:49:10,940
 <i>Penguasa aslinya dan sah,</i>
 
 661
-00:49:13,442 --> 00:49:15,108
+00:49:10,942 --> 00:49:12,608
 <i>adalah para Titan.</i>
 
 662
-00:49:15,110 --> 00:49:18,279
+00:49:12,610 --> 00:49:15,779
 <i> Mereka adalah
 bagian dari sistem pertahanan alami bumi.</i>
 
 663
-00:49:18,281 --> 00:49:22,550
+00:49:15,781 --> 00:49:20,050
 <i>Cara untuk melindungi planet ini,
 untuk menjaga keseimbangannya.</i>
 
 664
-00:49:22,552 --> 00:49:26,688
+00:49:20,052 --> 00:49:24,188
 <i>Tetapi jika pemerintah diizinkan
 untuk menahannya, menghancurkan mereka,</i>
 
 665
-00:49:26,690 --> 00:49:28,688
+00:49:24,190 --> 00:49:26,188
 <i>atau menggunakannya untuk perang,</i>
 
 666
-00:49:28,690 --> 00:49:31,826
+00:49:26,190 --> 00:49:29,326
 <i>infeksi manusia hanya
 akan terus menyebar.</i>
 
 667
-00:49:31,828 --> 00:49:37,898
+00:49:29,328 --> 00:49:35,398
 <i>Dan dalam hidup kita,
 planet kita akan musnah...,</i>
 
 668
-00:49:37,900 --> 00:49:39,599
+00:49:35,400 --> 00:49:37,099
 <i>...dan begitu juga kita.</i>
 
 669
-00:49:39,601 --> 00:49:42,603
+00:49:37,101 --> 00:49:40,103
 Kecuali kita mengembalikan keseimbangan.
 
 670
-00:49:42,605 --> 00:49:45,139
+00:49:40,105 --> 00:49:42,639
 <i>Dan apa yang akan tersisa,
 jika kau melakukan ini?</i>
 
 671
-00:49:45,141 --> 00:49:48,876
+00:49:42,641 --> 00:49:46,376
 <i>Dunia mati dan hangus,
 dikuasai monster?</i>
 
 672
-00:49:48,878 --> 00:49:50,244
+00:49:46,378 --> 00:49:47,744
 Tidak, Dokter Stanton,
 
 673
-00:49:50,246 --> 00:49:51,913
+00:49:47,746 --> 00:49:49,413
 <i>malah kebalikannya.</i>
 
 674
-00:49:51,915 --> 00:49:54,815
+00:49:49,415 --> 00:49:52,315
 <i>Sama seperti bagaimana kebakaran
 hutan mengisi kembali tanah</i>
 
 675
-00:49:54,817 --> 00:49:57,418
+00:49:52,317 --> 00:49:54,918
 <i>atau bagaimana gunung
 berapi menciptakan pulau baru,</i>
 
 676
-00:49:57,420 --> 00:50:00,154
+00:49:54,920 --> 00:49:57,654
 <i>kita telah melihat tanda-tanda bahwa
 makhluk-makhluk ini akan melakukan hal yang sama.</i>
 
 677
-00:50:00,156 --> 00:50:03,991
+00:49:57,656 --> 00:50:01,491
 <i>San Francisco, Las Vegas,
 ke mana pun para Titan pergi,</i>
 
 678
-00:50:03,993 --> 00:50:07,695
+00:50:01,493 --> 00:50:05,195
 <i>kehidupan mengikuti,
 dipicu oleh radiasi mereka.</i>
 
 679
-00:50:07,697 --> 00:50:09,864
+00:50:05,197 --> 00:50:07,364
 <i>Mereka adalah satu-satunya
 hal yang dapat membalikan</i>
 
 680
-00:50:09,866 --> 00:50:11,733
+00:50:07,366 --> 00:50:09,233
 <i>kehancuran yang kita mulai.</i>
 
 681
-00:50:11,735 --> 00:50:15,869
+00:50:09,235 --> 00:50:13,369
 <i>Mereka adalah satu-satunya
 jaminan bahwa kehidupan akan berlanjut.</i>
 
 682
-00:50:15,871 --> 00:50:19,105
+00:50:13,371 --> 00:50:16,605
 <i>Tetapi agar itu terjadi,
 kita harus membebaskan mereka.</i>
 
 683
-00:50:19,107 --> 00:50:20,875
+00:50:16,607 --> 00:50:18,375
 Kau membunuh dunia.
 
 684
-00:50:20,877 --> 00:50:22,110
+00:50:18,377 --> 00:50:19,610
 <i>Tidak.</i>
 
 685
-00:50:22,112 --> 00:50:24,210
+00:50:19,612 --> 00:50:21,710
 <i>Karena sesulit ini,</i>
 
 686
-00:50:24,212 --> 00:50:27,114
+00:50:21,712 --> 00:50:24,614
 <i>aku berjanji manusia tidak akan punah.</i>
 
 687
-00:50:27,116 --> 00:50:31,719
+00:50:24,616 --> 00:50:29,219
 <i>Menggunakan ORCA, kita
 akan kembali ke tatanan alami.</i>
 
 688
-00:50:31,721 --> 00:50:34,255
+00:50:29,221 --> 00:50:31,755
 <i>Tatanan yang terlupakan,
 tempat kita hidup berdampingan</i>
 
 689
-00:50:34,257 --> 00:50:36,023
+00:50:31,757 --> 00:50:33,523
 <i>seimbang dengan para Titan.</i>
 
 690
-00:50:36,025 --> 00:50:37,958
+00:50:33,525 --> 00:50:35,458
 <i>Dewa pertama.</i>
 
 691
-00:50:37,960 --> 00:50:40,594
+00:50:35,460 --> 00:50:38,094
 Ini jalan yang berbahaya.
 
 692
-00:50:40,596 --> 00:50:43,831
+00:50:38,096 --> 00:50:41,331
 Kau ikut campur dengan
 kekuatan di luar pemahaman kami.
 
 693
-00:50:43,833 --> 00:50:45,866
+00:50:41,333 --> 00:50:43,366
 Bertaruh dengan miliaran kehidupan!
 
 694
-00:50:45,868 --> 00:50:48,201
+00:50:43,368 --> 00:50:45,701
 <i>Dan apa yang kau pertaruhkan, Serizawa?</i>
 
 695
-00:50:48,203 --> 00:50:49,904
-<i>Monarch sudah hancur.</i>
+00:50:45,703 --> 00:50:47,404
+<i>Monarch sudah rusak.</i>
 
 696
-00:50:49,906 --> 00:50:51,873
+00:50:47,406 --> 00:50:49,373
 <i>Itu hampir ditutup
 oleh pemerintah</i>
 
 697
-00:50:51,875 --> 00:50:54,308
+00:50:49,375 --> 00:50:51,808
 <i>yang satu-satunya tujuannya adalah
 untuk memberantas makhluk-makhluk itu.</i>
 
 698
-00:50:54,310 --> 00:50:57,344
+00:50:51,810 --> 00:50:54,844
 <i>Dan jika itu terjadi,
 apa peluang kita nantinya?</i>
 
 699
-00:50:57,346 --> 00:50:59,112
+00:50:54,846 --> 00:50:56,612
 Kau sudah gila!
 
 700
-00:50:59,114 --> 00:51:00,982
+00:50:56,614 --> 00:50:58,482
 <i>Pertama, kau menempatkan kehidupan
 putri kita dalam bahaya,</i>
 
 701
-00:51:00,984 --> 00:51:02,715
+00:50:58,484 --> 00:51:00,215
 <i>dan sekarang kau
 bisa memutuskan nasib dunia.</i>
 
 702
-00:51:02,717 --> 00:51:05,219
+00:51:00,217 --> 00:51:02,719
 - Itu konyol, Emma!
 - Aku tidak bisa lebih waras,
 
 703
-00:51:05,221 --> 00:51:07,422
+00:51:02,721 --> 00:51:04,922
 <i>dan Madison tidak bisa lebih kuat.</i>
 
 704
-00:51:07,424 --> 00:51:10,391
+00:51:04,924 --> 00:51:07,891
 <i>Setelah kita kehilangan Andrew,
 aku melatihnya untuk bertahan hidup.</i>
 
 705
-00:51:10,393 --> 00:51:13,628
+00:51:07,893 --> 00:51:11,128
 <i>Dan setidaknya sekarang,
 dia akan punya kesempatan berjuang.</i>
 
 706
-00:51:13,630 --> 00:51:15,797
+00:51:11,130 --> 00:51:13,297
 Kesempatan berjuang? Mengapa kau
 tidak mendengarkan dirimu sendiri?
 
 707
-00:51:15,799 --> 00:51:17,965
+00:51:13,299 --> 00:51:15,465
 <i>Tidak semua perhitungan, Emma.</i>
 
 708
-00:51:17,967 --> 00:51:19,800
+00:51:15,467 --> 00:51:17,300
 <i>Beberapa hal, kau
 tidak bisa mengontrolnya.</i>
 
 709
-00:51:19,802 --> 00:51:22,438
+00:51:17,302 --> 00:51:19,938
 <i>Dan ada beberapa hal yang
 tidak bisa kau hindari.</i>
 
 710
-00:51:23,873 --> 00:51:26,310
-Ini tidak akan membawa
-kembali anak kita.
+00:51:21,373 --> 00:51:23,810
+Ini tidak akan membawanya
+kembali kepada kita.
 
 711
-00:51:40,690 --> 00:51:43,560
+00:51:38,190 --> 00:51:41,060
 <i>Aku hanya bisa mendesak
 kalian semua untuk berlindung.</i>
 
 712
-00:51:44,560 --> 00:51:46,159
+00:51:42,060 --> 00:51:43,659
 <i>Selama 60 tahun terakhir,</i>
 
 713
-00:51:46,161 --> 00:51:48,829
+00:51:43,661 --> 00:51:46,329
 <i>Monarch telah menyiapkan
 bunker di seluruh dunia</i>
 
 714
-00:51:48,831 --> 00:51:51,465
+00:51:46,331 --> 00:51:48,965
 <i>untuk menyimpan dan
 memulai kembali peradaban.</i>
 
 715
-00:51:51,467 --> 00:51:53,436
+00:51:48,967 --> 00:51:50,936
 <i>Aku sarankan kau menemukannya.</i>
 
 716
-00:52:00,643 --> 00:52:01,976
+00:51:58,143 --> 00:51:59,476
 Dasar jalang.
 
 717
-00:52:01,978 --> 00:52:04,478
+00:51:59,478 --> 00:52:01,978
 Berapa lama sampai benda ini mendarat?
 
 718
-00:52:04,480 --> 00:52:05,813
+00:52:01,980 --> 00:52:03,313
 Tiga menit.
 
 719
-00:52:05,815 --> 00:52:07,382
+00:52:03,315 --> 00:52:04,882
 Kau mungkin ingin
 memikirkan kembali itu.
 
 720
-00:52:07,384 --> 00:52:08,750
+00:52:04,884 --> 00:52:06,250
 Mengapa?
 
 721
-00:52:08,752 --> 00:52:10,650
+00:52:06,252 --> 00:52:08,150
 Ada yang tidak beres.
 Lihat ini.
 
 722
-00:52:10,652 --> 00:52:12,953
+00:52:08,152 --> 00:52:10,453
 Emma bukan di Isla de Mara.
 
 723
-00:52:12,955 --> 00:52:15,623
+00:52:10,455 --> 00:52:13,123
 Maksudku, sinyalnya terlalu
 lemah untuk ukuran lokal.
 
 724
-00:52:15,625 --> 00:52:17,391
+00:52:13,125 --> 00:52:14,891
 Dia memantulkannya dari satelit kita.
 
 725
-00:52:17,393 --> 00:52:19,793
+00:52:14,893 --> 00:52:17,293
 Mereka pasti bersembunyi
 di salah satu bunker lama kita.
 
 726
-00:52:19,795 --> 00:52:21,594
+00:52:17,295 --> 00:52:19,094
 Dia bisa berada di mana saja.
 
 727
-00:52:21,596 --> 00:52:25,132
+00:52:19,096 --> 00:52:22,632
 Apa itu?
 
 728
-00:52:25,134 --> 00:52:29,170
+00:52:22,634 --> 00:52:26,670
 Ya Tuhan! Dia mematikan sistem penahanan.
 
 729
-00:52:29,172 --> 00:52:30,507
+00:52:26,672 --> 00:52:28,007
 Berapa banyak waktu yang kita miliki?
 
 730
-00:52:31,806 --> 00:52:33,273
+00:52:29,306 --> 00:52:30,773
 Sistem penahanan dilewati.
 Kami menghubungkannya.
 
 731
-00:52:33,275 --> 00:52:35,078
+00:52:30,775 --> 00:52:32,578
 - Hmm.
 - Siap menyiarkan ORCA.
 
 732
-00:52:37,313 --> 00:52:38,748
+00:52:34,813 --> 00:52:36,248
 Dokter?
 
 733
-00:52:52,295 --> 00:52:53,895
+00:52:49,795 --> 00:52:51,395
 Bu, jangan!
 
 734
-00:52:53,897 --> 00:52:56,996
+00:52:51,397 --> 00:52:54,496
 Maaf, apakah seorang anak kecil baru saja
 memberi tahumu apa yang harus dilakukan?
 
 735
-00:52:56,998 --> 00:52:58,733
+00:52:54,498 --> 00:52:56,233
 Mungkin Ayah benar.
 Mungkin ini bukan jalannya.
 
 736
-00:52:58,735 --> 00:53:00,433
+00:52:56,235 --> 00:52:57,933
 Tentu saja, Dokter Russell,
 
 737
-00:53:00,435 --> 00:53:02,001
+00:52:57,935 --> 00:52:59,501
 mari kita pertimbangkan
 kembali seluruh rencana kita.
 
 738
-00:53:02,003 --> 00:53:03,704
+00:52:59,503 --> 00:53:01,204
 Apalagi setelah memberi
 tahu temanmu tentang hal itu.
 
 739
-00:53:03,706 --> 00:53:05,540
+00:53:01,206 --> 00:53:03,040
 Madison, kita sudah membahas ini.
 
 740
-00:53:05,542 --> 00:53:07,007
+00:53:03,042 --> 00:53:04,507
 Tidak, Ibu bilang akan membantu orang,
 
 741
-00:53:07,009 --> 00:53:08,442
+00:53:04,509 --> 00:53:05,942
 Ibu akan membiarkan mereka
 menemukan tempat berlindung.
 
 742
-00:53:08,444 --> 00:53:11,779
+00:53:05,944 --> 00:53:09,279
 Kita tidak punya waktu untuk ini!
 
 743
-00:53:11,781 --> 00:53:13,715
+00:53:09,281 --> 00:53:11,215
 Apakah kau benar-benar
 berpikir ini akan mudah?
 
 744
-00:53:13,717 --> 00:53:15,315
+00:53:11,217 --> 00:53:12,815
 Tanpa rasa sakit? Apakah itu
 yang kau katakan padanya?
 
 745
-00:53:15,317 --> 00:53:16,817
+00:53:12,817 --> 00:53:14,317
 Biarkan dia keluar dari ini.
 
 746
-00:53:16,819 --> 00:53:18,485
+00:53:14,319 --> 00:53:15,985
 Mengapa? Kaulah yang
 menariknya ke dalam ini.
 
 747
-00:53:18,487 --> 00:53:22,523
+00:53:15,987 --> 00:53:20,023
 Madison, katakan padaku, apa
 tepatnya yang Ibumu bilang padamu?
 
 748
-00:53:22,525 --> 00:53:24,025
+00:53:20,025 --> 00:53:21,525
 Sesuatu yang sempurna?
 
 749
-00:53:24,027 --> 00:53:25,893
+00:53:21,527 --> 00:53:23,393
 Manusia dan monster, hidup bersama
 
 750
-00:53:25,895 --> 00:53:27,427
+00:53:23,395 --> 00:53:24,927
 dalam harmoni yang penuh kebahagiaan?
 
 751
-00:53:27,429 --> 00:53:29,730
+00:53:24,929 --> 00:53:27,230
 Pak, mereka berusaha untuk mengunci kita.
 
 752
-00:53:29,732 --> 00:53:31,132
+00:53:27,232 --> 00:53:28,632
 Sekarang atau tidak sama sekali.
 
 753
-00:53:31,134 --> 00:53:35,804
+00:53:28,634 --> 00:53:33,304
 Emma, ​​kau datang kepadaku.
 Ini rencanamu.
 
 754
-00:53:35,806 --> 00:53:37,739
+00:53:33,306 --> 00:53:35,239
 Kita berdua ingin menyelamatkan planet ini,
 
 755
-00:53:37,741 --> 00:53:38,973
+00:53:35,241 --> 00:53:36,473
 tapi semuanya akan mati...
 
 756
-00:53:38,975 --> 00:53:41,007
+00:53:36,475 --> 00:53:38,507
 ...jika kita tidak menyelesaikannya.
 
 757
-00:53:41,009 --> 00:53:44,915
+00:53:38,509 --> 00:53:42,415
 Tolong, setidaknya biarkan
 mereka sampai di tempat yang aman.
 
 758
-00:53:45,500 --> 00:53:46,610
+00:53:43,000 --> 00:53:44,110
 <font color="#00ff00"><b>ANCAMAN TITAN: EVAKUASI ISLA DE MARA</b></font>
 
 759
-00:53:46,616 --> 00:53:49,786
+00:53:44,116 --> 00:53:47,286
 Bu, perangkat kami tertutup.
 
 760
-00:53:51,420 --> 00:53:52,923
+00:53:48,920 --> 00:53:50,423
 Bu...
 
 761
-00:53:55,824 --> 00:53:57,590
+00:53:53,324 --> 00:53:55,090
 Maaf, Madison.
 
 762
-00:53:57,592 --> 00:53:59,596
+00:53:55,092 --> 00:53:57,096
 Ini lebih penting daripada kau dan Ibu.
 
 763
-00:54:11,392 --> 00:54:15,510
+00:54:08,892 --> 00:54:13,010
 {\an1}<font color="#00ff00"><b>ISLA DE MARA, MEKSIKO
 POS TERDEPAN MONARCH 56</b></font>
 
 764
-00:54:25,121 --> 00:54:26,721
+00:54:22,621 --> 00:54:24,221
 Katakan pada mereka untuk tenang!
 
 765
-00:54:26,723 --> 00:54:28,225
+00:54:24,223 --> 00:54:25,725
 Suruh mereka mundur!
 
 766
-00:54:36,264 --> 00:54:38,634
+00:54:33,764 --> 00:54:36,134
 Bergerak! Minggir!
 
 767
-00:55:02,958 --> 00:55:04,159
+00:55:00,458 --> 00:55:01,659
 Pergi, kawan!
 
 768
-00:55:20,500 --> 00:55:25,487
+00:55:18,000 --> 00:55:22,987
 <font color="#80ffff">Request sub berbayar & Bisnis :</font>
 <b><i><font color="#ff0080">jcsub77@gmail.com</font></i></b>
 
 769
-00:55:42,764 --> 00:55:44,864
+00:55:40,264 --> 00:55:42,364
 Kau punya nama yang mudah
 diingat untuk yang ini?
 
 770
-00:55:44,866 --> 00:55:46,567
+00:55:42,366 --> 00:55:44,067
 Legenda lokal menyebutnya...
 
 771
-00:55:46,569 --> 00:55:49,270
+00:55:44,069 --> 00:55:46,770
 ...Rodan, si iblis api.
 
 772
-00:55:49,272 --> 00:55:51,505
+00:55:46,772 --> 00:55:49,005
 Itu menghibur.
 
 773
-00:55:51,507 --> 00:55:52,873
+00:55:49,007 --> 00:55:50,373
 Teman-teman?
 
 774
-00:55:52,875 --> 00:55:54,641
+00:55:50,375 --> 00:55:52,141
 Kalian ingat badai tropis itu
 
 775
-00:55:54,643 --> 00:55:55,909
+00:55:52,143 --> 00:55:53,409
 dimana kita kehilangan Monster Zero?
 
 776
-00:55:55,911 --> 00:55:58,746
+00:55:53,411 --> 00:55:56,246
 Ini mengubah arah dan, eh,
 
 777
-00:55:58,748 --> 00:56:00,248
+00:55:56,248 --> 00:55:57,748
 tebak kemana arahnya sekarang.
 
 778
-00:56:00,250 --> 00:56:02,282
+00:55:57,750 --> 00:55:59,782
 Itu tidak mungkin.
 
 779
-00:56:02,284 --> 00:56:04,117
+00:55:59,784 --> 00:56:01,617
 Tidak ada badai yang bergerak secepat itu.
 
 780
-00:56:04,119 --> 00:56:06,822
+00:56:01,619 --> 00:56:04,322
 Kecuali itu bukan badai.
 
 781
-00:56:08,924 --> 00:56:10,523
+00:56:06,424 --> 00:56:08,023
 - Astaga!
 - Kita butuh waktu...
 
 782
-00:56:10,525 --> 00:56:11,793
+00:56:08,025 --> 00:56:09,293
 ...untuk menyelesaikan evakuasi.
 
 783
-00:56:11,795 --> 00:56:12,960
+00:56:09,295 --> 00:56:10,460
 Nah, kalau begitu sebaiknya kau bergegas,
 
 784
-00:56:12,962 --> 00:56:14,161
+00:56:10,462 --> 00:56:11,661
 karena itu mendekat dengan cepat.
 
 785
-00:56:14,163 --> 00:56:16,362
+00:56:11,663 --> 00:56:13,862
 Serizawa, itu bukan kebetulan
 
 786
-00:56:16,364 --> 00:56:18,366
+00:56:13,864 --> 00:56:15,866
 kalau Monster Zero menuju ke sini.
 
 787
-00:56:18,368 --> 00:56:20,099
+00:56:15,868 --> 00:56:17,599
 Ini bereaksi terhadap
 teriakan Burung Besar.
 
 788
-00:56:20,101 --> 00:56:22,203
+00:56:17,601 --> 00:56:19,703
 Berarti itu datang untuk
 makanan, berkelahi, atau...
 
 789
-00:56:22,205 --> 00:56:24,605
+00:56:19,705 --> 00:56:22,105
 ...sesuatu yang lebih intim.
 
 790
-00:56:24,607 --> 00:56:26,610
+00:56:22,107 --> 00:56:24,110
 Apa yang kau sarankan?
 
 791
-00:56:28,110 --> 00:56:29,610
+00:56:25,610 --> 00:56:27,110
 <i>Semua pejuang,</i>
 
 792
-00:56:29,612 --> 00:56:31,348
+00:56:27,112 --> 00:56:28,848
 <i>lepaskan tembakan.</i>
 
 793
-00:56:54,302 --> 00:56:55,936
+00:56:51,802 --> 00:56:53,436
 Oh, Kupikir kita mendapat perhatiannya.
 
 794
-00:56:55,938 --> 00:56:57,637
+00:56:53,438 --> 00:56:55,137
 Semuanya pasang sabuk.
 
 795
-00:56:57,639 --> 00:56:59,875
+00:56:55,139 --> 00:56:57,375
 Semua kapal, ikuti petunjuk kami.
 
 796
-00:57:34,810 --> 00:57:36,442
+00:57:32,310 --> 00:57:33,942
 Tidak!
 
 797
-00:57:37,679 --> 00:57:38,978
+00:57:35,179 --> 00:57:36,478
 Tolong! Tunggu!
 
 798
-00:57:38,980 --> 00:57:40,748
+00:57:36,480 --> 00:57:38,248
 Itu akan baik-baik saja!
 
 799
-00:57:40,750 --> 00:57:42,351
+00:57:38,250 --> 00:57:39,851
 Bertahanlah, Nak!
 
 800
-00:57:58,735 --> 00:58:00,233
+00:57:56,235 --> 00:57:57,733
 Argo ke Gold Skuad .
 
 801
-00:58:00,235 --> 00:58:02,569
+00:57:57,735 --> 00:58:00,069
 Mari kita memancing kalkun
 ini menjauh dari daratan
 
 802
-00:58:02,571 --> 00:58:03,704
+00:58:00,071 --> 00:58:01,204
 langsung menuju ke Monster Zero.
 
 803
-00:58:03,706 --> 00:58:04,971
+00:58:01,206 --> 00:58:02,471
 Estimasi waktu dua menit!
 
 804
-00:58:04,973 --> 00:58:06,806
+00:58:02,473 --> 00:58:04,306
 Gold Skuad, ikuti arah jam 6 kami.
 
 805
-00:58:06,808 --> 00:58:08,410
+00:58:04,308 --> 00:58:05,910
 <i>Diterima. Mulai arahnya.</i>
 
 806
-00:58:26,494 --> 00:58:28,764
+00:58:23,994 --> 00:58:26,264
 <i>Bogey. Ketinggian arah jam sembilan!</i>
 
 807
-00:58:35,904 --> 00:58:37,670
+00:58:33,404 --> 00:58:35,170
 Lap 223.
 
 808
-00:58:37,672 --> 00:58:39,540
+00:58:35,172 --> 00:58:37,040
 <i>Keluar dari sana. Dia ada di
 belakangmu! Keluar dari sana!</i>
 
 809
-00:58:48,150 --> 00:58:49,784
+00:58:45,650 --> 00:58:47,284
 Cobra's Raptor keluar dari tim!
 
 810
-00:58:49,786 --> 00:58:52,255
+00:58:47,286 --> 00:58:49,755
 Estimasi waktu ke Monster Zero, 60 detik!
 
 811
-00:58:54,489 --> 00:58:55,723
+00:58:51,989 --> 00:58:53,223
 <i>Raptor 37.</i>
 
 812
-00:58:55,725 --> 00:58:57,960
+00:58:53,225 --> 00:58:55,460
 <i>Bogey dia datang dibelakangmu.</i>
 
 813
-00:59:09,038 --> 00:59:10,170
+00:59:06,538 --> 00:59:07,670
 <i>Aku kehilangan kendali di sini.</i>
 
 814
-00:59:10,172 --> 00:59:11,438
+00:59:07,672 --> 00:59:08,938
 <i>Aku kehilangan kendali!</i>
 
 815
-00:59:16,878 --> 00:59:18,779
+00:59:14,378 --> 00:59:16,279
 Kita kehilangan skuad!
 
 816
-00:59:18,781 --> 00:59:21,016
+00:59:16,281 --> 00:59:18,516
 Estimasi waktu ke Monster Zero, 30 detik!
 
 817
-00:59:38,667 --> 00:59:39,869
+00:59:36,167 --> 00:59:37,369
 Sepuluh detik!
 
 818
-01:00:01,123 --> 01:00:03,525
+00:59:58,623 --> 01:00:01,025
 Menukik! Menukik!
 
 819
-01:00:27,917 --> 01:00:29,683
+01:00:25,417 --> 01:00:27,183
 Astaga, mereka saling membunuh.
 
 820
-01:00:29,685 --> 01:00:30,918
+01:00:27,185 --> 01:00:28,418
 <i>Mayday, mayday!
 Ini Raptor One ke Argo.</i>
 
 821
-01:00:30,920 --> 01:00:32,652
+01:00:28,420 --> 01:00:30,152
 <i>Argo, apakah kau dengar?</i>
 
 822
-01:00:32,654 --> 01:00:34,320
+01:00:30,154 --> 01:00:31,820
 <i>Diterima, Raptor One.
-Apa statusmu?</i>
+Apa statusmu</i>
 
 823
-01:00:34,322 --> 01:00:36,056
+01:00:31,822 --> 01:00:33,556
 <i>Kami kacau, itulah yang terjadi.</i>
 
 824
-01:00:36,058 --> 01:00:37,458
+01:00:33,558 --> 01:00:34,958
 Dan kami punya anak-anak di kapal.
 
 825
-01:00:37,460 --> 01:00:39,192
+01:00:34,960 --> 01:00:36,692
 Kami butuh penyelamatan di udara segera.
 
 826
-01:00:39,194 --> 01:00:40,594
+01:00:36,694 --> 01:00:38,094
 Kunci posisi mereka, dan siapkan hanggar
 
 827
-01:00:40,596 --> 01:00:42,228
+01:00:38,096 --> 01:00:39,728
 untuk pendaratan darurat.
 
 828
-01:00:42,230 --> 01:00:43,462
+01:00:39,730 --> 01:00:40,962
 Pintu hanggar tidak responsif.
 
 829
-01:00:43,464 --> 01:00:45,868
+01:00:40,964 --> 01:00:43,368
 - Timpa manual?
 - Itu macet!
 
 830
-01:00:47,435 --> 01:00:48,735
+01:00:44,935 --> 01:00:46,235
 Baiklah, yang mana jalan ke hanggar?
 
 831
-01:00:48,737 --> 01:00:49,869
+01:00:46,237 --> 01:00:47,369
 Aku bisa menunjukkannya kepadamu.
 
 832
-01:00:49,871 --> 01:00:51,505
+01:00:47,371 --> 01:00:49,005
 Ada lagi?
 
 833
-01:00:51,507 --> 01:00:54,074
+01:00:49,007 --> 01:00:51,574
 Aku tahu jalannya.
 Aku... ayo!
 
 834
-01:00:54,076 --> 01:00:55,511
+01:00:51,576 --> 01:00:53,011
 Semoga kau mendapat kunci pas besar.
 
 835
-01:01:04,853 --> 01:01:06,721
+01:01:02,353 --> 01:01:04,221
 Apa masalahnya?
 
 836
-01:01:06,723 --> 01:01:08,121
+01:01:04,223 --> 01:01:05,621
 Sistem hidrolik macet!
 
 837
-01:01:08,123 --> 01:01:09,889
+01:01:05,623 --> 01:01:07,389
 Aku mencoba untuk memperbaikinya.
 
 838
-01:01:09,891 --> 01:01:11,025
+01:01:07,391 --> 01:01:08,525
 Itu tidak terlihat bagus.
 
 839
-01:01:19,668 --> 01:01:22,004
+01:01:17,168 --> 01:01:19,504
 Itu adalah Laksamana Stenz.
 
 840
-01:01:22,837 --> 01:01:24,505
+01:01:20,337 --> 01:01:22,005
 Laksamana.
 
 841
-01:01:24,507 --> 01:01:26,340
+01:01:22,007 --> 01:01:23,840
 <i>Dokter Serizawa, Kolonel Foster.</i>
 
 842
-01:01:26,342 --> 01:01:28,108
+01:01:23,842 --> 01:01:25,608
 <i>Aku ingin kau dan pasukanmu
 untuk segera keluar</i>
 
 843
-01:01:28,110 --> 01:01:29,875
+01:01:25,610 --> 01:01:27,375
 <i>dan mundur ke jarak yang aman.</i>
 
 844
-01:01:29,877 --> 01:01:32,012
+01:01:27,377 --> 01:01:29,512
 Laksamana, aku tidak mengerti.
 
 845
-01:01:32,014 --> 01:01:35,849
+01:01:29,514 --> 01:01:33,349
 <i>Kami telah mengembangkan
 prototipe untuk senjata baru.</i>
 
 846
-01:01:35,851 --> 01:01:37,550
+01:01:33,351 --> 01:01:35,050
 <i>Perusak oksigen.</i>
 
 847
-01:01:37,552 --> 01:01:40,755
+01:01:35,052 --> 01:01:38,255
 <i>Dirancang untuk memusnahkan
 semua bentuk kehidupan</i>
 
 848
-01:01:40,757 --> 01:01:42,288
+01:01:38,257 --> 01:01:39,788
 <i>dalam radius dua mil.</i>
 
 849
-01:01:42,290 --> 01:01:44,257
+01:01:39,790 --> 01:01:41,757
 <i>Dengan sedikit keberuntungan,
 itu akan membunuh makhluk-makhluk ini</i>
 
 850
-01:01:44,259 --> 01:01:46,626
+01:01:41,759 --> 01:01:44,126
 <i>dan mimpi buruk ini
 akhirnya akan berakhir.</i>
 
 851
-01:01:46,628 --> 01:01:48,427
+01:01:44,128 --> 01:01:45,927
 Laksamana, kita harus
 tetap percaya pada <i>Gojira.</i>
 
 852
-01:01:48,429 --> 01:01:51,098
+01:01:45,929 --> 01:01:48,598
 <i>Aku minta maaf, Dokter.
 Kau sudah punya kesempatan.</i>
 
 853
-01:01:51,100 --> 01:01:52,465
+01:01:48,600 --> 01:01:49,965
 <i>Rudal sudah dalam perjalanan.</i>
 
 854
-01:01:52,467 --> 01:01:54,704
+01:01:49,967 --> 01:01:52,204
 <i>Semoga Tuhan mengampuni kita semua.</i>
 
 855
-01:01:58,239 --> 01:02:00,040
+01:01:55,739 --> 01:01:57,540
 Dia tidak berbohong.
 
 856
-01:02:00,042 --> 01:02:01,842
+01:01:57,542 --> 01:01:59,342
 Itu datang dengan cepat.
 
 857
-01:02:01,844 --> 01:02:04,210
+01:01:59,344 --> 01:02:01,710
 <i>Argo, kau harus membuka
 pintu kargo sekarang!</i>
 
 858
-01:02:04,212 --> 01:02:05,878
+01:02:01,712 --> 01:02:03,378
 Siapkan kru kecelakaan dan pemadam kebakaran.
 
 859
-01:02:12,388 --> 01:02:14,257
+01:02:09,888 --> 01:02:11,757
 Apa yang kau lakukan?
 
 860
-01:02:17,592 --> 01:02:19,962
+01:02:15,092 --> 01:02:17,462
 Awas!
 
 861
-01:02:24,400 --> 01:02:25,401
+01:02:21,900 --> 01:02:22,901
 Bertahanlah!
 
 862
-01:02:27,436 --> 01:02:29,469
+01:02:24,936 --> 01:02:26,969
 Ayo, Griff! Ayolah!
 
 863
-01:02:29,471 --> 01:02:32,976
+01:02:26,971 --> 01:02:30,476
 Tabrak itu! Tabrak itu!
 
 864
-01:02:48,690 --> 01:02:50,523
+01:02:46,190 --> 01:02:48,023
 Itulah yang aku maksud, Griff!
 
 865
-01:02:50,525 --> 01:02:52,527
+01:02:48,025 --> 01:02:50,027
 Semuanya baik-baik saja?
 
 866
-01:02:53,795 --> 01:02:55,561
+01:02:51,295 --> 01:02:53,061
 Pergi ke bagian
 belakang hanggar.
 
 867
-01:02:55,563 --> 01:02:57,230
+01:02:53,063 --> 01:02:54,730
 Kita semua akan menuju ke sini.
 Lewat sini. Lewat sini.
 
 868
-01:02:57,232 --> 01:02:59,065
+01:02:54,732 --> 01:02:56,565
 Terima kasih untuk tumpangannya!
 
 869
-01:03:01,069 --> 01:03:02,471
+01:02:58,569 --> 01:02:59,971
 Pergi! Pergi!
 
 870
-01:03:04,706 --> 01:03:06,308
+01:03:02,206 --> 01:03:03,808
 Astaga!
 
 871
-01:03:31,234 --> 01:03:32,465
+01:03:28,734 --> 01:03:29,965
 Kita keluar dari sini.
 
 872
-01:03:32,467 --> 01:03:34,067
+01:03:29,967 --> 01:03:31,567
 Unit militer sudah meluncurkan senjata.
 
 873
-01:03:34,069 --> 01:03:35,268
+01:03:31,569 --> 01:03:32,768
 Ini akan membunuh mereka berdua.
 
 874
-01:03:35,270 --> 01:03:37,170
+01:03:32,770 --> 01:03:34,670
 Yah, itu bukan ide terburuk.
 
 875
-01:03:44,913 --> 01:03:46,480
+01:03:42,413 --> 01:03:43,980
 Sepuluh,
 
 876
-01:03:46,482 --> 01:03:47,717
+01:03:43,982 --> 01:03:45,217
 sembilan,
 
 877
-01:03:48,917 --> 01:03:50,483
+01:03:46,417 --> 01:03:47,983
 delapan,
 
 878
-01:03:50,485 --> 01:03:52,154
+01:03:47,985 --> 01:03:49,654
 tujuh...
 
 879
-01:04:03,130 --> 01:04:06,536
+01:04:00,630 --> 01:04:04,036
 ...tiga, dua...
 
 880
-01:04:50,880 --> 01:04:52,746
+01:04:48,380 --> 01:04:50,246
 Astaga.
 
 881
-01:04:52,748 --> 01:04:56,049
+01:04:50,248 --> 01:04:53,549
 Dokter Stanton, dapatkah
 kau menemukan <i>"Gojira"?</i> (Godzilla)
 
 882
-01:04:58,020 --> 01:05:00,822
+01:04:55,520 --> 01:04:58,322
 Ya. Aku mendapatkan sesuatu.
 
 883
-01:05:02,558 --> 01:05:07,663
+01:05:00,058 --> 01:05:05,163
 Tanda-tanda vitalnya memudar.
 Tingkat radiasi anjlok.
 
 884
-01:05:09,331 --> 01:05:11,601
+01:05:06,831 --> 01:05:09,101
 Ayo, makhluk besar. Berjuanglah.
 
 885
-01:05:21,877 --> 01:05:23,279
+01:05:19,377 --> 01:05:20,779
 Dia sudah tewas.
 
 886
-01:05:26,647 --> 01:05:29,618
+01:05:24,147 --> 01:05:27,118
 Sepertinya keinginanmu terkabul, Mark.
 
 887
-01:06:15,277 --> 01:06:19,500
+01:06:12,777 --> 01:06:17,000
 {\an1}<font color="#00ff00"><b>POS TERDEPAN MONARCH 55
 SEDONA, ARIZONA</b></font>
 
 888
-01:06:30,277 --> 01:06:32,400
+01:06:27,777 --> 01:06:29,900
 {\an1}<font color="#00ff00"><b>POS TERDEPAN MONARCH 67
 MUNCHEN, JERMAN</b></font>
 
 889
-01:06:46,400 --> 01:06:49,000
+01:06:43,900 --> 01:06:46,500
 {\an1}<font color="#00ff00"><b>POS TERDEPAN MONARCH 41
 GUNUNG FUJI, JEPANG</b></font>
 
 890
-01:06:49,400 --> 01:06:51,000
+01:06:46,900 --> 01:06:48,500
 {\an1}<font color="#00ff00"><b>POS TERDEPAN MONARCH 75
 JEBEL BARKAL, SUDAN</b></font>
 
 891
-01:06:53,969 --> 01:06:57,003
+01:06:51,469 --> 01:06:54,503
 Aku pikir kita akan melepaskan
 mereka secara bertahap.
 
 892
-01:06:57,005 --> 01:06:59,442
+01:06:54,505 --> 01:06:56,942
 Satu per satu.
 
 893
-01:07:00,375 --> 01:07:02,844
+01:06:57,875 --> 01:07:00,344
 Aku bukan orang yang melakukan ini.
 
 894
-01:07:08,516 --> 01:07:10,552
+01:07:06,016 --> 01:07:08,052
 Panjang umur raja.
 
 895
-01:07:22,096 --> 01:07:23,965
+01:07:19,596 --> 01:07:21,465
 Ibu adalah monster.
 
 896
-01:07:35,296 --> 01:07:38,500
+01:07:32,796 --> 01:07:36,000
 {\an4}<font color="#00ff00"><b>SITUS KEPOMPONG MOTHRA
 HUTAN HUJAN YUNNAN, TIONGKOK</b></font>
 
 897
-01:07:35,777 --> 01:07:37,511
+01:07:33,277 --> 01:07:35,011
 <i>Kastil Bravo, ini...</i>
 
 898
-01:07:37,513 --> 01:07:39,512
+01:07:35,013 --> 01:07:37,012
 <i>...Tim Penahanan Mosura.
 Apakah kau dengar? Ganti.</i>
 
 899
-01:07:39,514 --> 01:07:41,047
+01:07:37,014 --> 01:07:38,547
 Kastil Bravo,
 ini adalah Tim Penahanan.
 
 900
-01:07:41,049 --> 01:07:42,114
+01:07:38,549 --> 01:07:39,614
 Apa saja?
 
 901
-01:07:42,116 --> 01:07:43,483
+01:07:39,616 --> 01:07:40,983
 Dr. Brooks.
 
 902
-01:07:43,485 --> 01:07:45,052
+01:07:40,985 --> 01:07:42,552
 Kami kehilangan kontak dengan Argo,
 
 903
-01:07:45,054 --> 01:07:47,054
+01:07:42,554 --> 01:07:44,554
 Kastil Bravo dan situs penahanan lainnya.
 
 904
-01:07:47,056 --> 01:07:50,357
+01:07:44,556 --> 01:07:47,857
 Angkor Wat, Pulau Tengkorak, Gunung Batu.
 
 905
-01:07:50,359 --> 01:07:53,025
+01:07:47,859 --> 01:07:50,525
 Semua Titan, mereka melarikan diri.
 
 906
-01:07:53,027 --> 01:07:55,563
+01:07:50,527 --> 01:07:53,063
 <i>Ulangi, ini mungkin komunikasi terakhir kami.</i>
 
 907
-01:07:57,199 --> 01:07:58,931
+01:07:54,699 --> 01:07:56,431
 Tunggu, tunggu, tunggu.
 
 908
-01:07:58,933 --> 01:08:00,500
+01:07:56,433 --> 01:07:58,000
 Itu... Itu dia.
 
 909
-01:08:00,502 --> 01:08:02,335
+01:07:58,002 --> 01:07:59,835
 Dialah yang melakukan ini.
 
 910
-01:08:02,337 --> 01:08:05,873
+01:07:59,837 --> 01:08:03,373
 Mereka menanggapi panggilannya.
 
 911
-01:08:06,808 --> 01:08:09,078
+01:08:04,308 --> 01:08:06,578
 Astaga! Di mana Dokter Ling?
 
 912
-01:08:10,279 --> 01:08:11,880
+01:08:07,779 --> 01:08:09,380
 Dia ada di luar.
 
 913
-01:08:13,281 --> 01:08:17,453
+01:08:10,781 --> 01:08:14,953
 Dokter Ling! Kami kehilangan
 kontak dengan Monarch.
 
 914
-01:08:18,954 --> 01:08:20,556
+01:08:16,454 --> 01:08:18,056
 Dokter Ling?
 
 915
-01:09:31,125 --> 01:09:33,127
+01:09:28,625 --> 01:09:30,627
 - Madison, tunggu!
 - Menjauh dariku!
 
 916
-01:09:33,129 --> 01:09:34,827
+01:09:30,629 --> 01:09:32,327
 Dengar, Ibu tahu
 segalanya belum berakhir
 
 917
-01:09:34,829 --> 01:09:37,296
+01:09:32,329 --> 01:09:34,796
 persis sesuai rencana,
 tapi Ibu bisa memperbaikinya.
 
 918
-01:09:37,298 --> 01:09:38,631
+01:09:34,798 --> 01:09:36,131
 Sesuai dengan rencana?
 
 919
-01:09:38,633 --> 01:09:40,000
+01:09:36,133 --> 01:09:37,500
 Ibu mengatakan bahwa
 Ibu akan berhati-hati.
 
 920
-01:09:40,002 --> 01:09:41,367
+01:09:37,502 --> 01:09:38,867
 Bahwa Ibu akan
 melepaskan mereka satu per satu,
 
 921
-01:09:41,369 --> 01:09:42,601
+01:09:38,869 --> 01:09:40,101
 Ibu akan mengembalikan keseimbangan!
 
 922
-01:09:42,603 --> 01:09:44,070
+01:09:40,103 --> 01:09:41,570
 Mereka akan mengambil alih Monarch
 
 923
-01:09:44,072 --> 01:09:45,604
+01:09:41,572 --> 01:09:43,104
 dan membunuh para Titan.
 Ibu tidak punya pilihan.
 
 924
-01:09:45,606 --> 01:09:47,442
+01:09:43,106 --> 01:09:44,942
 Omong kosong!
 
 925
-01:09:50,745 --> 01:09:54,083
+01:09:48,245 --> 01:09:51,583
 Ibu bilang kita melakukan ini untuk Andrew.
 
 926
-01:09:58,553 --> 01:10:01,891
+01:09:56,053 --> 01:09:59,391
 Apakah Ibu merasa dia menginginkan ini?
 
 927
-01:10:08,830 --> 01:10:10,498
+01:10:06,330 --> 01:10:07,998
 Tentu saja.
 
 928
-01:10:14,837 --> 01:10:16,105
+01:10:12,337 --> 01:10:13,605
 Madison!
 
 929
-01:10:18,941 --> 01:10:20,109
+01:10:16,441 --> 01:10:17,609
 Madison!
 
 930
-01:10:32,855 --> 01:10:34,490
+01:10:30,355 --> 01:10:31,990
 Ada keberuntungan?
 
 931
-01:10:35,257 --> 01:10:37,157
+01:10:32,757 --> 01:10:34,657
 Tidak.
 
 932
-01:10:37,159 --> 01:10:40,726
+01:10:34,659 --> 01:10:38,226
 Apa pun yang digunakan Emma
 untuk membuat sinyal ORCA,
 
 933
-01:10:40,728 --> 01:10:42,327
+01:10:38,228 --> 01:10:39,827
 aku belum pernah mendengarnya.
 
 934
-01:10:42,329 --> 01:10:43,497
+01:10:39,829 --> 01:10:40,997
 Apa yang kau lakukan?
 
 935
-01:10:45,299 --> 01:10:46,600
+01:10:42,799 --> 01:10:44,100
 Apa itu?
 
 936
-01:10:46,602 --> 01:10:49,135
+01:10:44,102 --> 01:10:46,635
 "Mitos adalah kompas kita."
 
 937
-01:10:49,137 --> 01:10:51,237
+01:10:46,637 --> 01:10:48,737
 Itu adalah sesuatu yang
 sering dikatakan ibuku.
 
 938
-01:10:51,239 --> 01:10:53,939
+01:10:48,739 --> 01:10:51,439
 Dia percaya cerita kita
 tentang monster dan naga
 
 939
-01:10:53,941 --> 01:10:57,042
+01:10:51,441 --> 01:10:54,542
 dapat membantu kita
 menemukan para Titan
 
 940
-01:10:57,044 --> 01:10:58,912
+01:10:54,544 --> 01:10:56,412
 dan mengembalikan
 koneksi kita ke alam.
 
 941
-01:10:58,914 --> 01:11:00,412
+01:10:56,414 --> 01:10:57,912
 Tunggu, ibumu?
 
 942
-01:11:00,414 --> 01:11:02,015
+01:10:57,914 --> 01:10:59,515
 Kau adalah generasi kedua Monarch?
 
 943
-01:11:02,017 --> 01:11:03,649
+01:10:59,517 --> 01:11:01,149
 Ketiga.
 
 944
-01:11:03,651 --> 01:11:05,918
+01:11:01,151 --> 01:11:03,418
 Itu turunan keluarga.
 
 945
-01:11:05,920 --> 01:11:07,686
+01:11:03,420 --> 01:11:05,186
 Sungguh menakjubkan.
 
 946
-01:11:07,688 --> 01:11:08,988
+01:11:05,188 --> 01:11:06,488
 Aku kira keluargamu
 tidak memiliki saran
 
 947
-01:11:08,990 --> 01:11:10,357
+01:11:06,490 --> 01:11:07,857
 soal membunuh naga, bukan?
 
 948
-01:11:10,359 --> 01:11:13,092
+01:11:07,859 --> 01:11:10,592
 Membunuh naga adalah konsep Barat.
 
 949
-01:11:13,094 --> 01:11:15,094
+01:11:10,594 --> 01:11:12,594
 Di Timur, mereka sakral.
 
 950
-01:11:15,096 --> 01:11:19,034
-Makhluk Ilahi yang membawa
+01:11:12,596 --> 01:11:16,534
+Makhluk ilahi yang membawa
 kebijaksanaan, kekuatan...
 
 951
-01:11:20,035 --> 01:11:21,637
+01:11:17,535 --> 01:11:19,137
 ...bahkan penebusan.
 
 952
-01:11:24,438 --> 01:11:25,706
+01:11:21,938 --> 01:11:23,206
 Perusak oksigen ini,
 
 953
-01:11:25,708 --> 01:11:27,006
+01:11:23,208 --> 01:11:24,506
 mengapa Monster Zero
 tidak terpengaruh?
 
 954
-01:11:27,008 --> 01:11:28,308
+01:11:24,508 --> 01:11:25,808
 Maksudku, aku bukan ilmuwan,
 
 955
-01:11:28,310 --> 01:11:29,841
+01:11:25,810 --> 01:11:27,341
 tapi aku pikir itu
 ada hubungannya
 
 956
-01:11:29,843 --> 01:11:31,176
+01:11:27,343 --> 01:11:28,676
 dengan kepalanya tumbuh kembali.
 
 957
-01:11:31,178 --> 01:11:32,945
+01:11:28,678 --> 01:11:30,445
 Yah, aku belum pernah
 melihat yang seperti ini.
 
 958
-01:11:32,947 --> 01:11:35,448
+01:11:30,447 --> 01:11:32,948
 Itu melampaui semua yang
 kita ketahui tentang tatanan alam.
 
 959
-01:11:35,450 --> 01:11:38,350
+01:11:32,950 --> 01:11:35,850
 Kecuali dia bukan
 bagian dari tatanan alam.
 
 960
-01:11:38,352 --> 01:11:39,653
+01:11:35,852 --> 01:11:37,153
 Apa maksudmu?
 
 961
-01:11:39,655 --> 01:11:43,290
+01:11:37,155 --> 01:11:40,790
 Aku bisa menyatukan ini.
 
 962
-01:11:43,292 --> 01:11:46,192
+01:11:40,792 --> 01:11:43,692
 Yah, dia terlihat agak akrab.
 
 963
-01:11:46,194 --> 01:11:48,260
+01:11:43,694 --> 01:11:45,760
 Ini menceritakan tentang
 naga yang hebat...
 
 964
-01:11:48,262 --> 01:11:49,863
+01:11:45,762 --> 01:11:47,363
 ...yang jatuh dari bintang-bintang.
 
 965
-01:11:49,865 --> 01:11:54,400
+01:11:47,365 --> 01:11:51,900
 Seekor ular naga yang
 menyerang manusia maupun dewa.
 
 966
-01:11:54,402 --> 01:11:55,902
+01:11:51,902 --> 01:11:53,402
 Apa, maksudmu alien?
 
 967
-01:11:55,904 --> 01:11:58,505
+01:11:53,404 --> 01:11:56,005
 Ya. Dia bukan bagian
 dari tatanan alami kita.
 
 968
-01:11:58,507 --> 01:12:00,372
+01:11:56,007 --> 01:11:57,872
 Dan dia tidak seharusnya berada di sini.
 
 969
-01:12:00,374 --> 01:12:01,975
+01:11:57,874 --> 01:11:59,475
 Raja palsu.
 
 970
-01:12:01,977 --> 01:12:03,676
+01:11:59,477 --> 01:12:01,176
 Spesies invasif (penjangkit).
 
 971
-01:12:03,678 --> 01:12:06,246
+01:12:01,178 --> 01:12:03,746
 Itu bisa menjelaskan bagaimana
 dia menciptakan badai besar ini
 
 972
-01:12:06,248 --> 01:12:08,948
+01:12:03,748 --> 01:12:06,448
 dan efeknya terhadap para Titan lain.
 
 973
-01:12:08,950 --> 01:12:10,716
+01:12:06,450 --> 01:12:08,216
 Hampir seperti dia
 membentuk kembali planet ini
 
 974
-01:12:10,718 --> 01:12:12,085
+01:12:08,218 --> 01:12:09,585
 sesuai dengan keinginannya sendiri.
 
 975
-01:12:12,087 --> 01:12:13,720
+01:12:09,587 --> 01:12:11,220
 Legenda ini,
 mereka menyebutnya apa?
 
 976
-01:12:13,722 --> 01:12:17,126
+01:12:11,222 --> 01:12:14,626
 Ghidorah.
 "Salah satu yang terbanyak."
 
 977
-01:12:17,691 --> 01:12:18,757
+01:12:15,191 --> 01:12:16,257
 Ghi-apa?
 
 978
-01:12:18,759 --> 01:12:19,960
+01:12:16,259 --> 01:12:17,460
 Dia berkata, "Gonore." (infeksi)
 
 979
-01:12:19,962 --> 01:12:21,427
+01:12:17,462 --> 01:12:18,927
 - Hah?
 - Ghidorah!
 
 980
-01:12:21,429 --> 01:12:24,163
+01:12:18,929 --> 01:12:21,663
 Dokter Serizawa, kita
 mendekati Kastil Bravo,
 
 981
-01:12:24,165 --> 01:12:26,698
+01:12:21,665 --> 01:12:24,198
 tetapi ada sesuatu
 yang harus kau lihat.
 
 982
-01:12:31,139 --> 01:12:34,908
+01:12:28,639 --> 01:12:32,408
 Kurasa kau tidak
 mengharapkan orang-orang ini.
 
 983
-01:12:34,910 --> 01:12:39,278
+01:12:32,410 --> 01:12:36,778
 Moskow, London, Washington D.C...
 
 984
-01:12:39,280 --> 01:12:41,046
+01:12:36,780 --> 01:12:38,546
 ...semua diserang.
 
 985
-01:12:41,048 --> 01:12:43,283
+01:12:38,548 --> 01:12:40,783
 Di setiap benua, para Titan memicu
 
 986
-01:12:43,285 --> 01:12:46,252
+01:12:40,785 --> 01:12:43,752
 gempa bumi, kebakaran hutan, tsunami,
 
 987
-01:12:46,254 --> 01:12:49,822
+01:12:43,754 --> 01:12:47,322
 dan bencana yang bahkan
 belum punya nama.
 
 988
-01:12:49,824 --> 01:12:52,359
+01:12:47,324 --> 01:12:49,859
 Sekarang seperti sebelumnya,
 kami telah berusaha untuk memikat
 
 989
-01:12:52,361 --> 01:12:54,027
+01:12:49,861 --> 01:12:51,527
 makhluk dengan bahan nuklir,
 
 990
-01:12:54,029 --> 01:12:56,697
+01:12:51,529 --> 01:12:54,197
 tetapi mereka tidak
 mengambil umpan kali ini.
 
 991
-01:12:56,699 --> 01:12:59,431
+01:12:54,199 --> 01:12:56,931
 Perilaku mereka menjadi acak.
 
 992
-01:12:59,433 --> 01:13:00,900
+01:12:56,933 --> 01:12:58,400
 Tak menentu.
 
 993
-01:13:00,902 --> 01:13:03,368
+01:12:58,402 --> 01:13:00,868
 Dan dengan kekuatan kami
 menyebar sangat tipis
 
 994
-01:13:03,370 --> 01:13:06,473
+01:13:00,870 --> 01:13:03,973
 dan makhluk-makhluk ini
 berkeliaran di dunia tanpa hambatan,
 
 995
-01:13:06,475 --> 01:13:08,674
+01:13:03,975 --> 01:13:06,174
 kami kehabisan pilihan...
 
 996
-01:13:08,676 --> 01:13:10,076
+01:13:06,176 --> 01:13:07,576
 ...dan waktu.
 
 997
-01:13:10,078 --> 01:13:12,612
+01:13:07,578 --> 01:13:10,112
 Maaf, apakah kau memiliki
 sesuatu untuk ditambahkan?
 
 998
-01:13:12,614 --> 01:13:14,747
+01:13:10,114 --> 01:13:12,247
 Ya. Kau salah.
 
 999
-01:13:14,749 --> 01:13:18,385
+01:13:12,249 --> 01:13:15,885
 Perilaku mereka tidak
 acak atau tidak menentu.
 
 1000
-01:13:18,387 --> 01:13:19,485
+01:13:15,887 --> 01:13:16,985
 Permisi, pak.
 
 1001
-01:13:19,487 --> 01:13:21,988
+01:13:16,987 --> 01:13:19,488
 Kedengarannya ini luar biasa,
 
 1002
-01:13:21,990 --> 01:13:24,223
+01:13:19,490 --> 01:13:21,723
 mereka bergerak seperti sepaket.
 Mereka sedang berburu.
 
 1003
-01:13:24,225 --> 01:13:27,961
+01:13:21,725 --> 01:13:25,461
 Semua paket, mulai dari
 serigala hingga paus pembunuh,
 
 1004
-01:13:27,963 --> 01:13:30,564
+01:13:25,463 --> 01:13:28,064
 mereka semua merespons
 langsung ke yang dominan.
 
 1005
-01:13:30,566 --> 01:13:32,232
+01:13:28,066 --> 01:13:29,732
 Dan Ghidorah ini adalah dominan baru.
 
 1006
-01:13:32,234 --> 01:13:34,766
+01:13:29,734 --> 01:13:32,266
 Dan semua makhluk lain
 hanya melakukan perintahnya.
 
 1007
-01:13:34,768 --> 01:13:37,203
+01:13:32,268 --> 01:13:34,703
 Mereka adalah perpanjangan dari dirinya.
 
 1008
-01:13:37,205 --> 01:13:40,739
+01:13:34,705 --> 01:13:38,239
 Kita menghentikan Ghidorah,
 kita menghentikan mereka semua.
 
 1009
-01:13:40,741 --> 01:13:42,074
+01:13:38,241 --> 01:13:39,574
 Apakah ada makhluk lain...
 
 1010
-01:13:42,076 --> 01:13:43,475
+01:13:39,576 --> 01:13:40,975
 ...yang mungkin
 memiliki peluang melawannya?
 
 1011
-01:13:43,477 --> 01:13:45,211
+01:13:40,977 --> 01:13:42,711
 Tidak.
 
 1012
-01:13:45,213 --> 01:13:49,049
+01:13:42,713 --> 01:13:46,549
 Persaingan Ghidorah dan
 <i>Gojira</i> sangat kuno dan unik.
 
 1013
-01:13:49,051 --> 01:13:51,016
+01:13:46,551 --> 01:13:48,516
 Benar, jadi dengan membunuhnya
 adalah peluang terbaik kita...
 
 1014
-01:13:51,018 --> 01:13:52,818
+01:13:48,518 --> 01:13:50,318
 ...mengalahkan makhluk ini?
 
 1015
-01:13:52,820 --> 01:13:55,788
+01:13:50,320 --> 01:13:53,288
 <i>Jonah, kau tidak mengerti.
 Ini mengubah segalanya.</i>
 
 1016
-01:13:55,790 --> 01:13:57,223
+01:13:53,290 --> 01:13:54,723
 <i>Dengan tewasnya Godzilla,</i>
 
 1017
-01:13:57,225 --> 01:13:58,390
+01:13:54,725 --> 01:13:55,890
 <i>Monster Zero tidak
 menggunakan para Titan</i>
 
 1018
-01:13:58,392 --> 01:14:00,192
+01:13:55,892 --> 01:13:57,692
 untuk memulihkan planet ini.
 
 1019
-01:14:00,194 --> 01:14:02,929
+01:13:57,694 --> 01:14:00,429
 Dia menggunakan mereka
 untuk menghancurkannya.
 
 1020
-01:14:02,931 --> 01:14:05,230
+01:14:00,431 --> 01:14:02,730
 Ini bukan hidup berdampingan.
 Ini adalah kepunahan.
 
 1021
-01:14:05,232 --> 01:14:07,567
+01:14:02,732 --> 01:14:05,067
 Dengar, saat kau duduk dengan nyaman
 
 1022
-01:14:07,569 --> 01:14:08,835
+01:14:05,069 --> 01:14:06,335
 di beberapa laboratorium,
 
 1023
-01:14:08,837 --> 01:14:10,836
+01:14:06,337 --> 01:14:08,336
 kami telah berjuang
 selama beberapa dekade
 
 1024
-01:14:10,838 --> 01:14:13,340
+01:14:08,338 --> 01:14:10,840
 dalam satu perang kotor lainnya.
 
 1025
-01:14:13,342 --> 01:14:15,375
+01:14:10,842 --> 01:14:12,875
 Aku telah melihat sifat
 manusia secara langsung
 
 1026
-01:14:15,377 --> 01:14:16,443
+01:14:12,877 --> 01:14:13,943
 dan aku di sini untuk memberi tahumu
 
 1027
-01:14:16,445 --> 01:14:17,577
+01:14:13,945 --> 01:14:15,077
 bahwa itu tidak menjadi lebih baik.
 
 1028
-01:14:17,579 --> 01:14:18,912
+01:14:15,079 --> 01:14:16,412
 Itu semakin buruk.
 
 1029
-01:14:18,914 --> 01:14:21,314
+01:14:16,414 --> 01:14:18,814
 Jadi, aku minta maaf kalau Monster Zero
 
 1030
-01:14:21,316 --> 01:14:24,250
+01:14:18,816 --> 01:14:21,750
 tidak persis apa yang kita harapkan.
 
 1031
-01:14:24,252 --> 01:14:29,958
+01:14:21,752 --> 01:14:27,458
 Tapi kita membuka Kotak Pandora dan
 tidak ada yang bisa menutupnya sekarang.
 
 1032
-01:14:31,892 --> 01:14:33,259
+01:14:29,392 --> 01:14:30,759
 Mungkin ada.
 
 1033
-01:14:33,261 --> 01:14:34,993
+01:14:30,761 --> 01:14:32,493
 Oh, jangan bodoh.
 
 1034
-01:14:34,995 --> 01:14:38,197
+01:14:32,495 --> 01:14:35,697
 Kau menyiarkan lagi, dan kau
 akan mengekspos kami semua.
 
 1035
-01:14:38,199 --> 01:14:40,565
+01:14:35,699 --> 01:14:38,065
 Makhluk-makhluk ini berkomunikasi
 seperti ikan paus, oke?
 
 1036
-01:14:40,567 --> 01:14:43,101
+01:14:38,067 --> 01:14:40,601
 <i>Mereka dapat mendengar
 sonar sepanjang ribuan mil,</i>
 
 1037
-01:14:43,103 --> 01:14:45,371
+01:14:40,603 --> 01:14:42,871
 <i>jadi mari kita kirim tim.</i>
 
 1038
-01:14:45,373 --> 01:14:47,506
+01:14:42,873 --> 01:14:45,006
 <i>Mari kita menyiarkan
 ORCA dari Fenway.</i>
 
 1039
-01:14:47,508 --> 01:14:49,208
+01:14:45,008 --> 01:14:46,708
 <i>Hanya beberapa mil dari sini.</i>
 
 1040
-01:14:49,210 --> 01:14:52,011
+01:14:46,710 --> 01:14:49,511
 Aku bisa menggunakan stadion
 untuk memperkuat sinyal
 
 1041
-01:14:52,013 --> 01:14:53,712
+01:14:49,513 --> 01:14:51,212
 yang mungkin menghentikan serangan ini.
 
 1042
-01:14:53,714 --> 01:14:56,582
+01:14:51,214 --> 01:14:54,082
 <i>Kota sudah dievakuasi, jadi akan aman.</i>
 
 1043
-01:14:56,584 --> 01:14:58,184
+01:14:54,084 --> 01:14:55,684
 <i>Lalu apa?</i>
 
 1044
-01:14:58,186 --> 01:14:59,752
+01:14:55,686 --> 01:14:57,252
 <i>Dan kemudian aku akan
 mencari tahu apa yang...</i>
 
 1045
-01:14:59,754 --> 01:15:01,822
+01:14:57,254 --> 01:14:59,322
 <i>...Monster Zero mau dan
 mencoba untuk menghentikannya.</i>
 
 1046
-01:15:01,824 --> 01:15:03,122
+01:14:59,324 --> 01:15:00,622
 <i>Sebelum Monarch menemukan kita?</i>
 
 1047
-01:15:03,124 --> 01:15:04,623
+01:15:00,624 --> 01:15:02,123
 <i>Aku yakin semua temanmu akan...</i>
 
 1048
-01:15:04,625 --> 01:15:06,024
+01:15:02,125 --> 01:15:03,524
 <i>...sangat senang melihatmu lagi.</i>
 
 1049
-01:15:06,026 --> 01:15:07,827
+01:15:03,526 --> 01:15:05,327
 <i>Kita tidak bisa hanya duduk di sini.</i>
 
 1050
-01:15:07,829 --> 01:15:10,662
+01:15:05,329 --> 01:15:08,162
 <i>Baiklah? Ini bukan dunia
 yang kita inginkan.</i>
 
 1051
-01:15:10,664 --> 01:15:12,297
+01:15:08,164 --> 01:15:09,797
 <i>Sepertinya aku ingat
 kau memberi tahuku</i>
 
 1052
-01:15:12,299 --> 01:15:15,167
+01:15:09,799 --> 01:15:12,667
 <i>bahwa dunia selalu
 menjadi milik mereka.</i>
 
 1053
-01:15:15,169 --> 01:15:18,474
+01:15:12,669 --> 01:15:15,974
 <i>Yah, mungkin sudah
 saatnya kita mengembalikannya.</i>
 
 1054
-01:15:21,308 --> 01:15:23,210
+01:15:18,808 --> 01:15:20,710
 Mark!
 
 1055
-01:15:23,212 --> 01:15:25,612
+01:15:20,712 --> 01:15:23,112
 Mark, tunggu.
 Apa yang kau lakukan?
 
 1056
-01:15:25,614 --> 01:15:28,448
+01:15:23,114 --> 01:15:25,948
 Aku tidak bisa hanya duduk di sana.
 Aku harus melakukan sesuatu.
 
 1057
-01:15:28,450 --> 01:15:29,783
+01:15:25,950 --> 01:15:27,283
 Seperti apa?
 
 1058
-01:15:29,785 --> 01:15:31,717
+01:15:27,285 --> 01:15:29,217
 - Seperti pergi mencari putriku.
 - Bagaimana caranya?
 
 1059
-01:15:31,719 --> 01:15:33,121
+01:15:29,219 --> 01:15:30,621
 Kemana kau akan pergi?
 
 1060
-01:15:34,889 --> 01:15:37,359
+01:15:32,389 --> 01:15:34,859
 Dia satu-satunya yang kumiliki, Sam.
 
 1061
-01:15:39,594 --> 01:15:40,960
+01:15:37,094 --> 01:15:38,460
 Aku tak ada di sana untuknya.
 
 1062
-01:15:40,962 --> 01:15:43,397
+01:15:38,462 --> 01:15:40,897
 Aku tidak akan
 membiarkan itu terjadi lagi.
 
 1063
-01:15:45,299 --> 01:15:46,435
+01:15:42,799 --> 01:15:43,935
 Semoga berhasil.
 
 1064
-01:15:54,500 --> 01:16:05,489
+01:15:52,000 --> 01:16:02,989
 <font color="#80ff80">Terjemahan oleh</font>
 <b>≡ <font color="#ff0000">Jack'D</font>22 ≡</b>
 
 1065
-01:16:58,472 --> 01:16:59,975
+01:16:55,972 --> 01:16:57,475
 Indah.
 
 1066
-01:17:01,174 --> 01:17:02,308
+01:16:58,674 --> 01:16:59,808
 Mothra.
 
 1067
-01:17:02,310 --> 01:17:05,979
+01:16:59,810 --> 01:17:03,479
 Ratu Para Monster.
 
 1068
-01:17:05,981 --> 01:17:08,383
+01:17:03,481 --> 01:17:05,883
 Apakah kau merekam ini, Stanton?
 
 1069
-01:17:10,185 --> 01:17:13,452
+01:17:07,685 --> 01:17:10,952
 Aku merekam semuanya sekarang.
 
 1070
-01:17:13,454 --> 01:17:15,157
+01:17:10,954 --> 01:17:12,657
 Segala sesuatu.
 
 1071
-01:17:16,458 --> 01:17:18,957
+01:17:13,958 --> 01:17:16,457
 Ini seperti sebuah lagu.
 
 1072
-01:17:18,959 --> 01:17:20,693
+01:17:16,459 --> 01:17:18,193
 Aku yakin hanya ada satu hal
 
 1073
-01:17:20,695 --> 01:17:22,397
+01:17:18,195 --> 01:17:19,897
 yang bisa mengerti ini.
 
 1074
-01:17:23,798 --> 01:17:25,234
+01:17:21,298 --> 01:17:22,734
 Godzilla.
 
 1075
-01:17:29,103 --> 01:17:31,237
+01:17:26,603 --> 01:17:28,737
 Ya, aku mendapatkannya.
 
 1076
-01:17:31,239 --> 01:17:33,508
+01:17:28,739 --> 01:17:31,008
 Sedang membalasnya.
 Membawanya naik.
 
 1077
-01:17:38,946 --> 01:17:41,048
+01:17:36,446 --> 01:17:38,548
 Dia masih hidup.
 
 1078
-01:17:43,218 --> 01:17:47,086
+01:17:40,718 --> 01:17:44,586
 Jadi, dia dan Godzilla,
 mereka seperti...
 
 1079
-01:17:47,088 --> 01:17:48,453
+01:17:44,588 --> 01:17:45,953
 Ada yang terjadi?
 
 1080
-01:17:48,455 --> 01:17:50,390
+01:17:45,955 --> 01:17:47,890
 Itu agak kacau, bukan?
 
 1081
-01:17:50,392 --> 01:17:53,125
+01:17:47,892 --> 01:17:50,625
 Hubungan simbiotis antara
 dua spesies yang berbeda...
 
 1082
-01:17:53,127 --> 01:17:56,060
+01:17:50,627 --> 01:17:53,560
 ...tidak begitu umum.
 
 1083
-01:17:56,062 --> 01:17:57,596
+01:17:53,562 --> 01:17:55,096
 Bisakah kau melacaknya?
 
 1084
-01:17:57,598 --> 01:18:00,569
+01:17:55,098 --> 01:17:58,069
 Tidak. Sinyalnya terlalu lemah.
 
 1085
-01:18:02,169 --> 01:18:03,639
+01:17:59,669 --> 01:18:01,139
 Tapi mungkin dia bisa.
 
 1086
-01:18:07,842 --> 01:18:09,911
+01:18:05,342 --> 01:18:07,411
 Berapa banyak nuklir yang kau miliki?
 
 1087
-01:18:10,678 --> 01:18:12,610
+01:18:08,178 --> 01:18:10,110
 Mengapa?
 
 1088
-01:18:12,612 --> 01:18:14,215
+01:18:10,112 --> 01:18:11,715
 Kita bisa membantunya.
 
 1089
-01:18:20,387 --> 01:18:22,421
+01:18:17,887 --> 01:18:19,921
 Badai kategori enam ini melanda D.C.
 
 1090
-01:18:22,423 --> 01:18:24,457
+01:18:19,923 --> 01:18:21,957
 Di sinilah Raja Ghidorah bersarang.
 
 1091
-01:18:24,459 --> 01:18:26,525
+01:18:21,959 --> 01:18:24,025
 Bekerja dengan keempat
 cabang militer,
 
 1092
-01:18:26,527 --> 01:18:28,127
+01:18:24,027 --> 01:18:25,627
 ini akan menjadi operasi gabungan
 
 1093
-01:18:28,129 --> 01:18:30,528
+01:18:25,629 --> 01:18:28,028
 untuk meancingnya dari daratan,
 
 1094
-01:18:30,530 --> 01:18:33,198
+01:18:28,030 --> 01:18:30,698
 <i>sehingga kita bisa
 melanjutkan evakuasi cukup lama</i>
 
 1095
-01:18:33,200 --> 01:18:35,937
+01:18:30,700 --> 01:18:33,437
 <i>untuk tim selam kita
 agar bisa menyelesaikan misinya.</i>
 
 1096
-01:18:39,406 --> 01:18:43,408
+01:18:36,906 --> 01:18:40,908
 Jadi rencana ini adalah apa yang
 kau sebut "sedikit peluang" bukan?
 
 1097
-01:18:43,410 --> 01:18:45,144
+01:18:40,910 --> 01:18:42,644
 Apa yang menurut para kutu
 buku itu akan mereka lakukan
 
 1098
-01:18:45,146 --> 01:18:46,845
+01:18:42,646 --> 01:18:44,345
 di bawah sana dengan sekelompok nuklir?
 
 1099
-01:18:46,847 --> 01:18:48,447
+01:18:44,347 --> 01:18:45,947
 Kau tidak mendengarnya, Griffin?
 
 1100
-01:18:48,449 --> 01:18:50,986
+01:18:45,949 --> 01:18:48,486
 Mereka ingin membawa
 Godzilla kembali dari kematian.
 
 1101
-01:18:57,592 --> 01:18:59,993
+01:18:55,092 --> 01:18:57,493
 <i>Kami akan berada di luar
 jangkauan saat kau dibawah sana,</i>
 
 1102
-01:18:59,995 --> 01:19:01,560
+01:18:57,495 --> 01:18:59,060
 <i>tetapi satu skuadron
 akan siaga di belakangmu</i>
 
 1103
-01:19:01,562 --> 01:19:02,827
+01:18:59,062 --> 01:19:00,327
 <i>untuk mengawasimu.</i>
 
 1104
-01:19:02,829 --> 01:19:04,197
+01:19:00,329 --> 01:19:01,697
 <i>Kuhargai itu.</i>
 
 1105
-01:19:04,199 --> 01:19:05,497
+01:19:01,699 --> 01:19:02,997
 <i>Baiklah, Bowman,</i>
 
 1106
-01:19:05,499 --> 01:19:06,933
+01:19:02,999 --> 01:19:04,433
 ayo turunkan dia.
 
 1107
-01:19:06,935 --> 01:19:09,536
+01:19:04,435 --> 01:19:07,036
 Selamkan kapalnya.
 Buat kedalaman 150.
 
 1108
-01:19:09,538 --> 01:19:10,802
+01:19:07,038 --> 01:19:08,302
 <i>Semoga berhasil.</i>
 
 1109
-01:19:10,804 --> 01:19:12,270
+01:19:08,304 --> 01:19:09,770
 <i>Terima kasih, Sam.</i>
 
 1110
-01:19:12,272 --> 01:19:13,542
+01:19:09,772 --> 01:19:11,042
 <i>Kami membutuhkan itu.</i>
 
 1111
-01:19:39,333 --> 01:19:41,236
+01:19:36,833 --> 01:19:38,736
 Jam berapa sekarang?
 
 1112
-01:19:43,771 --> 01:19:46,073
+01:19:41,271 --> 01:19:43,573
 Saatnya membeli jam tangan baru.
 
 1113
-01:19:47,374 --> 01:19:50,542
+01:19:44,874 --> 01:19:48,042
 Lelucon favorit Andrew.
 
 1114
-01:19:50,544 --> 01:19:52,578
+01:19:48,044 --> 01:19:50,078
 Kau tidak pernah mengeluarkan
 jam itu dari sakumu
 
 1115
-01:19:52,580 --> 01:19:54,615
+01:19:50,080 --> 01:19:52,115
 tanpa dia menanyakan pertanyaan itu.
 
 1116
-01:19:58,151 --> 01:20:01,354
+01:19:55,651 --> 01:19:58,854
 Kau memberi tahuku lima tahun yang lalu,
 
 1117
-01:20:01,356 --> 01:20:04,693
+01:19:58,856 --> 01:20:02,193
 Aku akan mencoba menyelamatkan
 hal yang merenggut putraku,
 
 1118
-01:20:05,526 --> 01:20:06,792
+01:20:03,026 --> 01:20:04,292
 itu akan menjadi satu-satunya cara
 
 1119
-01:20:06,794 --> 01:20:08,094
+01:20:04,294 --> 01:20:05,594
 untuk menyelamatkan keluarga yang tersisa...
 
 1120
-01:20:08,096 --> 01:20:10,328
+01:20:05,596 --> 01:20:07,828
 Terkadang,
 
 1121
-01:20:10,330 --> 01:20:13,431
+01:20:07,830 --> 01:20:10,931
 satu-satunya cara untuk menyembuhkan
 luka kita adalah dengan berdamai
 
 1122
-01:20:13,433 --> 01:20:16,735
+01:20:10,933 --> 01:20:14,235
 dengan iblis yang
 menciptakan mereka.
 
 1123
-01:20:16,737 --> 01:20:18,270
+01:20:14,237 --> 01:20:15,770
 Kau benar-benar percaya itu?
 
 1124
-01:20:18,272 --> 01:20:19,807
+01:20:15,772 --> 01:20:17,307
 Iya kan?
 
 1125
-01:20:20,874 --> 01:20:22,377
+01:20:18,374 --> 01:20:19,877
 Bukankah itu sebabnya kau ada di sini?
 
 1126
-01:20:25,646 --> 01:20:29,814
+01:20:23,146 --> 01:20:27,314
 Ada beberapa hal di
 luar pemahaman kita, Mark.
 
 1127
-01:20:29,816 --> 01:20:33,720
+01:20:27,316 --> 01:20:31,220
 Kita harus menerima mereka
 dan belajar dari mereka,
 
 1128
-01:20:33,722 --> 01:20:35,688
+01:20:31,222 --> 01:20:33,188
 karena saat-saat krisis
 
 1129
-01:20:35,690 --> 01:20:38,627
+01:20:33,190 --> 01:20:36,127
 juga merupakan momen-momen
 keyakinan yang potensial.
 
 1130
-01:20:39,727 --> 01:20:40,960
+01:20:37,227 --> 01:20:38,460
 Sebuah waktu...
 
 1131
-01:20:40,962 --> 01:20:44,465
+01:20:38,462 --> 01:20:41,965
 ...saat kita bersatu atau hancur.
 
 1132
-01:20:46,467 --> 01:20:49,771
+01:20:43,967 --> 01:20:47,271
 Alam selalu punya cara
 untuk menyeimbangkan dirinya sendiri.
 
 1133
-01:20:51,204 --> 01:20:53,207
+01:20:48,704 --> 01:20:50,707
 Satu-satunya pertanyaan adalah,
 
 1134
-01:20:54,976 --> 01:20:58,213
+01:20:52,476 --> 01:20:55,713
 bagian apa yang akan kita mainkan?
 
 1135
-01:20:59,547 --> 01:21:01,613
+01:20:57,047 --> 01:20:59,113
 Apakah kau baru saja mengada-ada?
 
 1136
-01:21:01,615 --> 01:21:02,614
+01:20:59,115 --> 01:21:00,114
 Tidak.
 
 1137
-01:21:02,616 --> 01:21:05,419
+01:21:00,116 --> 01:21:02,919
 Aku membacanya dalam
 kue keberuntungan sekali.
 
 1138
-01:21:07,187 --> 01:21:09,356
+01:21:04,687 --> 01:21:06,856
 Kue keberuntungan yang sangat panjang.
 
 1139
-01:21:14,529 --> 01:21:15,862
+01:21:12,029 --> 01:21:13,362
 Status kapal?
 
 1140
-01:21:15,864 --> 01:21:17,395
+01:21:13,364 --> 01:21:14,895
 Semacam pusaran, Kapten.
 
 1141
-01:21:17,397 --> 01:21:19,633
+01:21:14,897 --> 01:21:17,133
 Ini menyeret kita.
 1600 kaki hingga benturan.
 
 1142
-01:21:24,071 --> 01:21:26,939
+01:21:21,571 --> 01:21:24,439
 800 kaki.
 
 1143
-01:21:26,941 --> 01:21:28,373
+01:21:24,441 --> 01:21:25,873
 Prosedur darurat! 200 kaki!
 
 1144
-01:21:28,375 --> 01:21:30,074
+01:21:25,875 --> 01:21:27,574
 Seratus!
 
 1145
-01:21:30,076 --> 01:21:31,778
+01:21:27,576 --> 01:21:29,278
 Dua puluh lima!
 
 1146
-01:21:31,780 --> 01:21:33,849
+01:21:29,280 --> 01:21:31,349
 Bersiap untuk benturan!
 
 1147
-01:21:41,380 --> 01:21:43,000
+01:21:38,880 --> 01:21:40,500
 <font color="#00ff00"><b>AIR MINUM DARURAT</b></font>
 
 1148
-01:22:23,380 --> 01:22:25,000
+01:22:20,880 --> 01:22:22,500
 {\an1}<font color="#00ff00"><b>DILARANG MASUK
 PENYUSUP AKAN DITUNTUT
 =PEMERINTAH AMERIKA=</b></font>
 
 1149
-01:22:23,380 --> 01:22:25,000
+01:22:20,880 --> 01:22:22,500
 {\an3}<font color="#00ff00"><b>BOSTON
 TEMPAT PERLINDUNGAN
 BAHAYA RADIASI</b></font>
 
 1150
-01:22:44,500 --> 01:22:48,000
+01:22:42,000 --> 01:22:45,500
 {\an1}<font color="#00ff00"><b>BOSTON</b></font>
 
 1151
-01:22:52,293 --> 01:22:54,460
+01:22:49,793 --> 01:22:51,960
 Argo, ini U.S.S. Brody
 
 1152
-01:22:53,500 --> 01:22:58,000
+01:22:51,000 --> 01:22:55,500
 {\an4}<font color="#00ff00"><b>WASHINGTON, D.C.</b></font>
 
 1153
-01:22:54,462 --> 01:22:56,295
+01:22:51,962 --> 01:22:53,795
 <i>dalam perjalanan ke perimeter evakuasi.</i>
 
 1154
-01:22:56,297 --> 01:23:00,302
+01:22:53,797 --> 01:22:57,802
 <i>Senjata berat. Siap untuk
 menyerang para Titan atas perintahmu.</i>
 
 1155
-01:23:01,736 --> 01:23:02,868
+01:22:59,236 --> 01:23:00,368
 Astaga.
 
 1156
-01:23:02,870 --> 01:23:05,537
+01:23:00,370 --> 01:23:03,037
 Ini seperti seluruh langit hidup.
 
 1157
-01:23:07,141 --> 01:23:08,610
+01:23:04,641 --> 01:23:06,110
 Itu karena memang begitu.
 
 1158
-01:23:11,277 --> 01:23:13,280
+01:23:08,777 --> 01:23:10,780
 Kita mulai.
 
 1159
-01:23:16,551 --> 01:23:17,916
+01:23:14,051 --> 01:23:15,416
 Laporan status.
 
 1160
-01:23:17,918 --> 01:23:19,719
+01:23:15,418 --> 01:23:17,219
 Tidak dapat menentukan
 posisi kita. GPS rusak.
 
 1161
-01:23:19,721 --> 01:23:22,020
+01:23:17,221 --> 01:23:19,520
 Tapi navigasi inersia mengatakan kita...
 
 1162
-01:23:22,022 --> 01:23:23,890
+01:23:19,522 --> 01:23:21,390
 ...600 mil dari titik keberangkatan.
 
 1163
-01:23:23,892 --> 01:23:25,024
+01:23:21,392 --> 01:23:22,524
 Itu tidak mungkin.
 
 1164
-01:23:25,026 --> 01:23:26,524
+01:23:22,526 --> 01:23:24,024
 Aku tahu, kawan!
 
 1165
-01:23:26,526 --> 01:23:29,694
+01:23:24,026 --> 01:23:27,194
 Pusaran itu adalah
 terowongan ke rongga Bumi.
 
 1166
-01:23:29,696 --> 01:23:31,930
+01:23:27,196 --> 01:23:29,430
 Ini adalah sistem terowongan bawah tanah
 
 1167
-01:23:31,932 --> 01:23:33,466
+01:23:29,432 --> 01:23:30,966
 yang menghubungkan seluruh planet.
 
 1168
-01:23:33,468 --> 01:23:34,766
+01:23:30,968 --> 01:23:32,266
 Itu tidak masalah.
 Aku tahu aku benar.
 
 1169
-01:23:34,768 --> 01:23:37,603
+01:23:32,268 --> 01:23:35,103
 - Sudah kubilang, Chen!
 - Diam, Rick.
 
 1170
-01:23:37,605 --> 01:23:39,708
+01:23:35,105 --> 01:23:37,208
 Satu detik proses darurat maju.
 
 1171
-01:23:49,316 --> 01:23:51,250
+01:23:46,816 --> 01:23:48,750
 Dokter?
 
 1172
-01:23:51,252 --> 01:23:53,321
+01:23:48,752 --> 01:23:50,821
 Luncurkan investigator.
 
 1173
-01:24:06,433 --> 01:24:08,969
+01:24:03,933 --> 01:24:06,469
 Jarak 1.000 meter.
 
 1174
-01:24:10,103 --> 01:24:11,873
+01:24:07,603 --> 01:24:09,373
 Kamera bagus.
 
 1175
-01:24:12,507 --> 01:24:14,873
+01:24:10,007 --> 01:24:12,373
 Tetapkan jarak.
 
 1176
-01:24:14,875 --> 01:24:16,910
+01:24:12,375 --> 01:24:14,410
 Stabil.
 
 1177
-01:24:20,280 --> 01:24:21,980
+01:24:17,780 --> 01:24:19,480
 Astaga.
 
 1178
-01:24:21,982 --> 01:24:23,384
+01:24:19,482 --> 01:24:20,884
 Geser kamera ke kanan.
 
 1179
-01:24:48,008 --> 01:24:49,440
+01:24:45,508 --> 01:24:46,940
 Kelihatan seperti Mesir.
 
 1180
-01:24:49,442 --> 01:24:50,810
+01:24:46,942 --> 01:24:48,310
 Atau Romawi.
 
 1181
-01:24:50,812 --> 01:24:52,411
+01:24:48,312 --> 01:24:49,911
 Tidak, ini sesuatu yang berbeda.
 
 1182
-01:24:52,413 --> 01:24:54,982
+01:24:49,913 --> 01:24:52,482
 Ini... Ini jauh lebih tua.
 
 1183
-01:25:04,892 --> 01:25:06,360
+01:25:02,392 --> 01:25:03,860
 Astaga.
 
 1184
-01:25:15,937 --> 01:25:18,537
+01:25:13,437 --> 01:25:16,037
 Semua legenda,
 
 1185
-01:25:18,539 --> 01:25:20,605
+01:25:16,039 --> 01:25:18,105
 cerita,
 
 1186
-01:25:20,607 --> 01:25:21,841
+01:25:18,107 --> 01:25:19,341
 mereka benar.
 
 1187
-01:25:21,843 --> 01:25:24,010
+01:25:19,343 --> 01:25:21,510
 Mereka benar-benar dewa pertama.
 
 1188
-01:25:24,012 --> 01:25:25,944
+01:25:21,512 --> 01:25:23,444
 Kalau saja bumi dan batu bisa berbicara,
 
 1189
-01:25:25,946 --> 01:25:28,279
+01:25:23,446 --> 01:25:25,779
 cerita yang bisa mereka
 ceritakan pada kita.
 
 1190
-01:25:28,281 --> 01:25:29,748
+01:25:25,781 --> 01:25:27,248
 Dokter Stanton,
 
 1191
-01:25:29,750 --> 01:25:31,350
+01:25:27,250 --> 01:25:28,850
 apa ada tanda-tanda dari<i>Gojira?</i>
 
 1192
-01:25:31,352 --> 01:25:35,287
+01:25:28,852 --> 01:25:32,787
 Ya, investigator mengambil gumpalan radioaktif,
 
 1193
-01:25:35,289 --> 01:25:37,359
+01:25:32,789 --> 01:25:34,859
 baru saja melewati punggung bukit itu.
 
 1194
-01:25:38,159 --> 01:25:40,658
+01:25:35,659 --> 01:25:38,158
 Atur rutenya.
 
 1195
-01:25:47,101 --> 01:25:48,966
+01:25:44,601 --> 01:25:46,466
 <i>Dimohon perhatiannya.</i>
 
 1196
-01:25:48,968 --> 01:25:51,203
+01:25:46,468 --> 01:25:48,703
 <i>Hukum darurat kini
 telah diterapkan</i>
 
 1197
-01:25:51,205 --> 01:25:52,738
+01:25:48,705 --> 01:25:50,238
 <i>atas perintah Presiden.</i>
 
 1198
-01:25:52,740 --> 01:25:54,305
+01:25:50,240 --> 01:25:51,805
 <i>Wilayah Boston yang lebih besar</i>
 
 1199
-01:25:54,307 --> 01:25:56,641
+01:25:51,807 --> 01:25:54,141
 <i>sekarang di bawah kendali Militer A.S.</i>
 
 1200
-01:25:56,643 --> 01:25:59,878
+01:25:54,143 --> 01:25:57,378
 <i>Semua warga melapor
 ke pusat evakuasi terdekat</i>
 
 1201
-01:25:59,880 --> 01:26:01,747
+01:25:57,380 --> 01:25:59,247
 <i>untuk transportasi langsung.</i>
 
 1202
-01:26:01,749 --> 01:26:04,116
+01:25:59,249 --> 01:26:01,616
 <i>Aku ulangi, semua warga</i>
 
 1203
-01:26:04,118 --> 01:26:05,984
+01:26:01,618 --> 01:26:03,484
 <i>harus melapor ke evakuasi terdekat...</i>
 
 1204
-01:26:05,986 --> 01:26:07,819
+01:26:03,486 --> 01:26:05,319
 <i>Badai besar dan bencana lainnya</i>
 
 1205
-01:26:07,821 --> 01:26:09,387
+01:26:05,321 --> 01:26:06,887
 <i>dipicu oleh para Titan</i>
 
 1206
-01:26:09,389 --> 01:26:11,290
+01:26:06,889 --> 01:26:08,790
 <i>telah memaksa jutaan
 orang meninggalkan kota-kota besar.</i>
 
 1207
-01:26:11,292 --> 01:26:14,827
+01:26:08,792 --> 01:26:12,327
 <i>Dan dengan D.C. dilanda
 badai kategori enam</i>
 
 1208
-01:26:14,829 --> 01:26:17,195
+01:26:12,329 --> 01:26:14,695
 <i>yang telah membuat ibukota
 benar-benar kebanjiran,</i>
 
 1209
-01:26:17,197 --> 01:26:21,199
+01:26:14,697 --> 01:26:18,699
 <i>ini adalah satu-satunya bencana
 terbesar dalam sejarah manusia.</i>
 
 1210
-01:26:21,201 --> 01:26:24,737
+01:26:18,701 --> 01:26:22,237
 <i>Pencarian gigih terus berlanjut,
 seperti orang-orang di seluruh dunia</i>
 
 1211
-01:26:24,739 --> 01:26:26,305
+01:26:22,239 --> 01:26:23,805
 <i>menyaring puing-puing rumah yang rata</i>
 
 1212
-01:26:26,307 --> 01:26:28,372
+01:26:23,807 --> 01:26:25,872
 <i>dengan harapan menemukan
 orang dicintai yang hilang.</i>
 
 1213
-01:26:28,374 --> 01:26:30,242
+01:26:25,874 --> 01:26:27,742
 <i>Dan meskipun pemandangan ini memilukan,</i>
 
 1214
-01:26:30,244 --> 01:26:32,577
+01:26:27,744 --> 01:26:30,077
 <i>sayangnya tidak ada yang unik.</i>
 
 1215
-01:26:32,579 --> 01:26:34,779
+01:26:30,079 --> 01:26:32,279
 <i>Kota-kota di seluruh dunia telah jatuh</i>
 
 1216
-01:26:34,781 --> 01:26:36,482
+01:26:32,281 --> 01:26:33,982
 <i>di bawah apa yang disebut banyak orang</i>
 
 1217
-01:26:36,484 --> 01:26:38,887
+01:26:33,984 --> 01:26:36,387
 <i>"Kebangkitan para Titan."</i>
 
 1218
-01:26:44,459 --> 01:26:46,391
+01:26:41,959 --> 01:26:43,891
 Kupikir kita harus berhenti.
 
 1219
-01:26:46,393 --> 01:26:47,893
+01:26:43,893 --> 01:26:45,393
 Mengapa?
 
 1220
-01:26:47,895 --> 01:26:49,894
+01:26:45,395 --> 01:26:47,394
 Karena aku masih ingin
 punya anak suatu hari.
 
 1221
-01:26:49,896 --> 01:26:52,663
+01:26:47,396 --> 01:26:50,163
 Lebih disukai tanpa sirip.
 
 1222
-01:26:52,665 --> 01:26:54,869
+01:26:50,165 --> 01:26:52,369
 Semua berhenti. Arahkan kapal.
 
 1223
-01:27:04,178 --> 01:27:05,513
+01:27:01,678 --> 01:27:03,013
 Wah.
 
 1224
-01:27:06,446 --> 01:27:09,081
+01:27:03,946 --> 01:27:06,581
 Kita menemukan O2, CO2, dan metana.
 
 1225
-01:27:09,083 --> 01:27:11,786
+01:27:06,583 --> 01:27:09,286
 Sepertinya ada semacam
 kantong udara di sana.
 
 1226
-01:27:24,365 --> 01:27:25,564
+01:27:21,865 --> 01:27:23,064
 Astaga.
 
 1227
-01:27:25,566 --> 01:27:26,968
+01:27:23,066 --> 01:27:24,468
 Zilla.
 
 1228
-01:27:28,236 --> 01:27:30,635
+01:27:25,736 --> 01:27:28,135
 - Dan selamat malam, Gracie.
 - Tampilkan gambar terakhir.
 
 1229
-01:27:30,637 --> 01:27:32,003
+01:27:28,137 --> 01:27:29,503
 - Ya.
 - Di sana.
 
 1230
-01:27:32,005 --> 01:27:33,771
+01:27:29,505 --> 01:27:31,271
 Sumber radiasi.
 
 1231
-01:27:33,773 --> 01:27:35,640
+01:27:31,273 --> 01:27:33,140
 Itu sebabnya dia kembali ke sini.
 
 1232
-01:27:35,642 --> 01:27:37,510
+01:27:33,142 --> 01:27:35,010
 Dia makan,
 
 1233
-01:27:37,512 --> 01:27:39,147
+01:27:35,012 --> 01:27:36,647
 regenerasi.
 
 1234
-01:27:40,213 --> 01:27:42,182
+01:27:37,713 --> 01:27:39,682
 Ini rumahnya.
 
 1235
-01:27:43,284 --> 01:27:46,385
+01:27:40,784 --> 01:27:43,885
 Beginilah cara dia bertahan begitu lama.
 
 1236
-01:27:46,387 --> 01:27:49,653
+01:27:43,887 --> 01:27:47,153
 Selalu beradaptasi, berkembang.
 
 1237
-01:27:49,655 --> 01:27:50,889
+01:27:47,155 --> 01:27:48,389
 Itu luar biasa.
 
 1238
-01:27:50,891 --> 01:27:53,559
+01:27:48,391 --> 01:27:51,059
 Jadi, temannya menutupi ini.
 
 1239
-01:27:53,561 --> 01:27:55,327
+01:27:51,061 --> 01:27:52,827
 Benar? Dia hanya perlu tidur sebentar.
 
 1240
-01:27:55,329 --> 01:27:56,429
+01:27:52,829 --> 01:27:53,929
 Tidak.
 
 1241
-01:27:56,431 --> 01:27:58,430
+01:27:53,931 --> 01:27:55,930
 Proses ini bisa memakan waktu bertahun-tahun.
 
 1242
-01:27:58,432 --> 01:28:00,064
+01:27:55,932 --> 01:27:57,564
 Kita harus melanjutkan sesuai rencana.
 
 1243
-01:28:00,066 --> 01:28:01,132
+01:27:57,566 --> 01:27:58,632
 Tunggu sebentar.
 
 1244
-01:28:01,134 --> 01:28:03,568
+01:27:58,634 --> 01:28:01,068
 Kita akan meluncurkan
 torpedo nuklir
 
 1245
-01:28:03,570 --> 01:28:06,003
+01:28:01,070 --> 01:28:03,503
 untuk menghidupkan kembali monster raksasa.
 
 1246
-01:28:06,005 --> 01:28:07,805
+01:28:03,505 --> 01:28:05,305
 Oke, ini... Ini tidak seperti
 
 1247
-01:28:07,807 --> 01:28:09,408
+01:28:05,307 --> 01:28:06,908
 kita hanya menghidupkan mobil.
 
 1248
-01:28:09,410 --> 01:28:11,109
+01:28:06,910 --> 01:28:08,609
 Kita punya masalah lain.
 
 1249
-01:28:11,111 --> 01:28:13,677
+01:28:08,611 --> 01:28:11,177
 Sistem senjata kita
 rusak selama kecelakaan.
 
 1250
-01:28:13,679 --> 01:28:14,747
+01:28:11,179 --> 01:28:12,247
 Kita tidak bisa meluncurkan.
 
 1251
-01:28:14,749 --> 01:28:16,614
+01:28:12,249 --> 01:28:14,114
 Apakah bisa diperbaiki?
 
 1252
-01:28:16,616 --> 01:28:18,317
+01:28:14,116 --> 01:28:15,817
 Kurasa tidak.
 
 1253
-01:28:18,319 --> 01:28:21,886
+01:28:15,819 --> 01:28:19,386
 Baik. Bagaimana jika kita
 masuk ke dalam, mengatur timer,
 
 1254
-01:28:21,888 --> 01:28:23,555
+01:28:19,388 --> 01:28:21,055
 dan meledakkan hulu ledak secara manual?
 
 1255
-01:28:23,557 --> 01:28:27,426
+01:28:21,057 --> 01:28:24,926
 Tidak mungkin. Jika panasnya
 tidak menggorengmu maka radiasinya.
 
 1256
-01:28:30,932 --> 01:28:32,131
+01:28:28,432 --> 01:28:29,631
 Aku akan pergi.
 
 1257
-01:28:32,133 --> 01:28:33,732
+01:28:29,633 --> 01:28:31,232
 Apa artinya itu?
 
 1258
-01:28:33,734 --> 01:28:35,500
+01:28:31,234 --> 01:28:33,000
 Pasti ada cara lain.
 
 1259
-01:28:35,502 --> 01:28:37,071
+01:28:33,002 --> 01:28:34,571
 Tidak ada waktu untuk berdebat.
 
 1260
-01:28:38,472 --> 01:28:40,041
+01:28:35,972 --> 01:28:37,541
 Aku akan pergi.
 
 1261
-01:28:58,057 --> 01:28:59,926
+01:28:55,557 --> 01:28:57,426
 Argo, kita kehabisan amunisi
 
 1262
-01:28:59,928 --> 01:29:01,594
+01:28:57,428 --> 01:28:59,094
 <i>dan bahan bakar menipis. Kita tidak
 bisa mengatasi lebih dari ini!</i>
 
 1263
-01:29:01,596 --> 01:29:04,596
+01:28:59,096 --> 01:29:02,096
 Diterima, Diterima.
 Tahan saja selama kau bisa.
 
 1264
-01:29:04,598 --> 01:29:05,697
+01:29:02,098 --> 01:29:03,197
 Kolonel, lihat ini.
 
 1265
-01:29:05,699 --> 01:29:06,799
+01:29:03,199 --> 01:29:04,299
 Semua Titan telah berhenti.
 
 1266
-01:29:11,871 --> 01:29:14,305
+01:29:09,371 --> 01:29:11,805
 Apa yang terjadi dengan mereka sekarang?
 
 1267
-01:29:20,547 --> 01:29:22,747
+01:29:18,047 --> 01:29:20,247
 <i>Itu muncul seolah-olah serangan</i>
 
 1268
-01:29:22,749 --> 01:29:24,417
+01:29:20,249 --> 01:29:21,917
 <i>telah berhenti untuk saat ini,</i>
 
 1269
-01:29:24,419 --> 01:29:27,418
+01:29:21,919 --> 01:29:24,918
 <i>dengan makhluk yang berubah
 dari penghancur menjadi jinak</i>
 
 1270
-01:29:27,420 --> 01:29:28,820
+01:29:24,920 --> 01:29:26,320
 <i>dalam hitungan menit.</i>
 
 1271
-01:29:28,822 --> 01:29:30,921
+01:29:26,322 --> 01:29:28,421
 <i>Sekarang, tidak ada yang
 yakin bagaimana atau mengapa,</i>
 
 1272
-01:29:30,923 --> 01:29:33,492
+01:29:28,423 --> 01:29:30,992
 <i>tetapi ini tampaknya
 terjadi secara bersamaan</i>
 
 1273
-01:29:33,494 --> 01:29:35,359
+01:29:30,994 --> 01:29:32,859
 <i>di seluruh dunia.</i>
 
 1274
-01:29:37,263 --> 01:29:39,131
+01:29:34,763 --> 01:29:36,631
 Apa yang terjadi?
 
 1275
-01:29:39,133 --> 01:29:40,668
+01:29:36,633 --> 01:29:38,168
 ORCA.
 
 1276
-01:29:41,267 --> 01:29:43,134
+01:29:38,767 --> 01:29:40,634
 Apa?
 
 1277
-01:29:43,136 --> 01:29:45,906
+01:29:40,636 --> 01:29:43,406
 Aku bertanya-tanya siapa
 yang bisa melakukan ini.
 
 1278
-01:29:50,343 --> 01:29:52,112
+01:29:47,843 --> 01:29:49,612
 Maddie?
 
 1279
-01:29:59,786 --> 01:30:01,655
+01:29:57,286 --> 01:29:59,155
 Maddie.
 
 1280
-01:30:05,493 --> 01:30:07,659
+01:30:02,993 --> 01:30:05,159
 Kontak pertama, kau akan mulai
 
 1281
-01:30:07,661 --> 01:30:09,595
+01:30:05,161 --> 01:30:07,095
 kehilangan visi jangka panjangmu.
 
 1282
-01:30:09,597 --> 01:30:10,895
+01:30:07,097 --> 01:30:08,395
 Saat kau dipermukaan,
 
 1283
-01:30:10,897 --> 01:30:12,296
+01:30:08,397 --> 01:30:09,796
 keterampilan motorikmu
 akan mulai memudar,
 
 1284
-01:30:12,298 --> 01:30:14,500
+01:30:09,798 --> 01:30:12,000
 tapi aku memasukkan campuran
 helium ke dalam tangki,
 
 1285
-01:30:14,502 --> 01:30:18,339
+01:30:12,002 --> 01:30:15,839
 yang akan membantumu tetap
 stabil sedikit lebih lama.
 
 1286
-01:30:19,807 --> 01:30:22,377
+01:30:17,307 --> 01:30:19,877
 Itu suatu kehormatan, kawan.
 
 1287
-01:30:36,656 --> 01:30:38,392
+01:30:34,156 --> 01:30:35,892
 Terima kasih.
 
 1288
-01:30:42,829 --> 01:30:44,698
+01:30:40,329 --> 01:30:42,198
 Catatanku.
 
 1289
-01:30:47,267 --> 01:30:48,935
+01:30:44,767 --> 01:30:46,435
 Apakah kau yakin?
 
 1290
-01:30:50,605 --> 01:30:53,338
+01:30:48,105 --> 01:30:50,838
 Dia berjuang untuk kita, mati untuk kita.
 
 1291
-01:30:53,340 --> 01:30:57,445
+01:30:50,840 --> 01:30:54,945
 Dia bukan hanya bukti bahwa
 hidup berdampingan itu mungkin.
 
 1292
-01:30:58,913 --> 01:31:02,215
+01:30:56,413 --> 01:30:59,715
 Dia adalah kunci untuk itu.
 
 1293
-01:31:04,985 --> 01:31:08,089
+01:31:02,485 --> 01:31:05,589
 Jaga mereka, Mark.
 
 1294
-01:32:10,551 --> 01:32:13,484
+01:32:08,051 --> 01:32:10,984
 Bowman, bawa kita keluar, cepat.
 
 1295
-01:32:13,486 --> 01:32:15,123
+01:32:10,986 --> 01:32:12,623
 Siap, Kapten.
 
 1296
-01:32:17,490 --> 01:32:19,793
+01:32:14,990 --> 01:32:17,293
 Dia aman.
 
 1297
-01:35:12,266 --> 01:35:13,898
+01:35:09,766 --> 01:35:11,398
 Kau baik-baik saja?
 
 1298
-01:35:13,900 --> 01:35:17,202
+01:35:11,400 --> 01:35:14,702
 Bowman, kirim pesan bahaya ke Argo.
 
 1299
-01:35:17,204 --> 01:35:19,240
+01:35:14,704 --> 01:35:16,740
 Siap, Kapten.
 
 1300
-01:35:36,656 --> 01:35:38,692
+01:35:34,156 --> 01:35:36,192
 Melihat sesuatu?
 
 1301
-01:36:45,892 --> 01:36:47,495
+01:36:43,392 --> 01:36:44,995
 Jangan ada yang bergerak!
 
 1302
-01:37:24,397 --> 01:37:26,799
+01:37:21,897 --> 01:37:24,299
 Apakah kau baik-baik saja?
 
 1303
-01:37:26,801 --> 01:37:28,399
+01:37:24,301 --> 01:37:25,899
 Aku tahu cara menemukan mereka.
 
 1304
-01:37:33,973 --> 01:37:37,308
+01:37:31,473 --> 01:37:34,808
 Aku tahu cara menemukan mereka!
 
 1305
-01:37:37,310 --> 01:37:39,612
+01:37:34,810 --> 01:37:37,112
 Mari kita membuatnya bangga
 dan tidak mengacaukannya.
 
 1306
-01:37:41,815 --> 01:37:42,948
+01:37:39,315 --> 01:37:40,448
 Bagaimana dia, eh...
 
 1307
-01:37:42,950 --> 01:37:44,251
+01:37:40,450 --> 01:37:41,751
 Dengan menyelamatkan kita.
 
 1308
-01:37:47,387 --> 01:37:48,753
+01:37:44,887 --> 01:37:46,253
 Sam, apa yang terjadi?
 
 1309
-01:37:48,755 --> 01:37:50,788
+01:37:46,255 --> 01:37:48,288
 Kami pikir Emma mengaktifkan ORCA
 
 1310
-01:37:50,790 --> 01:37:51,857
+01:37:48,290 --> 01:37:49,357
 di suatu tempat dekat Boston.
 
 1311
-01:37:51,859 --> 01:37:53,257
+01:37:49,359 --> 01:37:50,757
 Itu sebabnya Ghidorah dan Godzilla
 
 1312
-01:37:53,259 --> 01:37:54,926
+01:37:50,759 --> 01:37:52,426
 keduanya menuju ke sana sekarang.
 
 1313
-01:37:54,928 --> 01:37:56,827
+01:37:52,428 --> 01:37:54,327
 Tapi kami belum dapat
 menentukan lokasi yang tepat
 
 1314
-01:37:56,829 --> 01:37:58,930
+01:37:54,329 --> 01:37:56,430
 tanpa bagian sinyal ORCA yang hilang.
 
 1315
-01:37:58,932 --> 01:38:00,599
+01:37:56,432 --> 01:37:58,099
 Aku menemukan bagian yang hilang.
 
 1316
-01:38:00,601 --> 01:38:02,634
+01:37:58,101 --> 01:38:00,134
 Itu adalah Godzilla, kan?
 
 1317
-01:38:02,636 --> 01:38:04,472
+01:38:00,136 --> 01:38:01,972
 - Aku tahu kami sudah mencoba.
 - Ini bukan Godzilla.
 
 1318
-01:38:05,239 --> 01:38:06,371
+01:38:02,739 --> 01:38:03,871
 Itu kita.
 
 1319
-01:38:06,373 --> 01:38:08,072
+01:38:03,873 --> 01:38:05,572
 Apa maksudmu "kita"?
 
 1320
-01:38:08,074 --> 01:38:10,341
+01:38:05,574 --> 01:38:07,841
 Emma menggabungkan bioakustik
 dari Godzilla dengan manusia.
 
 1321
-01:38:10,343 --> 01:38:12,143
+01:38:07,843 --> 01:38:09,643
 Begitulah cara dia
 membuat sinyal untuk ORCA.
 
 1322
-01:38:12,145 --> 01:38:14,246
+01:38:09,645 --> 01:38:11,746
 Makhluk-makhluk hanya berpikir
 itu adalah predator puncak lainnya.
 
 1323
-01:38:14,248 --> 01:38:15,814
+01:38:11,748 --> 01:38:13,314
 Yah, itu masuk akal.
 
 1324
-01:38:15,816 --> 01:38:17,282
+01:38:13,316 --> 01:38:14,782
 Maksudku, kita adalah sekelompok
 karnivora pembunuh yang terangsang.
 
 1325
-01:38:17,284 --> 01:38:18,916
+01:38:14,784 --> 01:38:16,416
 Ya, itu benar-benar
 puitis. Sekarang apa?
 
 1326
-01:38:18,918 --> 01:38:22,052
+01:38:16,418 --> 01:38:19,552
 Kita melacaknya, kita menemukannya,
 dan kita mendapatkan putriku kembali.
 
 1327
-01:38:22,054 --> 01:38:25,489
+01:38:19,554 --> 01:38:22,989
 Bagaimana dengan Moe,
 Larry, dan Curly di sini?
 
 1328
-01:38:25,491 --> 01:38:27,458
+01:38:22,991 --> 01:38:24,958
 Godzilla akan membawa keseimbangan.
 
 1329
-01:38:27,460 --> 01:38:31,262
+01:38:24,960 --> 01:38:28,762
 Oh, aku mengerti. Serizawa
 membiarkan mereka bertarung.
 
 1330
-01:38:31,264 --> 01:38:33,431
+01:38:28,764 --> 01:38:30,931
 Aku dulu suka ketika dia mengatakan itu.
 
 1331
-01:38:33,433 --> 01:38:36,268
+01:38:30,933 --> 01:38:33,768
 Tidak. Kali ini,
 kita ikut dalam pertarungan.
 
 1332
-01:38:40,106 --> 01:38:41,538
+01:38:37,606 --> 01:38:39,038
 Apa yang kau lakukan?
 
 1333
-01:38:41,540 --> 01:38:43,073
+01:38:39,040 --> 01:38:40,573
 Aku tidak punya waktu
 untuk berdebat tentang ini, Jonah.
 
 1334
-01:38:43,075 --> 01:38:44,141
+01:38:40,575 --> 01:38:41,641
 Aku akan mendapatkan Maddie kembali.
 
 1335
-01:38:44,143 --> 01:38:46,110
+01:38:41,643 --> 01:38:43,610
 Tidak dengan anak buahku, kalian tidak.
 
 1336
-01:38:46,112 --> 01:38:48,613
+01:38:43,612 --> 01:38:46,113
 Emma, ​​kau mengatakan ini
 tentang kebaikan yang lebih besar.
 
 1337
-01:38:48,615 --> 01:38:52,016
+01:38:46,115 --> 01:38:49,516
 Bahwa planet ini layak
 mendapatkan batu tulis yang bersih.
 
 1338
-01:38:52,018 --> 01:38:53,251
+01:38:49,518 --> 01:38:50,751
 Tapi sekarang kau sudah siap
 
 1339
-01:38:53,253 --> 01:38:54,519
+01:38:50,753 --> 01:38:52,019
 untuk menempatkan seluruh
 hidup kita dalam bahaya
 
 1340
-01:38:54,521 --> 01:38:55,554
+01:38:52,021 --> 01:38:53,054
 karena gadis kecilmu hilang.
 
 1341
-01:38:55,556 --> 01:38:56,787
+01:38:53,056 --> 01:38:54,287
 ORCA dengan...
 
 1342
-01:38:56,789 --> 01:38:58,390
+01:38:54,289 --> 01:38:55,890
 ORCA tidak lagi penting.
 
 1343
-01:38:58,392 --> 01:39:01,228
+01:38:55,892 --> 01:38:58,728
 Manusia tidak mengendalikan hukum alam.
 
 1344
-01:39:02,195 --> 01:39:03,897
+01:38:59,695 --> 01:39:01,397
 Dan kau juga tidak.
 
 1345
-01:39:13,507 --> 01:39:18,877
+01:39:11,007 --> 01:39:16,377
 Aku sudah kehilangan satu anak.
 Aku tidak akan kehilangan yang lain.
 
 1346
-01:39:18,879 --> 01:39:20,881
+01:39:16,379 --> 01:39:18,381
 Aku harus memperbaikinya.
 
 1347
-01:39:21,880 --> 01:39:23,350
+01:39:19,380 --> 01:39:20,850
 Biarkan dia pergi.
 
 1348
-01:39:25,185 --> 01:39:27,388
+01:39:22,685 --> 01:39:24,888
 Kita punya semua yang kita butuhkan.
 
 1349
-01:39:29,500 --> 01:39:40,487
+01:39:27,000 --> 01:39:37,987
 <font color="#80ff80">Terjemahan oleh</font>
 <b>≡ <font color="#ff0000">Jack'D</font>22 ≡</b>
 
 1350
-01:41:29,042 --> 01:41:30,678
+01:41:26,542 --> 01:41:28,178
 Oh, sial!
 
 1351
-01:43:00,532 --> 01:43:02,833
+01:42:58,032 --> 01:43:00,333
 Oke, kami memusatkan perhatian
 pada ping terakhir dari ORCA.
 
 1352
-01:43:02,835 --> 01:43:04,502
+01:43:00,335 --> 01:43:02,002
 Fenway Park, ada di depan.
 
 1353
-01:43:04,504 --> 01:43:05,804
+01:43:02,004 --> 01:43:03,304
 <i>Kami akan melepaskan tembakan
 agar Ghidorah terganggu.</i>
 
 1354
-01:43:05,806 --> 01:43:07,508
+01:43:03,306 --> 01:43:05,008
 Dimengerti.
 
 1355
-01:43:09,743 --> 01:43:12,012
+01:43:07,243 --> 01:43:09,512
 Kolonel, semua skuadron
 mengunci sasaran.
 
 1356
-01:43:12,980 --> 01:43:15,182
+01:43:10,480 --> 01:43:12,682
 Untuk Serizawa.
 
 1357
-01:43:49,115 --> 01:43:51,783
+01:43:46,615 --> 01:43:49,283
 Apakah hanya aku
 atau dia yang berusaha?
 
 1358
-01:43:51,785 --> 01:43:53,952
+01:43:49,285 --> 01:43:51,452
 Apakah kau bercanda?
 
 1359
-01:43:53,954 --> 01:43:55,418
+01:43:51,454 --> 01:43:52,918
 Serizawa membuat
 kadal itu dijus!
 
 1360
-01:43:55,420 --> 01:43:56,988
+01:43:52,920 --> 01:43:54,488
 Benar sekali.
 
 1361
-01:43:58,258 --> 01:44:00,690
+01:43:55,758 --> 01:43:58,190
 Astaga. Tingkat radiasi Godzilla...
 
 1362
-01:44:00,692 --> 01:44:02,327
+01:43:58,192 --> 01:43:59,827
 ...sangat tinggi.
 
 1363
-01:44:02,329 --> 01:44:04,862
+01:43:59,829 --> 01:44:02,362
 Kita punya sekitar 12 menit
 sebelum dia menjadi termonuklir.
 
 1364
-01:44:04,864 --> 01:44:06,467
+01:44:02,364 --> 01:44:03,967
 Apa maksudmu?
 
 1365
-01:44:07,933 --> 01:44:09,400
+01:44:05,433 --> 01:44:06,900
 Aku katakan sekitar 12 menit,
 
 1366
-01:44:09,402 --> 01:44:11,702
+01:44:06,902 --> 01:44:09,202
 ini akan menjadi hari yang buruk
 untuk jadi penggemar Red Sox.
 
 1367
-01:44:13,106 --> 01:44:14,872
+01:44:10,606 --> 01:44:12,372
 Oke, teman-teman,
 kalian perlu menemukan ORCA,
 
 1368
-01:44:14,874 --> 01:44:16,707
+01:44:12,374 --> 01:44:14,207
 temukann Madison, dan keluar sana.
 
 1369
-01:44:16,709 --> 01:44:18,342
+01:44:14,209 --> 01:44:15,842
 <i>Apapun yang Serizawa
 lakukan pada Godzilla</i>
 
 1370
-01:44:18,344 --> 01:44:19,978
+01:44:15,844 --> 01:44:17,478
 <i>bekerja lumayan baik.</i>
 
 1371
-01:44:19,980 --> 01:44:21,712
+01:44:17,480 --> 01:44:19,212
 <i>Karena dia akan
 meledak seperti bom atom.</i>
 
 1372
-01:44:21,714 --> 01:44:22,913
+01:44:19,214 --> 01:44:20,413
 Diterima.
 
 1373
-01:44:22,915 --> 01:44:24,584
+01:44:20,415 --> 01:44:22,084
 Bersiap untuk pendaratan.
 
 1374
-01:44:45,672 --> 01:44:47,872
+01:44:43,172 --> 01:44:45,372
 Pergi, pergi, pergi!
 
 1375
-01:44:47,874 --> 01:44:50,308
+01:44:45,374 --> 01:44:47,808
 - Menyebar!
 - Sisi kiri!
 
 1376
-01:44:50,310 --> 01:44:51,512
+01:44:47,810 --> 01:44:49,012
 <i>Ikuti aku!</i>
 
 1377
-01:45:01,420 --> 01:45:03,824
+01:44:58,920 --> 01:45:01,324
 Madison!
 
 1378
-01:45:05,792 --> 01:45:08,262
+01:45:03,292 --> 01:45:05,762
 Aku menemukan sesuatu! Disini.
 
 1379
-01:45:09,262 --> 01:45:10,597
+01:45:06,762 --> 01:45:08,097
 Ayo lihat ini!
 
 1380
-01:45:13,298 --> 01:45:14,965
+01:45:10,798 --> 01:45:12,465
 Apakah kau baik-baik saja?
 
 1381
-01:45:14,967 --> 01:45:18,735
+01:45:12,467 --> 01:45:16,235
 Aku menemukan ORCA, pak,
 kelihatannya sangat kacau!
 
 1382
-01:45:18,737 --> 01:45:20,540
+01:45:16,237 --> 01:45:18,040
 Tidak ada tanda-tanda dari putrimu.
 
 1383
-01:45:26,846 --> 01:45:28,311
+01:45:24,346 --> 01:45:25,811
 Dia tidak di sini!
 
 1384
-01:45:28,313 --> 01:45:29,613
+01:45:25,813 --> 01:45:27,113
 Kita harus keluar dari sini!
 
 1385
-01:45:29,615 --> 01:45:30,816
+01:45:27,115 --> 01:45:28,316
 Ayo pergi!
 
 1386
-01:46:46,226 --> 01:46:47,227
+01:46:43,726 --> 01:46:44,727
 Masuk!
 
 1387
-01:46:49,728 --> 01:46:51,429
+01:46:47,228 --> 01:46:48,929
 Ada yang datang!
 
 1388
-01:46:53,834 --> 01:46:54,899
+01:46:51,334 --> 01:46:52,399
 Masuk!
 
 1389
-01:46:54,901 --> 01:46:57,134
+01:46:52,401 --> 01:46:54,634
 Griffin, kau baik-baik saja?
 
 1390
-01:46:57,136 --> 01:46:58,603
+01:46:54,636 --> 01:46:56,103
 Martinez, ayo bangunkan dia.
 
 1391
-01:47:07,547 --> 01:47:08,845
+01:47:05,047 --> 01:47:06,345
 Dimana Madison?
 
 1392
-01:47:08,847 --> 01:47:09,880
+01:47:06,347 --> 01:47:07,380
 Aku tidak tahu. Kupikir dia ada di sana!
 
 1393
-01:47:09,882 --> 01:47:11,118
+01:47:07,382 --> 01:47:08,618
 Yah, dia tidak ada di sana!
 
 1394
-01:47:13,620 --> 01:47:14,818
+01:47:11,120 --> 01:47:12,318
 Tenanglah!
 
 1395
-01:47:14,820 --> 01:47:16,889
+01:47:12,320 --> 01:47:14,389
 - Di sisi itu.
 - Baiklah, baiklah.
 
 1396
-01:47:18,924 --> 01:47:20,293
+01:47:16,424 --> 01:47:17,793
 Awas!
 
 1397
-01:47:22,395 --> 01:47:23,728
+01:47:19,895 --> 01:47:21,228
 Aku harap kau sama baiknya
 
 1398
-01:47:23,730 --> 01:47:24,996
+01:47:21,230 --> 01:47:22,496
 menemukan dia saat kau kehilangan dia.
 
 1399
-01:47:24,998 --> 01:47:26,698
+01:47:22,498 --> 01:47:24,198
 Aku tidak kehilangan dia, dia lari.
 
 1400
-01:47:26,700 --> 01:47:27,765
+01:47:24,200 --> 01:47:25,265
 Ya ampun, aku heran kenapa!
 
 1401
-01:47:27,767 --> 01:47:29,000
+01:47:25,267 --> 01:47:26,500
 Aku tidak bisa menyalahkan anak itu.
 
 1402
-01:47:29,002 --> 01:47:30,667
+01:47:26,502 --> 01:47:28,167
 Jika aku memiliki dua
 orang ini untuk jadi orang tua,
 
 1403
-01:47:30,669 --> 01:47:32,138
+01:47:28,169 --> 01:47:29,638
 aku akan lari dari rumah juga.
 
 1404
-01:47:35,641 --> 01:47:36,974
+01:47:33,141 --> 01:47:34,474
 Apa yang baru saja kau katakan?
 
 1405
-01:47:36,976 --> 01:47:38,775
+01:47:34,476 --> 01:47:36,275
 Jika aku memiliki kalian
 berdua untuk jadi orang tua,
 
 1406
-01:47:38,777 --> 01:47:40,446
+01:47:36,277 --> 01:47:37,946
 aku akan lari dari rumah juga.
 
 1407
-01:47:41,713 --> 01:47:42,779
+01:47:39,213 --> 01:47:40,279
 Rumah.
 
 1408
-01:48:55,387 --> 01:48:58,154
+01:48:52,887 --> 01:48:55,654
 Radiasi Godzilla
 mencapai massa kritis.
 
 1409
-01:48:58,156 --> 01:49:00,091
+01:48:55,656 --> 01:48:57,591
 Enam menit sampai dia meledak.
 
 1410
-01:49:00,093 --> 01:49:02,028
+01:48:57,593 --> 01:48:59,528
 Perintahkan semua pesawat
 yang tersisa untuk mundur!
 
 1411
-01:50:13,266 --> 01:50:15,067
+01:50:10,766 --> 01:50:12,567
 Maddie!
 
 1412
-01:50:15,901 --> 01:50:17,335
+01:50:13,401 --> 01:50:14,835
 Madison!
 
 1413
-01:50:17,337 --> 01:50:19,537
+01:50:14,837 --> 01:50:17,037
 Maddie!
 
 1414
-01:50:19,539 --> 01:50:21,305
+01:50:17,039 --> 01:50:18,805
 Madison!
 
 1415
-01:50:21,307 --> 01:50:23,506
+01:50:18,807 --> 01:50:21,006
 Madison!
 
 1416
-01:50:23,508 --> 01:50:25,911
+01:50:21,008 --> 01:50:23,411
 Madison!
 
 1417
-01:50:29,514 --> 01:50:30,584
+01:50:27,014 --> 01:50:28,084
 Emma!
 
 1418
-01:50:31,785 --> 01:50:32,850
+01:50:29,285 --> 01:50:30,350
 Maddie!
 
 1419
-01:50:32,852 --> 01:50:33,917
+01:50:30,352 --> 01:50:31,417
 Martinez!
 
 1420
-01:50:33,919 --> 01:50:36,019
+01:50:31,419 --> 01:50:33,519
 Kami memegangnya. Pada hitungan tiga.
 
 1421
-01:50:36,021 --> 01:50:37,958
+01:50:33,521 --> 01:50:35,458
 Satu, dua, tiga...
 
 1422
-01:50:39,959 --> 01:50:41,328
+01:50:37,459 --> 01:50:38,828
 Angkat bersama.
 
 1423
-01:50:56,543 --> 01:50:58,277
+01:50:54,043 --> 01:50:55,777
 Oh, sayangku.
 
 1424
-01:50:59,111 --> 01:51:00,744
+01:50:56,611 --> 01:50:58,244
 Apakah dia bernafas?
 
 1425
-01:51:00,746 --> 01:51:02,113
+01:50:58,246 --> 01:50:59,613
 Mark, apakah dia bernafas?
 
 1426
-01:51:02,115 --> 01:51:03,316
+01:50:59,615 --> 01:51:00,816
 Maddie.
 
 1427
-01:51:08,088 --> 01:51:09,422
+01:51:05,588 --> 01:51:06,922
 Maddie.
 
 1428
-01:51:11,924 --> 01:51:13,123
+01:51:09,424 --> 01:51:10,623
 Maddie.
 
 1429
-01:51:13,125 --> 01:51:14,725
+01:51:10,625 --> 01:51:12,225
 Ibu.
 
 1430
-01:51:14,727 --> 01:51:16,961
+01:51:12,227 --> 01:51:14,461
 - Ayah.
 - Sst.
 
 1431
-01:51:16,963 --> 01:51:19,266
+01:51:14,463 --> 01:51:16,766
 - Ibu. Ibu
 - Kami di sini.
 
 1432
-01:53:11,075 --> 01:53:12,377
+01:53:08,575 --> 01:53:09,877
 Diterima.
 
 1433
-01:53:12,379 --> 01:53:13,877
+01:53:09,879 --> 01:53:11,377
 Pesawat akan datang
 dalam dua menit.
 
 1434
-01:53:13,879 --> 01:53:16,179
+01:53:11,379 --> 01:53:13,679
 Kita harus bekerja cepat.
 
 1435
-01:53:16,181 --> 01:53:17,584
+01:53:13,681 --> 01:53:15,084
 Melakukan apa?
 
 1436
-01:53:20,386 --> 01:53:21,652
+01:53:17,886 --> 01:53:19,152
 Kau yakin tentang ini?
 
 1437
-01:53:21,654 --> 01:53:23,386
+01:53:19,154 --> 01:53:20,886
 Ini satu-satunya cara untuk menyelamatkannya.
 
 1438
-01:53:23,388 --> 01:53:25,088
+01:53:20,888 --> 01:53:22,588
 Kita memperbaikinya, naik ke pesawat,
 
 1439
-01:53:25,090 --> 01:53:26,690
+01:53:22,590 --> 01:53:24,190
 dan menarik makhluk itu dari Godzilla.
 
 1440
-01:53:26,692 --> 01:53:28,727
+01:53:24,192 --> 01:53:26,227
 Beri dia waktu untuk bangkit kembali.
 
 1441
-01:53:40,139 --> 01:53:41,805
+01:53:37,639 --> 01:53:39,305
 Mark, kau sudah melihat
 apa yang bisa dilakukan makhluk itu.
 
 1442
-01:53:41,807 --> 01:53:44,610
+01:53:39,307 --> 01:53:42,110
 Aku tahu. Ini akan sulit,
 tetapi kita harus mengambil kesempatan itu.
 
 1443
-01:53:51,484 --> 01:53:52,750
+01:53:48,984 --> 01:53:50,250
 Apakah kau baik untuk pergi?
 
 1444
-01:53:52,752 --> 01:53:53,818
+01:53:50,252 --> 01:53:51,318
 Ya.
 
 1445
-01:53:53,820 --> 01:53:55,652
+01:53:51,320 --> 01:53:53,152
 Baiklah. Satu, dua...
 
 1446
-01:53:55,654 --> 01:53:56,720
+01:53:53,154 --> 01:53:54,220
 ...tiga.
 
 1447
-01:54:00,692 --> 01:54:01,891
+01:53:58,192 --> 01:53:59,391
 Itu dia.
 
 1448
-01:54:01,893 --> 01:54:03,060
+01:53:59,393 --> 01:54:00,560
 Itu dia!
 
 1449
-01:54:08,933 --> 01:54:10,536
+01:54:06,433 --> 01:54:08,036
 Ayo, Griff. Kami memegangmu.
 
 1450
-01:54:13,204 --> 01:54:14,872
+01:54:10,704 --> 01:54:12,372
 Ayo, Emma. Ayo pergi.
 
 1451
-01:54:14,874 --> 01:54:16,206
+01:54:12,374 --> 01:54:13,706
 Baik. Bawa dia. Bawa dia!
 
 1452
-01:54:16,208 --> 01:54:17,640
+01:54:13,708 --> 01:54:15,140
 Aku masih harus mengaktifkannya.
 
 1453
-01:54:17,642 --> 01:54:18,509
+01:54:15,142 --> 01:54:16,009
 Apa?
 
 1454
-01:54:18,511 --> 01:54:20,146
+01:54:16,011 --> 01:54:17,646
 Aku akan menyusulmu. Pergi!
 
 1455
-01:54:32,958 --> 01:54:34,391
+01:54:30,458 --> 01:54:31,891
 Ayo, ayo!
 
 1456
-01:54:34,393 --> 01:54:35,594
+01:54:31,893 --> 01:54:33,094
 Bu!
 
 1457
-01:54:36,862 --> 01:54:37,927
+01:54:34,362 --> 01:54:35,427
 Bu!
 
 1458
-01:54:37,929 --> 01:54:39,363
+01:54:35,429 --> 01:54:36,863
 Ayo, Maddie!
 
 1459
-01:54:39,365 --> 01:54:41,367
+01:54:36,865 --> 01:54:38,867
 Pergi, pergi, pergi!
 
 1460
-01:54:45,404 --> 01:54:47,104
+01:54:42,904 --> 01:54:44,604
 Kau merasakan sakit di
 mana saja selain kakimu?
 
 1461
-01:54:54,079 --> 01:54:55,177
+01:54:51,579 --> 01:54:52,677
 Kita harus pergi, sekarang!
 
 1462
-01:54:55,179 --> 01:54:56,615
+01:54:52,679 --> 01:54:54,115
 Tunggu!
 
 1463
-01:55:06,258 --> 01:55:08,192
+01:55:03,758 --> 01:55:05,692
 Emma, ​​ayo pergi!
 Ayolah!
 
 1464
-01:55:08,194 --> 01:55:09,562
+01:55:05,694 --> 01:55:07,062
 Bu!
 
 1465
-01:55:18,204 --> 01:55:19,539
+01:55:15,704 --> 01:55:17,039
 Ibu.
 
 1466
-01:55:20,371 --> 01:55:22,038
+01:55:17,871 --> 01:55:19,538
 Ibu menyayangimu.
 
 1467
-01:55:22,040 --> 01:55:24,143
+01:55:19,540 --> 01:55:21,643
 Tidak.
 
 1468
-01:55:25,244 --> 01:55:27,144
+01:55:22,744 --> 01:55:24,644
 - Tidak!
 - Emma!
 
 1469
-01:55:27,146 --> 01:55:29,445
+01:55:24,646 --> 01:55:26,945
 Bu!
 
 1470
-01:56:06,017 --> 01:56:07,219
+01:56:03,517 --> 01:56:04,719
 Tidak.
 
 1471
-01:56:09,054 --> 01:56:10,255
+01:56:06,554 --> 01:56:07,755
 Tidak.
 
 1472
-01:56:27,873 --> 01:56:30,410
+01:56:25,373 --> 01:56:27,910
 Ibu!
 
 1473
-01:56:56,401 --> 01:56:59,938
+01:56:53,901 --> 01:56:57,438
 Panjang umur raja.
 
 1474
-01:59:18,043 --> 01:59:20,342
+01:59:15,543 --> 01:59:17,842
 Astaga.
 
 1475
-01:59:20,344 --> 01:59:22,512
+01:59:17,844 --> 01:59:20,012
 Untung dia ada di pihak kita.
 
 1476
-01:59:22,514 --> 01:59:24,450
+01:59:20,014 --> 01:59:21,950
 Untuk saat ini.
 
 1477
-01:59:25,984 --> 01:59:27,152
+01:59:23,484 --> 01:59:24,652
 Lihat.
 
 1478
-02:00:13,500 --> 02:00:24,487
+02:00:11,000 --> 02:00:21,987
 <font color="#00ffff"><b>JANGAN BERANJAK DULU!!!
 MASIH BERLANJUT SETELAH KREDIT.</b></font>
 
 1479
-02:00:26,500 --> 02:00:37,489
+02:00:24,000 --> 02:00:34,989
 == <font color="#ff8000"><b>Holland,  Juli 2019</b></font> ==
 
 1480
-02:00:38,500 --> 02:00:49,489
+02:00:36,000 --> 02:00:46,989
 <b><font color="#ff0000">https://</font><font color="#ffff00">subscene.com/u/</font><font color="#00ff40">1196286</font></b>
 <font color="#0080ff"><b>"SUPPORT DENGAN BERI RATE"</b></font></font>
 
 1481
-02:00:50,500 --> 02:01:01,489
+02:00:48,000 --> 02:00:58,989
 <font color="#80ff80">Terjemahan oleh</font>
 <b>≡ <font color="#ff0000">Jack'D</font>22 ≡</b>
 
 1482
-02:01:02,500 --> 02:01:13,489
+02:01:00,000 --> 02:01:10,989
 <font color="#80ffff">Request sub berbayar & Bisnis :</font>
 <b><i><font color="#ff0080">jcsub77@gmail.com</font></i></b>
 
 1483
-02:01:14,500 --> 02:01:25,489
+02:01:12,000 --> 02:01:22,989
 <font color="#ffff00"><b>==No Reupload & Resync==</b></font>
 <font color="#80ff80"><b>Please Don't Delete Credit !!!</b></font>
 
 1484
-02:10:35,800 --> 02:10:40,500
+02:10:33,300 --> 02:10:38,000
 {\an1}<font color="#00ff00"><b>ISLA DE MARA</b></font>
 
 1485
-02:10:41,826 --> 02:10:44,260
+02:10:39,326 --> 02:10:41,760
 Ini adalah dunia baru yang
 berani, temanku.
 
 1486
-02:10:44,262 --> 02:10:45,828
+02:10:41,762 --> 02:10:43,328
 Hal-hal seperti ini
 
 1487
-02:10:45,830 --> 02:10:49,299
+02:10:43,330 --> 02:10:46,799
 menjadi jauh lebih berharga
 sejak kebangkitan raja.
 
 1488
-02:10:49,301 --> 02:10:51,067
+02:10:46,801 --> 02:10:48,567
 Anak buahku, mereka tidak meminta banyak.
 
 1489
-02:10:51,069 --> 02:10:53,068
+02:10:48,569 --> 02:10:50,568
 Tidak bisa memancing di sini lagi.
 
 1490
-02:10:53,070 --> 02:10:54,806
+02:10:50,570 --> 02:10:52,306
 Semuanya mati.
 
 1491
-02:11:28,205 --> 02:11:30,409
+02:11:25,705 --> 02:11:27,909
 Kami akan mengambilnya.
 
 1492
-02:11:30,500 --> 02:11:33,989
+02:11:28,500 --> 02:11:33,989
 <font color="#ffff80">Terima kasih (^_^)</font>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -8203,7 +7375,268 @@ Kami akan mengambilnya.
 
 1493
 02:59:44,000 --> 03:00:00,999
-Copyright Jack'D22 sub
+Copyright Jack'D22 sub 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9553,8 +8986,8 @@ Copyright Jack'D22 sub
 
 1494
 03:59:44,000 --> 04:00:00,999
-C o p y r i g h t
-J a c k ' D 2 2 s u b
+C o p y r i g h t 
+J a c k ' D 2 2 s u b 
 
 
 
@@ -10593,314 +10026,6 @@ J a c k ' D 2 2 s u b
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-					
-		
-				
-		
 
 
 
